@@ -1,0 +1,1264 @@
+[
+  {
+    "id": "esau",
+    "parentId": "isaac",
+    "name": "Esau (Edom / al-'Is)",
+    "nativeNames": "עֵשָׂו · אֱדוֹם · العيص / عيسو",
+    "kind": "patriarch",
+    "branch": "esau",
+    "era": "Patriarchal Age",
+    "region": "sinai-negev-edom",
+    "territory": "Southern Canaan & Mount Seir (Transjordan / Arabah)",
+    "mother": "Rebekah",
+    "consorts": [
+      "Adah daughter of Elon the Hittite",
+      "Mahalath / Basemath daughter of Ishmael",
+      "Oholibamah daughter of Anah (Hivite/Horite of Seir)"
+    ],
+    "cardRole": "Elder Twin of Isaac · Progenitor of Edom",
+    "summary": "Elder twin son of Isaac and Rebekah who migrated to Mount Seir and fathered the Edomite and Amalekite clans.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Edom & Idumaea",
+      "detail": "Continues through Edom's highland chieftaincies, the Iron Age Kingdom of Edom, Kenizzite Judah, Amalek, and Hellenistic-Roman Idumaea."
+    },
+    "geo": {
+      "lat": 30.55,
+      "lng": 35.48,
+      "rxKm": 135,
+      "ryKm": 75,
+      "angle": -72,
+      "sites": [
+        { "name": "Mount Seir", "lat": 30.55, "lng": 35.48 },
+        { "name": "Bozrah (Buseirah)", "lat": 30.739, "lng": 35.606 }
+      ]
+    },
+    "history": [
+      "Born red and hairy ahead of his twin brother Jacob (Genesis 25:25), Esau became a hunter of the southern steppe and received the second name Edom (\"Red\"). After reconciling with Jacob upon Jacob's return from Harran (Genesis 33), Esau moved his households, herds, and retainers southeastward into the rugged sandstone mountains of Seir east of the Wadi Arabah (Genesis 36:6-8).",
+      "Genesis 36 preserves a detailed tribal charter mapping how Esau's marriages united three regional populations into the Edomite nation: Canaanite/Hittite through Adah (mother of Eliphaz), North Arabian Ishmaelite through Mahalath/Basemath daughter of Ishmael (mother of Reuel), and indigenous Seirite Hivite/Horite through Oholibamah daughter of Anah son of Zibeon (mother of Jeush, Jaalam, and Korah; note an earlier narrative list in Genesis 26:34 and 28:9 names Hittite wives Judith and Basemath alongside Mahalath). In classical Arab historiography such as al-Tabari, he appears as al-'Is ibn Ishaq."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Classical Historians",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "mahalath",
+        "relation": "Ishmaelite cousin and wife (Gen 28:9; 36:3)."
+      },
+      {
+        "id": "jacob",
+        "relation": "Twin brother with whom he divided Canaan and Seir."
+      },
+      {
+        "id": "edom-idumaea",
+        "relation": "Iron Age kingdom formed by Esau's confederated clans."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:1-43 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.1-43",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:35-37 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.35-37",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Esau (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Esau",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "edom-idumaea",
+    "parentId": "esau",
+    "name": "Kingdom of Edom (Udumu)",
+    "nativeNames": "אֱדוֹם · קוֹס · Udumu",
+    "kind": "people",
+    "branch": "esau",
+    "era": "c. 13th-6th c. BCE",
+    "region": "sinai-negev-edom",
+    "territory": "Mount Seir (Buseirah, Tawilan & Petra), Wadi Faynan & Eastern Negev",
+    "cardRole": "Transjordanian Copper & Caravan Monarchy",
+    "summary": "Iron Age kingdom in southern Jordan attested in Egyptian papyri, Assyrian annals, and royal Qos seals.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Idumaea",
+      "detail": "Conquered by Babylonian king Nabonidus in 553/552 BCE; as Nabataeans settled Petra and Seir, western Edomites formed Hellenistic-Roman Idumaea."
+    },
+    "geo": {
+      "lat": 30.52,
+      "lng": 35.53,
+      "rxKm": 115,
+      "ryKm": 58,
+      "angle": -74,
+      "sites": [
+        { "name": "Bozrah (Buseirah)", "lat": 30.739, "lng": 35.606 },
+        { "name": "Khirbet en-Nahas (Wadi Faynan)", "lat": 30.681, "lng": 35.437 },
+        { "name": "Umm el-Biyara / Sela", "lat": 30.329, "lng": 35.44 },
+        { "name": "Horvat Qitmit", "lat": 31.162, "lng": 35.059 }
+      ]
+    },
+    "history": [
+      "Edom first appears outside scripture in late thirteenth- or early twelfth-century BCE Egyptian Papyrus Anastasi VI, recording border officials admitting nomadic \"Shasu-tribes of Edom\" to water their herds in Wadi Tumilat. Genesis 36:31-39 lists eight kings who reigned in Edom before any Israelite monarch. In Wadi Faynan (Khirbet en-Nahas), excavations by Thomas Levy dated large-scale copper smelting to the tenth and ninth centuries BCE, while scholars such as Israel Finkelstein and Piotr Bienkowski date full plateau urbanization around Buseirah (Busayra, biblical Bozrah) to the eighth and seventh centuries BCE under Assyrian trade growth.",
+      "Assyrian royal inscriptions first name tributary Udumu under Adad-nirari III (early eighth century BCE), followed under Tiglath-Pileser III, Sennacherib, Esarhaddon, and Ashurbanipal by named Edomite kings Kaush-malaka, Aiarammu, and Qos-gabr. Excavations at Umm el-Biyara overlooking Petra recovered a royal clay bulla stamped \"Belonging to Qos-gabr, King of Edom,\" while Buseirah, Horvat Qitmit, and an Edomite ostracon from Horvat 'Uza in the Negev invoke Edom's national deity Qos. In 553/552 BCE, Neo-Babylonian king Nabonidus stormed Edom en route to Tayma, leaving a rock-cut relief and cuneiform inscription at as-Sila' (Sela) near Tafilah that ended Edom's highland monarchy."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "idumaea-herodians",
+        "relation": "Direct Persian, Hellenistic, and Roman-era continuation of displaced western Edomites."
+      },
+      {
+        "id": "nabataeans",
+        "relation": "Nabataeans succeeded Edom across Seir and Petra while adopting aspects of local Qos worship."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:31-43 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.31-43",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:43-54 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.43-54",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Obadiah 1:1-21 (Sefaria)",
+        "url": "https://www.sefaria.org/Obadiah.1.1-21",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Edom (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Edom",
+        "kind": "Reference"
+      },
+      {
+        "label": "Qos, Edomite national deity (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Qos_(deity)",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "idumaea-herodians",
+    "parentId": "edom-idumaea",
+    "name": "Idumaeans & Herodian Dynasty",
+    "nativeNames": "אֲדוֹמִים · Ἰδουμαία",
+    "kind": "people",
+    "branch": "esau",
+    "era": "5th c. BCE - 1st c. CE",
+    "region": "sinai-negev-edom",
+    "territory": "Maresha (Marisa), Adora, Hebron, Lachish & Beersheba",
+    "cardRole": "Western Edomite Province Integrated into Judaea",
+    "summary": "Hellenistic-Roman descendants of Edom in southern Palestine, integrated into Judaea c. 112 BCE and producing Herod.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Merged into Jewish people (c. 112 BCE - 70 CE)",
+      "detail": "Incorporated into Judaean law under John Hyrcanus (c. 112/111 BCE) and fought inside Jerusalem in 68-70 CE, merging permanently into the Jewish people."
+    },
+    "geo": {
+      "lat": 31.51,
+      "lng": 34.93,
+      "rxKm": 68,
+      "ryKm": 46,
+      "angle": -22,
+      "sites": [
+        { "name": "Maresha (Marisa)", "lat": 31.593, "lng": 34.898 },
+        { "name": "Hebron", "lat": 31.524, "lng": 35.111 },
+        { "name": "Masada (Herod)", "lat": 31.316, "lng": 35.354 }
+      ]
+    },
+    "history": [
+      "Already pushing into the eastern Negev in late monarchic Judah and expanding across southern Judah after 587 and 552 BCE, western Edomites settled the hills and foothills around Hebron, Adora, Lachish, Maresha (Marisa), and Beersheba, forming the Persian and Hellenistic province of Idumaea. Fourth-century BCE Aramaic ostraca from southern Palestine document a mixed population carrying Qos-theophoric names alongside Aramaic, Arab, and Judahite neighbors.",
+      "Around 112/111 BCE (dated by Maresha inscriptions and coin hoards), Hasmonean high priest John Hyrcanus conquered Adora and Maresha and incorporated the Idumaeans into the Jewish nation through circumcision and Torah observance (Josephus, Antiquities 13.257-258). Within three generations, the Idumaean noble Antipater and his son Herod the Great (r. 37-4 BCE) rose under Rome to rule all Judaea and rebuild Jerusalem's Second Temple. After Idumaean troops joined the defense of Jerusalem in 68-70 CE, distinct Idumaean identity merged completely into post-70 CE Jewry."
+    ],
+    "traditions": [
+      "Classical Historians",
+      "Archaeology",
+      "Christian Scripture"
+    ],
+    "relatedIds": [
+      {
+        "id": "judah-jews",
+        "relation": "Idumaeans became full members of Judaean civic and religious life from c. 112/111 BCE onward."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Josephus, Antiquities 13.257-258 (Lexundria)",
+        "url": "https://lexundria.com/j_aj/13.257-13.258/wst",
+        "kind": "Classical"
+      },
+      {
+        "label": "Herodian dynasty (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Herodian_dynasty",
+        "kind": "Reference"
+      },
+      {
+        "label": "Maresha (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Maresha",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "eliphaz",
+    "parentId": "esau",
+    "name": "Eliphaz",
+    "nativeNames": "אֱלִיפַז",
+    "kind": "person",
+    "branch": "esau",
+    "era": "Patriarchal Age",
+    "region": "sinai-negev-edom",
+    "territory": "Mount Seir & Negev Borderlands",
+    "mother": "Adah daughter of Elon the Hittite",
+    "consorts": [
+      "Timna (Horite concubine, sister of Lotan)"
+    ],
+    "cardRole": "Firstborn Son of Esau · Father of Six Edomite Clans",
+    "summary": "Eldest son of Esau, progenitor of Teman, Omar, Zepho, Gatam, Kenaz, and (through Timna) Amalek.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via 6 clans",
+      "detail": "Continues into five highland Edomite chieftaincies (plus Kenizzite Judah) and the desert tribe of Amalek."
+    },
+    "geo": {
+      "lat": 30.62,
+      "lng": 35.48,
+      "rxKm": 95,
+      "ryKm": 55,
+      "angle": -70,
+      "sites": [
+        { "name": "Northern Seir", "lat": 30.62, "lng": 35.48 }
+      ]
+    },
+    "history": [
+      "Eliphaz heads Esau's firstborn branch through Adah (Genesis 36:4, 10-12; 1 Chronicles 1:35-36). His five primary sons (Teman, Omar, Zepho, Gatam, and Kenaz) formed core chieftaincies (alluphim) of Edom, while his union with Timna (sister of the Horite chief Lotan) produced Amalek; note that Masoretic manuscripts of Genesis 36:16 also include a secondary listing of Chief Korah under Eliphaz, absent in Genesis 36:11, 1 Chronicles 1:36, and the Samaritan Pentateuch."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "teman",
+        "relation": "Firstborn son of Eliphaz; Job's friend is named Eliphaz the Temanite."
+      },
+      {
+        "id": "amalek",
+        "relation": "Son born to Eliphaz by his Horite concubine Timna (Gen 36:12)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:10-12 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.10-12",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Eliphaz (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Eliphaz",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "teman",
+    "parentId": "eliphaz",
+    "name": "Teman (Temanites)",
+    "nativeNames": "תֵּימָן",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Southern & Eastern Edom (Tawilan / Southern Jordan)",
+    "cardRole": "1st Clan of Eliphaz · Renowned Wisdom Center of Edom",
+    "summary": "Edomite clan and district famed in Hebrew prophecy and Job for sages, counselors, and desert trade.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Edom",
+      "detail": "Formed a premier district and chieftaincy inside the Kingdom of Edom."
+    },
+    "geo": {
+      "lat": 30.35,
+      "lng": 35.48,
+      "rxKm": 75,
+      "ryKm": 48,
+      "angle": -65,
+      "sites": [
+        { "name": "Tawilan (Near Petra)", "lat": 30.343, "lng": 35.483 },
+        { "name": "Kuntillet 'Ajrud (Inscriptions)", "lat": 30.192, "lng": 34.421 }
+      ]
+    },
+    "history": [
+      "Named first among Eliphaz's sons (Genesis 36:11, 15) and homeland of early Edomite king Husham of the land of the Temanites (Genesis 36:34), Teman often stood in poetic parallelism for all Edom (Amos 1:12; Obadiah 1:9; Ezekiel 25:13). Jeremiah 49:7 asks, \"Is wisdom no more in Teman? Has counsel perished from the prudent?\" and the Book of Job casts Eliphaz the Temanite as chief spokesman among Job's eastern sages.",
+      "Early eighth-century BCE Hebrew plaster and pithos inscriptions excavated at Kuntillet 'Ajrud in northeastern Sinai invoke \"Yahweh of Samaria\" alongside \"Yahweh of Teman,\" echoing Habakkuk 3:3 (\"God came from Teman, and the Holy One from Mount Paran\")."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "shuhites",
+        "relation": "Eliphaz the Temanite and Bildad the Shuhite appear together in Job 2:11."
+      },
+      {
+        "id": "dedan",
+        "relation": "Ezekiel 25:13 pairs Teman with Dedan as the northern and southern poles of Edom's reach."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Jeremiah 49:7-8 (Sefaria)",
+        "url": "https://www.sefaria.org/Jeremiah.49.7-8",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Habakkuk 3:3 (Sefaria)",
+        "url": "https://www.sefaria.org/Habakkuk.3.3",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Teman (Edom) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Teman_(Edom)",
+        "kind": "Reference"
+      },
+      {
+        "label": "Kuntillet Ajrud (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kuntillet_Ajrud",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "omar",
+    "parentId": "eliphaz",
+    "name": "Omar",
+    "nativeNames": "אוֹמָר",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Mount Seir (Northern Edom)",
+    "cardRole": "2nd Clan of Eliphaz · Edomite Chieftaincy",
+    "summary": "Second clan chieftain (alluph) of Eliphaz in the highlands of Edom (Genesis 36:11, 15).",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Edom",
+      "detail": "Federated as an Eliphazite highland clan inside the Kingdom of Edom."
+    },
+    "geo": {
+      "lat": 30.82,
+      "lng": 35.62,
+      "rxKm": 55,
+      "ryKm": 38,
+      "angle": -65,
+      "sites": [
+        { "name": "Northern Seir Highlands", "lat": 30.82, "lng": 35.62 }
+      ]
+    },
+    "history": [
+      "Omar stands second among Eliphaz's sons and Edom's tribal chieftains (Genesis 36:11, 15; 1 Chronicles 1:36), carrying a Semitic name cognates of which (\"eloquent\" or \"long-lived / populous\") remained widespread across North Arabian and Aramaic naming traditions along the desert border of Seir."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "teman",
+        "relation": "Sister clan in the Eliphazite division of Edom."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:11 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.11",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:15 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.15",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:35-37 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.35-37",
+        "kind": "Scripture"
+      }
+    ]
+  },
+  {
+    "id": "zepho",
+    "parentId": "eliphaz",
+    "name": "Zepho (Zephi)",
+    "nativeNames": "צְפוֹ · צְפִי",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Mount Seir (Edom)",
+    "cardRole": "3rd Clan of Eliphaz · Edomite Chieftaincy",
+    "summary": "Third clan of Eliphaz (spelled Zephi in 1 Chronicles 1:36), rooted in watchtower ridges of Seir.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Edom",
+      "detail": "Federated as an Eliphazite clan chieftaincy inside the Kingdom of Edom."
+    },
+    "geo": {
+      "lat": 30.69,
+      "lng": 35.56,
+      "rxKm": 55,
+      "ryKm": 38,
+      "angle": -65,
+      "sites": [
+        { "name": "Seir Escarpment", "lat": 30.69, "lng": 35.56 }
+      ]
+    },
+    "history": [
+      "Recorded as Zepho in Genesis 36:11, 15 and Zephi in 1 Chronicles 1:36 (from Semitic ts-p-h, \"lookout\" or \"watchman\"), his clan formed the third Eliphazite chieftaincy in Seir. Much later medieval Jewish chronicles (such as Josippon and Sefer ha-Yashar) wove folkloric legends making Zepho son of Eliphaz a migrant commander in Italy to explain rabbinic typology linking Edom symbolically with Rome."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "edom-idumaea",
+        "relation": "Constituent clan of the Edomite highland confederacy."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:11 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.11",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:15 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.15",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:35-37 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.35-37",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Zepho (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/List_of_minor_Hebrew_Bible_figures,_L%E2%80%93Z#Zepho",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "gatam",
+    "parentId": "eliphaz",
+    "name": "Gatam",
+    "nativeNames": "גַּעְתָּם",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Mount Seir & Wadi Arabah",
+    "cardRole": "4th Clan of Eliphaz · Edomite Chieftaincy",
+    "summary": "Fourth Eliphazite clan chieftaincy in Edom (Genesis 36:11, 16; 1 Chronicles 1:36).",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Edom",
+      "detail": "Federated as an Eliphazite chieftaincy inside the Kingdom of Edom."
+    },
+    "geo": {
+      "lat": 30.48,
+      "lng": 35.35,
+      "rxKm": 55,
+      "ryKm": 38,
+      "angle": -72,
+      "sites": [
+        { "name": "Wadi Arabah-Seir Valleys", "lat": 30.48, "lng": 35.35 }
+      ]
+    },
+    "history": [
+      "Gatam appears fourth among Eliphaz's sons and Edomite clan chiefs in Genesis 36:11, 16 and 1 Chronicles 1:36, inhabiting the arid valleys between the Arabah rift and the Edomite plateau."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "eliphaz",
+        "relation": "Fourth son of Eliphaz in Edom."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:11 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.11",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:16 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.16",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:35-37 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.35-37",
+        "kind": "Scripture"
+      }
+    ]
+  },
+  {
+    "id": "kenaz",
+    "parentId": "eliphaz",
+    "name": "Kenaz",
+    "nativeNames": "קְנַז",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Late Bronze Age",
+    "region": "sinai-negev-edom",
+    "territory": "Northern Edom, Negev & Southern Judean Hills",
+    "cardRole": "5th Clan of Eliphaz · Eponym of the Kenizzites",
+    "summary": "Fifth son of Eliphaz and Edomite chieftain (Gen 36:11, 42) whose northern clans merged into the Tribe of Judah.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Kenizzites",
+      "detail": "Southern families remained inside Edom (Gen 36:42), while northern Calebite and Othnielite clans settled Hebron and merged into Judah."
+    },
+    "geo": {
+      "lat": 31.02,
+      "lng": 35.22,
+      "rxKm": 72,
+      "ryKm": 46,
+      "angle": -35,
+      "sites": [
+        { "name": "Negev-Edom Highland Track", "lat": 31.02, "lng": 35.22 }
+      ]
+    },
+    "history": [
+      "Kenaz appears both among Eliphaz's five primary sons (Genesis 36:11, 15) and again in the territorial list of Edomite chiefs at the end of Genesis 36:42. While part of the clan remained inside Edom, northern Kenizzite families pushed across the Negev into the southern Canaanite hill country around Hebron and Debir, joining the Israelite confederation at the time of the Exodus and conquest."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "kenizzites",
+        "relation": "Calebite and Othnielite clans that settled Hebron and southern Judah."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:11 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.11",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:42 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.42",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Kenaz (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kenaz",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "kenizzites",
+    "parentId": "kenaz",
+    "name": "Kenizzites & Calebites",
+    "nativeNames": "קְנִזִּי · כָּלִבִּי",
+    "kind": "people",
+    "branch": "esau",
+    "era": "13th-6th c. BCE",
+    "region": "levant-canaan",
+    "territory": "Hebron, Debir (Kiriath-sepher), Carmel & Southern Judah",
+    "cardRole": "Edomite-Linked Clan Absorbed into Judah",
+    "summary": "Descendants of Caleb the Kenizzite and Judge Othniel who held Hebron and formed southern Judah's core.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Merged into Tribe of Judah",
+      "detail": "Incorporated directly into the genealogies of Judah around Hebron, Bethlehem, and Tekoa (1 Chr 2; 4), passing into the Kingdom of Judah and Jewish people."
+    },
+    "geo": {
+      "lat": 31.46,
+      "lng": 35.08,
+      "rxKm": 48,
+      "ryKm": 35,
+      "angle": -20,
+      "sites": [
+        { "name": "Hebron (Kiriath-arba)", "lat": 31.524, "lng": 35.111 },
+        { "name": "Debir (Khirbet Rabud)", "lat": 31.432, "lng": 35.016 }
+      ]
+    },
+    "history": [
+      "Numbers 32:12 and Joshua 14:6, 14 explicitly call Caleb son of Jephunneh \"the Kenizzite,\" and Joshua 15:13-19 and Judges 1:11-15 recount how Caleb conquered Kiriath-arba (Hebron) while his younger kinsman Othniel son of Kenaz captured Debir and became Israel's first judge (Judges 3:9-11).",
+      "Genealogies in 1 Chronicles 2 and 4 incorporate Caleb and Kenaz directly inside the Tribe of Judah, showing that Judah's southern highlands around Hebron, Ziph, Maon, and Carmel (compare \"Nabal the Calebite\" in 1 Samuel 25:3) were settled heavily by Kenizzite and Calebite clans of Seirite-Edomite stock who embraced Israel's covenant and backed David's first kingship at Hebron."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "judah",
+        "relation": "Absorbed as a major highland subdivision of the Tribe of Judah."
+      },
+      {
+        "id": "davidic-house",
+        "relation": "David was first anointed king over Judah at Calebite Hebron (2 Sam 2:1-4)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Joshua 14:6-15 (Sefaria)",
+        "url": "https://www.sefaria.org/Joshua.14.6-15",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Judges 3:9-11 (Sefaria)",
+        "url": "https://www.sefaria.org/Judges.3.9-11",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Kenizzite (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kenizzite",
+        "kind": "Reference"
+      },
+      {
+        "label": "Caleb & Calebites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Caleb",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "amalek",
+    "parentId": "eliphaz",
+    "name": "Amalek",
+    "nativeNames": "עֲמָלֵק",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal Age",
+    "region": "sinai-negev-edom",
+    "territory": "Negev, Sinai & Seir Fringes",
+    "mother": "Timna (Horite sister of Lotan)",
+    "cardRole": "Son of Eliphaz & Timna · Eponym of the Amalekites",
+    "summary": "Grandson of Esau born to Eliphaz's Horite concubine Timna (Gen 36:12), standing at the head of the Amalekites.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Amalekites",
+      "detail": "Continues into the desert Amalekite tribes across Sinai, Paran, and the Negev."
+    },
+    "geo": {
+      "lat": 30.35,
+      "lng": 34.55,
+      "rxKm": 95,
+      "ryKm": 60,
+      "angle": -25,
+      "sites": [
+        { "name": "Kadesh-barnea Fringe", "lat": 30.648, "lng": 34.422 }
+      ]
+    },
+    "history": [
+      "Genesis 36:12, 16 places Amalek inside Esau's family tree as the son of Eliphaz by his concubine Timna, sister of the Seirite Horite chief Lotan (1 Chronicles 1:36 lists Timna and Amalek compactly among Eliphaz's line). Because Genesis 14:7 also mentions the \"country of the Amalekites\" around Kadesh in Abraham's day and Numbers 24:20 calls Amalek \"first of the nations,\" historians view Genesis 36:12 as recording either the incorporation of an older desert population into Eliphaz's Edomite confederacy or a retrospective geographic label in Genesis 14."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "amalekites",
+        "relation": "Desert raiding people of Sinai and the Negev named after Amalek."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:12 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.12",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Amalek (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Amalek",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "amalekites",
+    "parentId": "amalek",
+    "name": "Amalekites",
+    "nativeNames": "עֲמָלֵק · הָעֲמָלֵקִי · عماليق",
+    "kind": "people",
+    "branch": "esau",
+    "era": "Late Bronze - Iron Age (c. 13th-8th c. BCE)",
+    "region": "sinai-negev-edom",
+    "territory": "Sinai Peninsula, Kadesh-barnea, Central Negev & Paran",
+    "cardRole": "Nomadic Raiders of the Southern Desert Fringe",
+    "summary": "Mobile desert warriors between Havilah and Shur who clashed repeatedly with Israel from Moses to Hezekiah.",
+    "continuity": {
+      "status": "unattested",
+      "badge": "○ Defeated & vanished 8th c. BCE",
+      "detail": "1 Chronicles 4:42-43 records Simeonite warriors destroying the last Amalekite refuge in Mount Seir under Hezekiah; medieval Arab lore counted 'Amaliq among the vanished primordial Arabs (al-'Arab al-Ba'idah)."
+    },
+    "geo": {
+      "lat": 30.25,
+      "lng": 34.25,
+      "rxKm": 145,
+      "ryKm": 85,
+      "angle": -22,
+      "sites": [
+        { "name": "Kadesh-barnea", "lat": 30.648, "lng": 34.422 },
+        { "name": "Central Sinai / Paran", "lat": 29.85, "lng": 34.15 }
+      ]
+    },
+    "history": [
+      "Ranging across the arid steppes \"from Havilah as far as Shur, which is east of Egypt\" (1 Samuel 15:7, matching the phrasing used for Ishmael's southern desert arc in Genesis 25:18), the Amalekites attacked the Israelites at Rephidim in Sinai (Exodus 17:8-16), raided Canaan alongside Moabites and Midianites in Judges 3:13 and 6:3, and fought prolonged border wars against Saul (against King Agag) and David (who crushed their raid on Ziklag in 1 Samuel 30).",
+      "According to 1 Chronicles 4:42-43, five hundred Simeonite warriors marched to Mount Seir in the reign of King Hezekiah of Judah (late eighth century BCE) and destroyed the last surviving remnant of the Amalekites. Centuries later, medieval Arab historians applied the name 'Amaliq to legendary primordial inhabitants of western Arabia (Yathrib/Medina, Khaybar, and Tihamah) classed among the \"vanished Arabs\" (al-'Arab al-Ba'idah)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Arab Genealogy"
+    ],
+    "relatedIds": [
+      {
+        "id": "simeon",
+        "relation": "Simeonites wiped out the last Amalekite enclave in Mount Seir (1 Chr 4:42-43)."
+      },
+      {
+        "id": "kenites",
+        "relation": "Shared Negev camping grounds prior to Saul's campaign (1 Sam 15:6)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Exodus 17:8-16 (Sefaria)",
+        "url": "https://www.sefaria.org/Exodus.17.8-16",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Samuel 15:1-8 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Samuel.15.1-8",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Samuel 30:1-20 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Samuel.30.1-20",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 4:42-43 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.4.42-43",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Amalek (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Amalek",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "reuel",
+    "parentId": "esau",
+    "name": "Reuel (Son of Esau)",
+    "nativeNames": "רְעוּאֵל",
+    "kind": "person",
+    "branch": "esau",
+    "era": "Patriarchal Age",
+    "region": "sinai-negev-edom",
+    "territory": "Bozrah & Eastern Mount Seir",
+    "mother": "Mahalath / Basemath (daughter of Ishmael)",
+    "cardRole": "2nd Son of Esau · Half-Ishmaelite Edomite Patriarch",
+    "summary": "Son of Esau and Ishmael's daughter Basemath/Mahalath, heading four Edomite clans uniting Isaac and Ishmael.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via 4 Edomite clans",
+      "detail": "Continues through Nahath, Zerah (royal clan of Bozrah), Shammah, and Mizzah inside Edom."
+    },
+    "geo": {
+      "lat": 30.74,
+      "lng": 35.63,
+      "rxKm": 72,
+      "ryKm": 46,
+      "angle": -65,
+      "sites": [
+        { "name": "Bozrah (Buseirah)", "lat": 30.739, "lng": 35.606 }
+      ]
+    },
+    "history": [
+      "Born to Esau and Basemath/Mahalath daughter of Ishmael (Genesis 36:4, 10, 13; 1 Chronicles 1:35, 37), Reuel embodied the genealogical union of Isaac's and Ishmael's lines along the desert edge of southern Transjordan. His four sons (Nahath, Zerah, Shammah, and Mizzah) became major Edomite clan chieftains, and the name Reuel (\"Friend of God\") also appears among neighboring Midianites for Moses's father-in-law (Exodus 2:18), reflecting shared Northwest Arabian-Edomite ties."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "mahalath",
+        "relation": "Mother of Reuel, daughter of Ishmael (Gen 36:3-4)."
+      },
+      {
+        "id": "zerah-edom",
+        "relation": "Son whose line produced Edomite King Jobab of Bozrah."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:4 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.4",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:13 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.13",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:17 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.17",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Reuel (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Reuel",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "nahath",
+    "parentId": "reuel",
+    "name": "Nahath",
+    "nativeNames": "נַחַת",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Mount Seir (Edom)",
+    "cardRole": "1st Clan of Reuel · Edomite Chieftaincy",
+    "summary": "Firstborn clan of Reuel in Edom (Gen 36:13, 17), carrying mixed Edomite and Ishmaelite ancestry.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Edom",
+      "detail": "Federated as a Reuelite chieftaincy inside the Kingdom of Edom."
+    },
+    "geo": {
+      "lat": 30.78,
+      "lng": 35.68,
+      "rxKm": 52,
+      "ryKm": 36,
+      "angle": -65,
+      "sites": [
+        { "name": "Eastern Seir Plateau", "lat": 30.78, "lng": 35.68 }
+      ]
+    },
+    "history": [
+      "Nahath heads the four clans of Reuel in Genesis 36:13, 17 and 1 Chronicles 1:37, forming one of the core tribal districts of Edom."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "reuel",
+        "relation": "Firstborn son of Reuel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:13 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.13",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:17 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.17",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:35-37 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.35-37",
+        "kind": "Scripture"
+      }
+    ]
+  },
+  {
+    "id": "zerah-edom",
+    "parentId": "reuel",
+    "name": "Zerah (Clan of Bozrah)",
+    "nativeNames": "זֶרַח",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Bozrah (Buseirah, Northern Edom)",
+    "cardRole": "2nd Clan of Reuel · Royal Clan of King Jobab",
+    "summary": "Second clan of Reuel, centered around Edom's northern capital Bozrah and producing early King Jobab.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Royal Bozrah clan of Edom",
+      "detail": "Centered on Bozrah (Buseirah), serving as the northern administrative citadel of the Kingdom of Edom."
+    },
+    "geo": {
+      "lat": 30.739,
+      "lng": 35.606,
+      "rxKm": 58,
+      "ryKm": 40,
+      "angle": -65,
+      "sites": [
+        { "name": "Bozrah (Buseirah)", "lat": 30.739, "lng": 35.606 }
+      ]
+    },
+    "history": [
+      "Listed second under Reuel (Genesis 36:13, 17), Zerah appears again in the Edomite king-list when \"Jobab son of Zerah of Bozrah\" succeeds Bela son of Beor as the second king of Edom (Genesis 36:33). Bozrah (modern Buseirah / Busayra in Tafilah Governorate, Jordan) served as Edom's chief northern administrative citadel. In Hellenistic Jewish tradition preserved in the Greek Septuagint postscript to Job (Job 42:17b-e), Jobab son of Zerah was identified with Job of Uz and reckoned \"fifth from Abraham\" (compressing Reuel, whereas the Masoretic lineage places Jobab in the sixth generation from Abraham)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "edom-idumaea",
+        "relation": "Bozrah served as royal citadel of the Kingdom of Edom."
+      },
+      {
+        "id": "judah",
+        "relation": "Zerah also recurs as a twin clan name inside the Tribe of Judah (Gen 38:30)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:33 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.33",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Bozrah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Bozrah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "shammah-edom",
+    "parentId": "reuel",
+    "name": "Shammah",
+    "nativeNames": "שַׁמָּה",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Eastern Edomite Steppe",
+    "cardRole": "3rd Clan of Reuel · Edomite Chieftaincy",
+    "summary": "Third clan of Reuel in Genesis 36:13, 17, sharing Esau's and Ishmael's combined lineage.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Edom",
+      "detail": "Federated as a Reuelite chieftaincy inside the Kingdom of Edom."
+    },
+    "geo": {
+      "lat": 30.63,
+      "lng": 35.72,
+      "rxKm": 52,
+      "ryKm": 36,
+      "angle": -65,
+      "sites": [
+        { "name": "Eastern Edom Margin", "lat": 30.63, "lng": 35.72 }
+      ]
+    },
+    "history": [
+      "Shammah forms the third Reuelite chieftaincy in Edom (Genesis 36:13, 17; 1 Chronicles 1:37), sharing a personal and clan name also found among southern Judahite and Calebite families (1 Chronicles 2:28, 44; 1 Samuel 16:9)."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "reuel",
+        "relation": "Third son of Reuel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:13 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.13",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:17 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.17",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:35-37 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.35-37",
+        "kind": "Scripture"
+      }
+    ]
+  },
+  {
+    "id": "mizzah",
+    "parentId": "reuel",
+    "name": "Mizzah",
+    "nativeNames": "מִזָּה",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Eastern Edomite Steppe",
+    "cardRole": "4th Clan of Reuel · Edomite Chieftaincy",
+    "summary": "Fourth and youngest clan chieftain of Reuel in Edom (Genesis 36:13, 17; 1 Chronicles 1:37).",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Edom",
+      "detail": "Federated as a Reuelite chieftaincy inside the Kingdom of Edom."
+    },
+    "geo": {
+      "lat": 30.52,
+      "lng": 35.74,
+      "rxKm": 52,
+      "ryKm": 36,
+      "angle": -65,
+      "sites": [
+        { "name": "Southern Edom Steppe", "lat": 30.52, "lng": 35.74 }
+      ]
+    },
+    "history": [
+      "Mizzah completes the four Reuelite chieftaincies of Edom (Genesis 36:13, 17; 1 Chronicles 1:37), descending on his father's side from Isaac and Esau and on his grandmother's side from Ishmael."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "reuel",
+        "relation": "Fourth son of Reuel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:13 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.13",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:17 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.17",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:35-37 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.35-37",
+        "kind": "Scripture"
+      }
+    ]
+  },
+  {
+    "id": "jeush",
+    "parentId": "esau",
+    "name": "Jeush",
+    "nativeNames": "יְעוּשׁ · Yaghuth",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Mount Seir (Horite-Edomite Highlands)",
+    "mother": "Oholibamah daughter of Anah (Horite)",
+    "cardRole": "Son & Direct Clan Chief of Esau",
+    "summary": "Son of Esau and Oholibamah who became a direct clan chieftain in Seir; cognate with Old Arabian Yaghuth.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Edom",
+      "detail": "Served as a direct Seirite-Edomite chieftaincy within the Kingdom of Edom."
+    },
+    "geo": {
+      "lat": 30.42,
+      "lng": 35.52,
+      "rxKm": 52,
+      "ryKm": 36,
+      "angle": -70,
+      "sites": [
+        { "name": "Central Seir Highlands", "lat": 30.42, "lng": 35.52 }
+      ]
+    },
+    "history": [
+      "Unlike Eliphaz and Reuel whose sons formed sub-clans, Esau's three sons by Oholibamah (Jeush, Jaalam, and Korah) became direct tribal chieftains (alluphim) in their own generation in Canaan and Seir (Genesis 36:5, 14, 18). Semitic philologists note that Hebrew Ye'ush corresponds phonetically to the Old Arabian theophoric name Yaghuth (\"He aids\"), reflecting shared Seirite and North Arabian naming stock."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "North Arabian Epigraphy"
+    ],
+    "relatedIds": [
+      {
+        "id": "jaalam",
+        "relation": "Full brother via Oholibamah in Seir."
+      },
+      {
+        "id": "korah-edom",
+        "relation": "Full brother via Oholibamah in Seir."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:5 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.5",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:14 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.14",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:18 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.18",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Jeush (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Jeush",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "jaalam",
+    "parentId": "esau",
+    "name": "Jaalam",
+    "nativeNames": "יַעְלָם",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Mount Seir Crags (Edom)",
+    "mother": "Oholibamah daughter of Anah (Horite)",
+    "cardRole": "Son & Direct Clan Chief of Esau",
+    "summary": "Second son of Esau and Oholibamah, whose Semitic name links to the Nubian ibex (ya'el) of Seir's cliffs.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Edom",
+      "detail": "Served as a direct highland chieftaincy within the Kingdom of Edom."
+    },
+    "geo": {
+      "lat": 30.28,
+      "lng": 35.42,
+      "rxKm": 52,
+      "ryKm": 36,
+      "angle": -70,
+      "sites": [
+        { "name": "Southern Seir Crags", "lat": 30.28, "lng": 35.42 }
+      ]
+    },
+    "history": [
+      "Jaalam stands second among Esau's sons by Oholibamah and served directly as an Edomite chieftain in Mount Seir (Genesis 36:5, 14, 18; 1 Chronicles 1:35), carrying a highland totemic name related to Hebrew ya'el (\"mountain goat / ibex\")."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "jeush",
+        "relation": "Elder full brother in the Oholibamah division of Edom."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:5 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.5",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:14 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.14",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:18 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.18",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:35-37 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.35-37",
+        "kind": "Scripture"
+      }
+    ]
+  },
+  {
+    "id": "korah-edom",
+    "parentId": "esau",
+    "name": "Korah (Edomite Clan)",
+    "nativeNames": "קֹרַח",
+    "kind": "clan",
+    "branch": "esau",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Mount Seir & Southern Judean Border",
+    "mother": "Oholibamah daughter of Anah (Horite)",
+    "cardRole": "Son & Direct Clan Chief of Esau",
+    "summary": "Third son of Esau and Oholibamah in Seir, sharing his clan name with Calebite Hebron and Levitical Korahites.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced in Edom & Calebite Hebron",
+      "detail": "Served as an Edomite chieftaincy in Seir, with a namesake northern branch recorded under Calebite Hebron in Judah (1 Chr 2:43)."
+    },
+    "geo": {
+      "lat": 30.88,
+      "lng": 35.42,
+      "rxKm": 55,
+      "ryKm": 38,
+      "angle": -55,
+      "sites": [
+        { "name": "Northern Seir-Judea Margin", "lat": 30.88, "lng": 35.42 }
+      ]
+    },
+    "history": [
+      "Korah is the third son of Esau by Oholibamah (Genesis 36:5, 14, 18; note Masoretic manuscripts of Genesis 36:16 also contain a secondary Korah listing under Eliphaz, absent in the Samaritan Pentateuch). In 1 Chronicles 2:43, Korah appears directly as a \"son of Hebron\" inside the Calebite branch of Judah, while another Korahite guild served in the Jerusalem temple (Exodus 6:21; Psalms 42-49), reflecting family movement between northern Edomite clans and southern Judah."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "kenizzites",
+        "relation": "1 Chronicles 2:43 lists Korah beside Tappuah, Rekem, and Shema as sons of Calebite Hebron."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 36:5 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.5",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:14 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.14",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:18 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.18",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 2:42-43 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.2.42-43",
+        "kind": "Scripture"
+      }
+    ]
+  }
+]

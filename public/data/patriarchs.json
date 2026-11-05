@@ -1,0 +1,412 @@
+[
+  {
+    "id": "abraham",
+    "parentId": "",
+    "name": "Abraham (Ibrahim)",
+    "nativeNames": "אַבְרָהָם · إبراهيم",
+    "kind": "patriarch",
+    "branch": "root",
+    "era": "Patriarchal Age (2nd Mill. BCE)",
+    "region": "all-near-east",
+    "territory": "Ur, Harran, Canaan, Negev & Hejaz Traditions",
+    "mother": "Amathlai bat Karnebo (Bava Batra 91a) · Edna (Jubilees 11:14) · Buna bint Karbata (Islamic tradition)",
+    "consorts": [
+      "Sarah (Sarai)",
+      "Hagar (Hajar)",
+      "Keturah (Qantura')"
+    ],
+    "cardRole": "Common Patriarch of Three Maternal Lines",
+    "summary": "Patriarch revered across Judaism, Christianity, and Islam as father of many nations across the Near East.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "3 maternal branches",
+      "detail": "Continues across three maternal households: Hagar (Ishmael & Hagrites), Sarah (Isaac, Esau & Jacob), and Keturah (six eastern Arabian and Euphrates lineages)."
+    },
+    "geo": {
+      "lat": 31.524,
+      "lng": 35.111,
+      "rxKm": 520,
+      "ryKm": 230,
+      "angle": -28,
+      "sites": [
+        { "name": "Hebron (al-Khalil)", "lat": 31.524, "lng": 35.111 },
+        { "name": "Beersheba", "lat": 31.245, "lng": 34.841 },
+        { "name": "Harran", "lat": 36.865, "lng": 39.031 },
+        { "name": "Ur", "lat": 30.962, "lng": 46.103 }
+      ]
+    },
+    "history": [
+      "Born Abram son of Terah, Abraham migrated from Mesopotamia through Harran into Canaan, the Negev, and Egypt, pitching his tents around Shechem, Bethel, Mamre (Hebron), Gerar, and Beersheba. In Genesis 17:4-5 his name changes from Abram to Abraham, explained in the text as \"father of a multitude of nations,\" framing him not as the ancestor of a single tribe, but as the genealogical head of peoples stretching from the Mediterranean coast to the Arabian desert and the Euphrates.",
+      "Across three unions recorded in scripture and Near Eastern historiography, his household branched into distinct regional worlds. Through Hagar came Ishmael and the twelve Ishmaelite princes of northern and western Arabia, whom Arab genealogists connect through Adnan to the northern Arab confederations. Through Sarah came Isaac, whose twin sons Esau and Jacob fathered the Edomite clans of Seir and the twelve Israelite tribes of Canaan and Transjordan. Through Keturah came six sons sent eastward with gifts into the Syro-Arabian desert and Hejaz incense corridor, including Midian and Dedan.",
+      "In Islamic scripture and historiography, Ibrahim together with Isma'il raised the foundations of the Ka'bah at Mecca (Bakkah) while also establishing Ishaq and Ya'qub in the Levant. His traditional burial place with Sarah, Isaac, Rebekah, Jacob, and Leah at the Cave of Machpelah in Hebron (al-Khalil, named after Ibrahim al-Khalil, \"the Friend\") remains a shared sanctuary."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Islamic Tradition",
+      "Christian Scripture",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "ishmael",
+        "relation": "Firstborn son (via Hagar), ancestor of Ishmaelite and Adnanite tribes."
+      },
+      {
+        "id": "isaac",
+        "relation": "Son via Sarah, father of Esau (Edom) and Jacob (Israel)."
+      },
+      {
+        "id": "midian",
+        "relation": "Son via Keturah, ancestor of the five Midianite clans."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 17:1-8 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.17.1-8",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 25:1-18 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.1-18",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Book of Jubilees 20:1-13 (Sefaria)",
+        "url": "https://www.sefaria.org/Book_of_Jubilees.20.1-13",
+        "kind": "Classical"
+      },
+      {
+        "label": "Quran 2:124-136 (Quran.com)",
+        "url": "https://quran.com/2/124-136",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Josephus, Antiquities Book I (Wikisource)",
+        "url": "https://en.wikisource.org/wiki/The_Antiquities_of_the_Jews/Book_I",
+        "kind": "Classical"
+      },
+      {
+        "label": "Abraham (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Abraham",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "hagar",
+    "parentId": "abraham",
+    "name": "Hagar (Hajar)",
+    "nativeNames": "הָגָר · هاجر",
+    "kind": "matriarch",
+    "branch": "ishmael",
+    "era": "Patriarchal Age",
+    "region": "hejaz-west-arabia",
+    "territory": "Egypt, Wilderness of Paran/Beersheba & Mecca",
+    "consorts": [
+      "Abraham"
+    ],
+    "cardRole": "Matriarch of the Ishmaelite & Arabian Line",
+    "summary": "Egyptian matriarch whose son Ishmael founded twelve North Arabian princedoms and the Adnanite lineage.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Ishmael",
+      "detail": "Continues through Ishmael's twelve North Arabian tribal princes, the Transjordanian Hagrites, and the Adnanite Arab confederations."
+    },
+    "geo": {
+      "lat": 27.6,
+      "lng": 36.4,
+      "rxKm": 520,
+      "ryKm": 190,
+      "angle": -54,
+      "sites": [
+        { "name": "Wilderness of Paran", "lat": 29.85, "lng": 34.45 },
+        { "name": "Beersheba Wilderness", "lat": 31.18, "lng": 34.78 },
+        { "name": "Mecca (Zamzam)", "lat": 21.422, "lng": 39.826 }
+      ]
+    },
+    "history": [
+      "Hagar entered Abraham's household during his sojourn in Egypt as handmaid to Sarah, who gave her to Abraham as a secondary wife when Sarah remained childless (Genesis 16:1-4). At a desert spring on the road to Shur (Beer-lahai-roi), a divine messenger promised her that her son Ishmael would become a vast, untamed multitude dwelling across from all his kinsmen.",
+      "Genesis 21 places her departure with Ishmael in the wilderness of Beersheba and Paran, where God opened her eyes to a well and Ishmael grew into an archer who married a woman from Egypt. In Islamic tradition, Ibrahim brought Hajar and infant Isma'il to the arid valley of Bakkah (Mecca); her sevenfold run between the hills of Safa and Marwah in search of water culminated in the gushing of the Well of Zamzam, attracting the Arab tribe of Jurhum to settle there and forming the core rites of the Hajj pilgrimage.",
+      "Beyond Ishmael's twelve sons, ancient Levantine texts also record a distinct pastoral people called the Hagrites (or Hagarenes), preserving her name across the Syro-Arabian steppe."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Islamic Tradition",
+      "Arab Genealogy"
+    ],
+    "relatedIds": [
+      {
+        "id": "ishmael",
+        "relation": "Son of Hagar and Abraham."
+      },
+      {
+        "id": "hagrites",
+        "relation": "Transjordanian steppe confederation named after Hagar."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 16:1-16 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.16.1-16",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 21:9-21 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.21.9-21",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Quran 14:37 (Quran.com)",
+        "url": "https://quran.com/14/37",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Hagar (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hagar",
+        "kind": "Reference"
+      },
+      {
+        "label": "Hagar in Islam (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hagar_in_Islam",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "sarah",
+    "parentId": "abraham",
+    "name": "Sarah (Sarai)",
+    "nativeNames": "שָׂרָה · سارة",
+    "kind": "matriarch",
+    "branch": "root",
+    "era": "Patriarchal Age",
+    "region": "levant-canaan",
+    "territory": "Ur, Harran, Canaan & Hebron",
+    "consorts": [
+      "Abraham"
+    ],
+    "cardRole": "Matriarch of Isaac, Edom & Israel",
+    "summary": "Primary wife of Abraham and mother of Isaac, standing at the head of both the Edomite and Israelite nations.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Isaac",
+      "detail": "Continues through Isaac into the twin lineages of Esau (Edom and Idumaea) and Jacob (the Twelve Tribes of Israel, Jews, and Samaritans)."
+    },
+    "geo": {
+      "lat": 31.524,
+      "lng": 35.111,
+      "rxKm": 135,
+      "ryKm": 80,
+      "angle": -15,
+      "sites": [
+        { "name": "Hebron (Machpelah)", "lat": 31.524, "lng": 35.111 },
+        { "name": "Gerar", "lat": 31.385, "lng": 34.606 }
+      ]
+    },
+    "history": [
+      "Originally named Sarai, she accompanied Abraham from Mesopotamia to Harran, Canaan, and Egypt. In Genesis 17:15-16 her name becomes Sarah (\"princess\" or \"noblewoman\"), accompanied by the promise that \"nations shall come of her; kings of peoples shall issue from her.\"",
+      "That plural promise materialized in the next generation when her son Isaac fathered twins: Esau, whose descendants established an early monarchy in Edom before any king ruled Israel (Genesis 36:31), and Jacob, whose twelve sons formed the tribal league and later kingdoms of Israel and Judah. Sarah died at Kiriath-arba (Hebron) at age 127, prompting Abraham's purchase of the Cave of Machpelah from Ephron the Hittite as a permanent family tomb (Genesis 23)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Islamic Tradition",
+      "Christian Scripture"
+    ],
+    "relatedIds": [
+      {
+        "id": "isaac",
+        "relation": "Only son of Sarah and Abraham."
+      },
+      {
+        "id": "esau",
+        "relation": "Grandson via Isaac, ancestor of Edom."
+      },
+      {
+        "id": "jacob",
+        "relation": "Grandson via Isaac, ancestor of the Twelve Tribes of Israel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 17:15-21 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.17.15-21",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 23:1-20 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.23.1-20",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Quran 11:71-73 (Quran.com)",
+        "url": "https://quran.com/11/71-73",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Sarah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Sarah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "keturah",
+    "parentId": "abraham",
+    "name": "Keturah (Qantura')",
+    "nativeNames": "קְטוּרָה · قنطوراء / قطورة",
+    "kind": "matriarch",
+    "branch": "keturah",
+    "era": "Patriarchal Age",
+    "region": "hejaz-west-arabia",
+    "territory": "Negev Margins, Northwest Arabia & Incense Route",
+    "consorts": [
+      "Abraham"
+    ],
+    "cardRole": "Matriarch of Six Eastern & Arabian Lineages",
+    "summary": "Abraham's wife after Sarah whose six sons populated the Incense Road oases, Midian, and the Euphrates steppe.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "6 eastern sons",
+      "detail": "Continues through Zimran, Jokshan (Sheba & Dedan/Lihyan), Medan, Midian (five clans, Midianite League & Kenites), Ishbak, and Shuah (Suhu)."
+    },
+    "geo": {
+      "lat": 27.9,
+      "lng": 37.3,
+      "rxKm": 420,
+      "ryKm": 200,
+      "angle": -38,
+      "sites": [
+        { "name": "Al-'Ula (Dedan)", "lat": 26.617, "lng": 37.954 },
+        { "name": "Al-Bad' (Midian)", "lat": 28.502, "lng": 35.004 }
+      ]
+    },
+    "history": [
+      "Genesis 25:1-6 records that Abraham took another wife named Keturah (whose Hebrew root q-t-r means \"incense\" or \"aromatic smoke\"), while 1 Chronicles 1:32 calls her Abraham's concubine. Her name points directly to the frankincense and myrrh trade of western and northern Arabia dominated by her descendants, above all Midian, Ephah, Dedan, and northern Sheba.",
+      "She bore six sons: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. Abraham gave them gifts and sent them away eastward into the \"land of the East\" (erez qedem), the ancient Hebrew geographic term for the Syro-Arabian desert and northern Hejaz. First-century historian Flavius Josephus (Antiquities 1.15) reports that Abraham settled Keturah's sons and grandsons in colonies along Troglodytis (the Red Sea coastlands) and Arabia Felix.",
+      "Classical Islamic historians such as al-Tabari and Ibn Kathir preserve her memory as Qantura' bint Maqtur (or bint Yaqtan in some later genealogies), noting her marriage to Ibrahim after Sarah's death and tracing eastern and Midianite lineages to her household (while certain rabbinic midrashim equated Keturah with Hagar, Ibn Ezra, Rashbam, Ramban, and Islamic chroniclers treated her as a distinct woman)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Classical Historians",
+      "Islamic Tradition",
+      "North Arabian Epigraphy"
+    ],
+    "relatedIds": [
+      {
+        "id": "jokshan",
+        "relation": "Son of Keturah, ancestor of Dedan and northern Sheba."
+      },
+      {
+        "id": "midian",
+        "relation": "Son of Keturah, ancestor of the five Midianite clans."
+      },
+      {
+        "id": "shuah",
+        "relation": "Youngest son of Keturah, ancestor of the Shuhites."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:1-6 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.1-6",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:32-33 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.32-33",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Josephus, Antiquities 1.238-241 (Lexundria)",
+        "url": "https://lexundria.com/j_aj/1.238-1.241/wst",
+        "kind": "Classical"
+      },
+      {
+        "label": "Keturah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Keturah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "isaac",
+    "parentId": "sarah",
+    "name": "Isaac (Ishaq)",
+    "nativeNames": "יִצְחָק · إسحاق",
+    "kind": "patriarch",
+    "branch": "root",
+    "era": "Patriarchal Age",
+    "region": "levant-canaan",
+    "territory": "Gerar, Beersheba, Beer-lahai-roi & Hebron",
+    "mother": "Sarah (Sarai)",
+    "consorts": [
+      "Rebekah daughter of Bethuel (Aramaean kin from Harran)"
+    ],
+    "cardRole": "Son of Abraham & Sarah · Father of Esau & Jacob",
+    "summary": "Only son of Abraham and Sarah, whose twin sons Esau and Jacob founded Edom and the Twelve Tribes of Israel.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Esau & Jacob",
+      "detail": "Continues through twin branches: Esau in Mount Seir and Idumaea, and Jacob across the Twelve Tribes of Israel."
+    },
+    "geo": {
+      "lat": 31.28,
+      "lng": 34.84,
+      "rxKm": 95,
+      "ryKm": 65,
+      "angle": -20,
+      "sites": [
+        { "name": "Beersheba", "lat": 31.245, "lng": 34.841 },
+        { "name": "Gerar", "lat": 31.385, "lng": 34.606 },
+        { "name": "Hebron", "lat": 31.524, "lng": 35.111 }
+      ]
+    },
+    "history": [
+      "Born in Abraham's hundredth year and Sarah's ninetieth (Genesis 17:17; 21:1-5), Isaac spent his entire life inside southern Canaan and the Negev, digging wells and farming grain around Beer-lahai-roi, Gerar, Rehoboth, and Beersheba before settling at Mamre (Hebron), where his sons Esau and Jacob buried him in the Cave of Machpelah (Genesis 26; 35:27-29).",
+      "His marriage to Rebekah, granddaughter of Abraham's brother Nahor from Aram-Naharaim (Harran), reinforced Mesopotamian Aramaean kinship on the maternal side. When Rebekah conceived twins, the birth oracle declared, \"Two nations are in your womb, and two peoples born of you shall be divided\" (Genesis 25:23): Esau, ancestor of the Edomites of Mount Seir, and Jacob, ancestor of the Israelites.",
+      "In the Quran (Surahs 11, 19, 21, and 37), Ishaq is honored as a righteous prophet blessed alongside Ibrahim and Ya'qub as head of the prophetic line among Banu Isra'il."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Islamic Tradition",
+      "Christian Scripture"
+    ],
+    "relatedIds": [
+      {
+        "id": "ishmael",
+        "relation": "Elder half-brother; buried Abraham together at Hebron (Gen 25:9)."
+      },
+      {
+        "id": "esau",
+        "relation": "Firstborn twin son, progenitor of Edom."
+      },
+      {
+        "id": "jacob",
+        "relation": "Younger twin son, progenitor of Israel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:19-26 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.19-26",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 26:1-33 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.26.1-33",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Quran 37:112-113 (Quran.com)",
+        "url": "https://quran.com/37/112-113",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Isaac (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Isaac",
+        "kind": "Reference"
+      }
+    ]
+  }
+]

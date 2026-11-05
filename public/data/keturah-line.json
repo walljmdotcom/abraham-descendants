@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "zimran",
+    "parentId": "keturah",
+    "name": "Zimran",
+    "nativeNames": "זִמְרָן · Zambran",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "Patriarchal / Iron Age",
+    "region": "hejaz-west-arabia",
+    "territory": "Western Arabia & Red Sea Littoral",
+    "mother": "Keturah (Qantura')",
+    "cardRole": "1st Son of Keturah · Western Arabian Clan",
+    "summary": "Firstborn of Abraham and Keturah, linked by classical geographers to western Arabian towns near the Red Sea.",
+    "continuity": {
+      "status": "unattested",
+      "badge": "○ Unattested after antiquity",
+      "detail": "Disappears as an independent ethnonym after Genesis 25 and 1 Chronicles 1; compared by classical geographers to Zabram or the Zamareni on the western Arabian coast."
+    },
+    "geo": {
+      "lat": 22.85,
+      "lng": 39.25,
+      "rxKm": 135,
+      "ryKm": 70,
+      "angle": -56,
+      "sites": [
+        { "name": "Zabram (Red Sea Coast)", "lat": 22.8, "lng": 39.05 }
+      ]
+    },
+    "history": [
+      "Zimran heads the list of Keturah's six sons in Genesis 25:2 and 1 Chronicles 1:32 (rendered Zambran by Josephus in Antiquities 1.15). Historical geographers compare his clan with Zabram, the royal seat of the Cinaedocolpitae on the Red Sea coast west of Mecca recorded by Ptolemy (Geography 6.7), or with the Zamareni of the western Arabian interior mentioned by Pliny the Elder (Natural History 6.32)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "midian",
+        "relation": "Younger full brother in the western Arabian incense corridor."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:1-2 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.1-2",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Zimran (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Zimran",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "jokshan",
+    "parentId": "keturah",
+    "name": "Jokshan",
+    "nativeNames": "יָקְשָׁן · يقشان",
+    "kind": "person",
+    "branch": "keturah",
+    "era": "Patriarchal Age",
+    "region": "hejaz-west-arabia",
+    "territory": "Northern Hejaz & Incense Road Oases",
+    "mother": "Keturah (Qantura')",
+    "cardRole": "2nd Son of Keturah · Father of Sheba & Dedan",
+    "summary": "Second son of Keturah whose two sons, Sheba and Dedan, anchored the northern Arabian incense trade.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Sheba & Dedan",
+      "detail": "Continues through northern Sabaean merchant colonies and the Dedanite/Lihyanite oasis polities at Al-'Ula."
+    },
+    "geo": {
+      "lat": 26.85,
+      "lng": 38.1,
+      "rxKm": 180,
+      "ryKm": 100,
+      "angle": -45,
+      "sites": [
+        { "name": "Dadan (Al-'Ula)", "lat": 26.617, "lng": 37.954 }
+      ]
+    },
+    "history": [
+      "Genesis 25:2-3 and 1 Chronicles 1:32 single out Jokshan among Keturah's sons alongside Midian for having named progeny of his own: Sheba and Dedan, while Genesis 25:3 further adds three plural Dedanite peoples (Asshurim, Letushim, and Leummim; omitted in the condensed parallel of 1 Chronicles 1:32). Through Dedan (Al-'Ula) and northern Sheba, Jokshan's branch maps directly onto the commercial artery carrying frankincense, myrrh, gold, and textiles from southern Arabia up through the Hejaz oases to Gaza, Tyre, Damascus, and Mesopotamia."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "dedan",
+        "relation": "Son of Jokshan and eponym of the Dadan/Al-'Ula oasis."
+      },
+      {
+        "id": "sheba-jokshan",
+        "relation": "Son of Jokshan representing northern Sabaean merchant colonies."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:2-3 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.2-3",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Jokshan (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Jokshan",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "sheba-jokshan",
+    "parentId": "jokshan",
+    "name": "Sheba (Son of Jokshan)",
+    "nativeNames": "שְׁבָא · سبأ",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "Patriarchal / 1st Mill. BCE",
+    "region": "north-arabia",
+    "territory": "Northern Arabian Caravan Stations",
+    "cardRole": "Grandson of Abraham · Northern Sabaean Eponym",
+    "summary": "Abrahamic eponym for northern Sabaean trading communities stationed along the desert routes toward Syria and Iraq.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via N. Sabaeans",
+      "detail": "Continues in the northern Sabaean trading colonies operating along the Hejaz and trans-desert caravan routes."
+    },
+    "geo": {
+      "lat": 27.9,
+      "lng": 38.8,
+      "rxKm": 210,
+      "ryKm": 105,
+      "angle": -35,
+      "sites": [
+        { "name": "Tayma-Dadan Caravan Track", "lat": 27.2, "lng": 38.3 }
+      ]
+    },
+    "history": [
+      "Hebrew scripture lists Sheba in three genealogical contexts: Cushite (Genesis 10:7), Joktanite South Arabian (Genesis 10:28), and here as son of Jokshan son of Abraham and Keturah (Genesis 25:3). Near Eastern historians explain this triple appearance through the structure of ancient Arabian trade: while the mother kingdom of Saba' lay in Yemen around Marib, Sabaean merchant clans established permanent northern colonies and raiding bands near Dedan, Tayma, and the Syro-Mesopotamian borderlands (compare the Sabaean raiders of Job 1:15)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals"
+    ],
+    "relatedIds": [
+      {
+        "id": "north-sabaeans",
+        "relation": "Caravan colonies and Assyrian-attested northern Sabaean networks."
+      },
+      {
+        "id": "tema",
+        "relation": "Job 6:19 pairs the caravans of Tema directly with the companies of Sheba."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:3 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.3",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Job 1:14-15 (Sefaria)",
+        "url": "https://www.sefaria.org/Job.1.14-15",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Sheba (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Sheba",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "north-sabaeans",
+    "parentId": "sheba-jokshan",
+    "name": "North Arabian Sabaeans",
+    "nativeNames": "שְׁבָאִים · Sab'a",
+    "kind": "people",
+    "branch": "keturah",
+    "era": "8th-5th c. BCE",
+    "region": "north-arabia",
+    "territory": "Northern Incense Route Oases (Between Al-'Ula, Tayma & Euphrates)",
+    "cardRole": "Merchant Colonies Along the Northern Incense Road",
+    "summary": "Sabaean caravan communities operating in northern Arabia alongside Dedan, Tema, and Ephah in Assyrian annals.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Merged into oasis polities",
+      "detail": "Northern Sabaean merchant colonies gradually assimilated into the Dadanite, Lihyanite, Taymanite, and Nabataean caravan populations."
+    },
+    "geo": {
+      "lat": 28.4,
+      "lng": 39.2,
+      "rxKm": 260,
+      "ryKm": 115,
+      "angle": -32,
+      "sites": [
+        { "name": "Tayma", "lat": 27.629, "lng": 38.548 },
+        { "name": "Dumat al-Jandal", "lat": 29.811, "lng": 39.868 }
+      ]
+    },
+    "history": [
+      "Neo-Assyrian royal inscriptions of Tiglath-Pileser III (733-732 BCE, following his Gaza and Samsi campaigns) record tribute of gold, silver, camels, and aromatics from Sab'a alongside northern oasis tribes including Tema (Tayma), Massa, Badana, and Hayapa (Ephah). Sargon II (715 BCE) likewise received diplomatic gifts from It'amra the Sabaean alongside Queen Samsi, while Sennacherib (c. 685 BCE) recorded a separate diplomatic gift of uncut precious stones and aromatics sent by King Karib'il of Saba upon laying the Bit Akitu foundations at Assur. As historians such as Israel Eph'al observe, Assyrian commercial contact in northern Arabia operated heavily through Sabaean merchant colonies stationed in the Hejaz and Euphrates approaches, matching Genesis 25:3's placement of Sheba beside Dedan."
+    ],
+    "traditions": [
+      "Assyrian Annals",
+      "Hebrew Bible",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "dadan-lihyan",
+        "relation": "Partner oasis hub on the western Arabian frankincense road."
+      },
+      {
+        "id": "ephah",
+        "relation": "Isaiah 60:6 links Ephah's camels directly with gold and frankincense from Sheba."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ezekiel 27:22-23 (Sefaria)",
+        "url": "https://www.sefaria.org/Ezekiel.27.22-23",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Incense trade route (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Incense_trade_route",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "dedan",
+    "parentId": "jokshan",
+    "name": "Dedan",
+    "nativeNames": "דְּדָן · ددان · Dadanu",
+    "kind": "person",
+    "branch": "keturah",
+    "era": "Patriarchal / 1st Mill. BCE",
+    "region": "hejaz-west-arabia",
+    "territory": "Al-'Ula Valley (Northern Hejaz, Saudi Arabia)",
+    "cardRole": "Grandson of Abraham · Eponym of Dadan Oasis",
+    "summary": "Son of Jokshan and father of Asshurim, Letushim, and Leummim; eponym of the oasis city of Dadan (Al-'Ula).",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Dadan & Lihyan",
+      "detail": "Continues into the three Dedanite peoples of Genesis 25:3 and the excavated oasis kingdoms of Dadan and Lihyan at Al-'Ula."
+    },
+    "geo": {
+      "lat": 26.617,
+      "lng": 37.954,
+      "rxKm": 110,
+      "ryKm": 70,
+      "angle": -50,
+      "sites": [
+        { "name": "Al-Khuraybah (Dadan)", "lat": 26.617, "lng": 37.954 }
+      ]
+    },
+    "history": [
+      "Genesis 25:3 names Dedan as Jokshan's second son and records three plural ethnonyms as his issue: Asshurim, Letushim, and Leummim. Hebrew prophets depict Dedan as a premier caravan people trading saddlecloths with Tyre (Ezekiel 27:20), lodging in desert thickets along the northern trade tracks (Isaiah 21:13), and bordering southern Edom from Teman to Dedan (Ezekiel 25:13; Jeremiah 49:8)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "North Arabian Epigraphy",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "dadan-lihyan",
+        "relation": "Oasis kingdoms of Dadan and Lihyan excavated at Al-Khuraybah (Al-'Ula)."
+      },
+      {
+        "id": "teman",
+        "relation": "Ezekiel 25:13 defines Edom's full expanse as stretching from Teman to Dedan."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Isaiah 21:13 (Sefaria)",
+        "url": "https://www.sefaria.org/Isaiah.21.13",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Ezekiel 27:20 (Sefaria)",
+        "url": "https://www.sefaria.org/Ezekiel.27.20",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Dedan (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Dedan",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "asshurim",
+    "parentId": "dedan",
+    "name": "Asshurim",
+    "nativeNames": "אַשּׁוּרִם · 'A'shur",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "1st Mill. BCE",
+    "region": "hejaz-west-arabia",
+    "territory": "Northwest Arabian Steppe Around Dedan",
+    "cardRole": "1st Dedanite People (Gen 25:3)",
+    "summary": "North Arabian tribe descended from Dedan, linked to 'A'shur in Minaean inscriptions from the Dedan trade corridor.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Dadan & Lihyan",
+      "detail": "Coalesced within the Dedanite oasis polity along the northern Hejaz trade corridor."
+    },
+    "geo": {
+      "lat": 27.05,
+      "lng": 37.65,
+      "rxKm": 95,
+      "ryKm": 60,
+      "angle": -48,
+      "sites": [
+        { "name": "Northern Dedan Steppe", "lat": 27.05, "lng": 37.65 }
+      ]
+    },
+    "history": [
+      "Unlike Mesopotamia's empire of Asshur (singular), Genesis 25:3 uses the plural ethnonym Asshurim for a North Arabian people sprung from Dedan. South Arabian (Minaean) inscriptions discovered along the caravan route involving Dedan mention a northern Arabian district or tribe named 'A'shur alongside Gaza and Egypt, and some textual scholars also link this desert group to the \"Ashurites\" (Ashuri) mentioned in southern or Transjordanian border contexts."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "North Arabian Epigraphy"
+    ],
+    "relatedIds": [
+      {
+        "id": "dadan-lihyan",
+        "relation": "Minaean merchants maintained a resident colony inside Dedan/Lihyan."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:3 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.3",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Asshurim (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Asshurim",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "letushim",
+    "parentId": "dedan",
+    "name": "Letushim",
+    "nativeNames": "לְטוּשִׁים",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "1st Mill. BCE",
+    "region": "hejaz-west-arabia",
+    "territory": "Dedanite Oasis Hinterland (Hejaz)",
+    "cardRole": "2nd Dedanite People · Artisan/Metalworking Clan",
+    "summary": "Second plural tribe under Dedan (Gen 25:3), whose Semitic root denotes metal sharpeners or smiths.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Dadan & Lihyan",
+      "detail": "Integrated as an artisan and caravan clan inside the Dedanite/Lihyanite oasis sphere."
+    },
+    "geo": {
+      "lat": 26.45,
+      "lng": 38.1,
+      "rxKm": 80,
+      "ryKm": 55,
+      "angle": -45,
+      "sites": [
+        { "name": "Al-'Ula Hinterland", "lat": 26.45, "lng": 38.1 }
+      ]
+    },
+    "history": [
+      "Recorded second among the sons of Dedan in Genesis 25:3 (omitted in the condensed parallel of 1 Chronicles 1:32), Letushim derives from the Semitic verb l-t-sh (\"to hammer, forge, or sharpen,\" compare Genesis 4:22), pointing to itinerant metalworkers or weapon-smiths attached to the oasis economy and caravan escorts around Al-'Ula."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "kenites",
+        "relation": "Fellow northwest Arabian desert lineage associated with smithing."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:3 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.3",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Dedan (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Dedan",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "leummim",
+    "parentId": "dedan",
+    "name": "Leummim",
+    "nativeNames": "לְאֻמִּים",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "1st Mill. BCE",
+    "region": "hejaz-west-arabia",
+    "territory": "Northwest Arabia & Red Sea Interior",
+    "cardRole": "3rd Dedanite People · Federated Clans",
+    "summary": "Third Dedanite people in Genesis 25:3, carrying a Semitic plural meaning federated \"peoples\" or tribes.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Dadan & Lihyan",
+      "detail": "Coalesced within the Dedanite/Lihyanite tribal federation of northern Hejaz."
+    },
+    "geo": {
+      "lat": 26.15,
+      "lng": 38.35,
+      "rxKm": 95,
+      "ryKm": 60,
+      "angle": -45,
+      "sites": [
+        { "name": "Southern Dedan Steppe", "lat": 26.15, "lng": 38.35 }
+      ]
+    },
+    "history": [
+      "Closing the Dedanite triad in Genesis 25:3, Leummim shares the Semitic noun le'om (\"people\" or \"tribal nation\"). Classical geographers Pliny and Ptolemy record an Arabian tribe called Allumaeotae / Alloumaiotai in the interior of the peninsula, which historical geographers compare with Dedan's confederated desert clans."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "dadan-lihyan",
+        "relation": "Tribal confederates tied to the oasis kingdom of Dadan."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:3 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.3",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Leummim (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Leummim",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "dadan-lihyan",
+    "parentId": "dedan",
+    "name": "Kingdoms of Dadan & Lihyan",
+    "nativeNames": "דְּדָן · ddn / lḥyn · دادان ولحيان",
+    "kind": "people",
+    "branch": "keturah",
+    "era": "c. 8th-1st c. BCE",
+    "region": "hejaz-west-arabia",
+    "territory": "Al-'Ula Oasis (Al-Khuraybah, Northwestern Saudi Arabia)",
+    "cardRole": "Monumental Oasis Kingdoms of the Hejaz",
+    "summary": "Prosperous caravan kingdoms excavated at Al-'Ula, leaving thousands of Dadanitic inscriptions and colossal statues.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Annexed by Nabataea · Lihyan in Hejaz",
+      "detail": "Absorbed politically by Nabataean expansion to nearby Hegra in the first century BCE; medieval Arab genealogists also remembered Banu Lihyan alongside Hudhayl in western Arabia."
+    },
+    "geo": {
+      "lat": 26.617,
+      "lng": 37.954,
+      "rxKm": 125,
+      "ryKm": 75,
+      "angle": -52,
+      "sites": [
+        { "name": "Al-Khuraybah (Al-'Ula)", "lat": 26.617, "lng": 37.954 },
+        { "name": "Gulf of Aqaba (Laeanitic Gulf)", "lat": 29.1, "lng": 34.85 }
+      ]
+    },
+    "history": [
+      "Archaeological excavations at Al-Khuraybah in the lush Al-'Ula valley of northwestern Saudi Arabia have uncovered the stone temples, rock-cut lion tombs, purification basins, and over-life-size sandstone royal statues of the Kingdom of Dadan (attested in sixth-century BCE Babylonian inscriptions of Nabonidus as Dadanu) and its successor dynasty, the Kingdom of Lihyan (fifth to first centuries BCE).",
+      "Local scribes left thousands of monumental and cliff-face texts in the indigenous Dadanitic alphabet, honoring their chief deity Dhu-Ghabat (\"Lord of the Thicket\"), dating reigns of kings of Dadan and Lihyan, and regulating seasonal irrigation and caravan tolls. Dedan also hosted a self-governing colony of South Arabian Minaean frankincense merchants, and so dominated regional commerce that Classical writers called the Gulf of Aqaba the \"Laeanitic (Lihyanite) Gulf.\""
+    ],
+    "traditions": [
+      "Archaeology",
+      "North Arabian Epigraphy",
+      "Hebrew Bible",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "tema",
+        "relation": "Rival oasis power 110 km northeast; Nabonidus marched from Tayma to subdue Dadanu."
+      },
+      {
+        "id": "nabataeans",
+        "relation": "Nabataeans established Hegra (Mada'in Salih) 22 km north of Dadan and absorbed Lihyan."
+      }
+    ],
+    "sources": [
+      {
+        "label": "OCIANA: Online Corpus of the Inscriptions of Ancient North Arabia",
+        "url": "https://ociana.osu.edu/",
+        "kind": "Epigraphy"
+      },
+      {
+        "label": "Dadan (Livius.org)",
+        "url": "https://www.livius.org/articles/place/dedan/",
+        "kind": "Reference"
+      },
+      {
+        "label": "Lihyan (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Lihyan",
+        "kind": "Reference"
+      },
+      {
+        "label": "Dadanitic (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Dadanitic",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "medan",
+    "parentId": "keturah",
+    "name": "Medan",
+    "nativeNames": "מְדָן · مدان",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "Patriarchal / 8th c. BCE",
+    "region": "hejaz-west-arabia",
+    "territory": "Northwest Arabia (North of Dedan)",
+    "mother": "Keturah (Qantura')",
+    "cardRole": "3rd Son of Keturah · Sister Clan to Midian",
+    "summary": "Third son of Keturah, paired with Midian in Genesis 37:36 (\"Medanites\") and linked to Assyrian Badana.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced with Midianites",
+      "detail": "Intertwined with Midianite and Ishmaelite caravaneers (Gen 37:28, 36) and merged into northwest Arabian oasis populations."
+    },
+    "geo": {
+      "lat": 27.85,
+      "lng": 36.45,
+      "rxKm": 115,
+      "ryKm": 70,
+      "angle": -45,
+      "sites": [
+        { "name": "Badana (NW Arabia)", "lat": 28.0, "lng": 36.5 }
+      ]
+    },
+    "history": [
+      "Medan stands third among Keturah's sons immediately before Midian (Genesis 25:2; 1 Chronicles 1:32). In the Joseph narrative, Genesis 37:28 calls the spice-trading desert merchants \"Midianites\" and \"Ishmaelites,\" while the Hebrew text of Genesis 37:36 writes Medanim (\"Medanites\") selling Joseph in Egypt, showing how closely neighboring Medanite, Midianite, and Ishmaelite caravaneers intertwined.",
+      "Epigraphists and Assyriologists (including Ernst Axel Knauf) connect Medan with the northwest Arabian oasis of Badana (with regular labial shift m/b), listed alongside Massa, Tema, and Hayapa in Tiglath-Pileser III's 733-732 BCE tribute records."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals"
+    ],
+    "relatedIds": [
+      {
+        "id": "midian",
+        "relation": "Adjacent brother tribe often paired with Medan in caravan accounts."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 37:28 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.37.28",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 37:36 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.37.36",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Medan (son of Abraham) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Medan_(son_of_Abraham)",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "midian",
+    "parentId": "keturah",
+    "name": "Midian (Madyan)",
+    "nativeNames": "מִדְיָן · مدين",
+    "kind": "person",
+    "branch": "keturah",
+    "era": "Patriarchal Age",
+    "region": "hejaz-west-arabia",
+    "territory": "Eastern Shore of Gulf of Aqaba, Hisma & Tabuk",
+    "mother": "Keturah (Qantura')",
+    "cardRole": "4th Son of Keturah · Father of Five Clans",
+    "summary": "Fourth and best-attested son of Keturah, progenitor of five northwest Arabian clans and the land of Madyan.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via 5 clans & Kenites",
+      "detail": "Continues through five constituent clans, the Midianite League of Madyan, and the Kenite/Rechabite clans."
+    },
+    "geo": {
+      "lat": 28.502,
+      "lng": 35.004,
+      "rxKm": 165,
+      "ryKm": 95,
+      "angle": -55,
+      "sites": [
+        { "name": "Al-Bad' (Madyan)", "lat": 28.502, "lng": 35.004 },
+        { "name": "Qurayyah", "lat": 28.79, "lng": 36.0 }
+      ]
+    },
+    "history": [
+      "Genesis 25:2, 4 and 1 Chronicles 1:32-33 name Midian as Abraham's fourth son by Keturah and record five sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah, mirroring the five federated kings or elders of Midian who appear together in Numbers 31:8 and Joshua 13:21. His descendants gave their name to the coastal plain and mountain escarpment east of the Gulf of Aqaba in northwestern Saudi Arabia, called Modiana by Ptolemy and Madyan by Arab geographers."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Islamic Tradition",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "midian-league",
+        "relation": "Confederated tribes and oasis settlements of Midian / Madyan."
+      },
+      {
+        "id": "kenites",
+        "relation": "Allied smithing and nomadic clan linked to Midian via Moses's father-in-law."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:2-4 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.2-4",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Midian (son of Abraham) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Midian_(son_of_Abraham)",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "ephah",
+    "parentId": "midian",
+    "name": "Ephah (Hayapa)",
+    "nativeNames": "עֵיפָה · Hayapa",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "Patriarchal / 8th c. BCE",
+    "region": "hejaz-west-arabia",
+    "territory": "Northwest Arabia (Tabuk / Northern Hejaz) & Samaria Colony",
+    "cardRole": "1st Son of Midian · Assyrian Hayapa Tribe",
+    "summary": "Eldest Midianite clan famed in Isaiah 60:6 for dromedaries and attested as Hayapa in Tiglath-Pileser III and Sargon II.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Midian & 715 BCE Samaria",
+      "detail": "Coalesced within Midian while Sargon II deported a northern group to settle in Samaria in 715 BCE."
+    },
+    "geo": {
+      "lat": 28.35,
+      "lng": 36.55,
+      "rxKm": 135,
+      "ryKm": 80,
+      "angle": -40,
+      "sites": [
+        { "name": "Tabuk Basin", "lat": 28.383, "lng": 36.566 },
+        { "name": "Samaria (715 BCE settlement)", "lat": 32.276, "lng": 35.195 }
+      ]
+    },
+    "history": [
+      "Ephah heads the five sons of Midian (Genesis 25:4) and stands parallel to Midian itself in Isaiah 60:6 (\"A multitude of camels shall cover you, the young camels of Midian and Ephah; all those from Sheba shall come; they shall bring gold and frankincense\").",
+      "In eighth-century BCE cuneiform records, the tribe appears as Hayapa (reflecting Old North Arabian pronunciation of initial ghayn/'ayin): they paid tribute to Tiglath-Pileser III in 733-732 BCE, and in 715 BCE Sargon II defeated the distant Arab tribes of Tamudi (Thamud), Ibadidi, Marsimani, and Hayapa and deported a remnant to settle in the province of Samaria, physically introducing Midianite-Ephahite Arabs into central Palestine."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals"
+    ],
+    "relatedIds": [
+      {
+        "id": "northern-israel",
+        "relation": "Sargon II resettled captives from Hayapa (Ephah) in Samaria in 715 BCE."
+      },
+      {
+        "id": "judah",
+        "relation": "1 Chronicles 2:46-47 also records two Calebite figures named Ephah inside Judah."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Isaiah 60:6 (Sefaria)",
+        "url": "https://www.sefaria.org/Isaiah.60.6",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Ephah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ephah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "epher",
+    "parentId": "midian",
+    "name": "Epher",
+    "nativeNames": "עֵפֶר · Ophren",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "Patriarchal / Iron Age - Hellenistic",
+    "region": "hejaz-west-arabia",
+    "territory": "Northwest Arabia & Red Sea / North African Tradition",
+    "cardRole": "2nd Son of Midian · Caravan Clan & Classical Tradition",
+    "summary": "Second Midianite clan; linked to northwest Arabian tribes and, in Josephus via Cleodemus, to ancient Africa.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Midian",
+      "detail": "Coalesced into the Midianite confederacy, with a Calebite namesake also attested inside Judah (1 Chr 4:17)."
+    },
+    "geo": {
+      "lat": 27.95,
+      "lng": 35.55,
+      "rxKm": 105,
+      "ryKm": 65,
+      "angle": -50,
+      "sites": [
+        { "name": "Hisma Escarpment", "lat": 28.1, "lng": 35.6 }
+      ]
+    },
+    "history": [
+      "Epher stands second among Midian's sons in Genesis 25:4 and 1 Chronicles 1:33. Assyriologists compare the clan to the Apparu of later cuneiform records and to western Arabian tribal names near Medina, while 1 Chronicles 4:17 records an Epher within Calebite Judah. Quoting Alexander Polyhistor and Hellenistic Jewish writer Cleodemus Malchus, Flavius Josephus (Antiquities 1.239-241) preserves a legend in which Cleodemus called Apheras and Japhras sons of Abraham by Keturah (whom Josephus aligns with Abraham's Midianite grandson Ophren/Epher) who campaigned into Libya and gave Africa its name."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "ephah",
+        "relation": "Paired elder Midianite brother in Genesis 25:4."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Josephus, Antiquities 1.239-241 (Lexundria)",
+        "url": "https://lexundria.com/j_aj/1.239-1.241/wst",
+        "kind": "Classical"
+      },
+      {
+        "label": "Epher (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Epher",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "hanoch-midian",
+    "parentId": "midian",
+    "name": "Hanoch (Midianite)",
+    "nativeNames": "חֲנוֹךְ",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "Patriarchal / Iron Age",
+    "region": "hejaz-west-arabia",
+    "territory": "Midianite Oasis Belt (Northwest Saudi Arabia)",
+    "cardRole": "3rd Son of Midian · Midianite Clan",
+    "summary": "Third son of Midian (sharing a Hebrew name with Reuben's firstborn clan), rooted in northwest Arabian oases.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Midian",
+      "detail": "Federated inside the five-clan Midianite league along the northern Hejaz and Moab steppe."
+    },
+    "geo": {
+      "lat": 29.15,
+      "lng": 35.75,
+      "rxKm": 105,
+      "ryKm": 65,
+      "angle": -35,
+      "sites": [
+        { "name": "Moab-Midian Border", "lat": 29.2, "lng": 35.8 }
+      ]
+    },
+    "history": [
+      "Listed third among Midian's five sons (Genesis 25:4; 1 Chronicles 1:33), Hanoch shares the exact clan name found at the head of the Transjordanian Israelite tribe of Reuben (Genesis 46:9; Numbers 26:5). Historians of ancient Transjordan note that Midianite and Reubenite pastoralists overlapped across the Moab plateau and northern Hejaz (compare Joshua 13:21, where the five chiefs of Midian are called vassals or allies of Sihon on the Reubenite border), explaining the shared clan eponym."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "North Arabian Epigraphy"
+    ],
+    "relatedIds": [
+      {
+        "id": "reuben",
+        "relation": "Shares the clan name Hanoch along the Moab-Midian pastoral frontier."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:4 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.4",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Joshua 13:21 (Sefaria)",
+        "url": "https://www.sefaria.org/Joshua.13.21",
+        "kind": "Scripture"
+      }
+    ]
+  },
+  {
+    "id": "abida",
+    "parentId": "midian",
+    "name": "Abida ('Abiyada')",
+    "nativeNames": "אֲבִידָע · 'Abiyada'",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "Patriarchal / 1st Mill. BCE",
+    "region": "hejaz-west-arabia",
+    "territory": "Midian-Minaean Incense Corridor",
+    "cardRole": "4th Son of Midian · Arabian Theophoric Clan",
+    "summary": "Fourth son of Midian with a classic Arabian name (\"My Father Knows\") attested among Minaean rulers.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Midian",
+      "detail": "Federated inside the Midianite league along the western Arabian incense route."
+    },
+    "geo": {
+      "lat": 27.55,
+      "lng": 36.95,
+      "rxKm": 95,
+      "ryKm": 60,
+      "angle": -48,
+      "sites": [
+        { "name": "Northern Hejaz Track", "lat": 27.55, "lng": 36.95 }
+      ]
+    },
+    "history": [
+      "Abida appears fourth among Midian's sons (Genesis 25:4; 1 Chronicles 1:33). Semitic epigraphists point out that Hebrew Abida reproduces the Old Arabian compound name 'Abiyada' (\"My divine Father knows\"), a royal name borne by several kings of Ma'in in South Arabian Minaean inscriptions that governed merchant stations up through Dedan and Midian."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "North Arabian Epigraphy"
+    ],
+    "relatedIds": [
+      {
+        "id": "eldaah",
+        "relation": "Brother with the parallel Arabian theophoric name 'Iliyada'."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:4 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.4",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Abida (biblical figure) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Abida_(biblical_figure)",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "eldaah",
+    "parentId": "midian",
+    "name": "Eldaah ('Iliyada')",
+    "nativeNames": "אֶלְדָּעָה · 'Iliyada'",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "Patriarchal / 1st Mill. BCE",
+    "region": "hejaz-west-arabia",
+    "territory": "Midian-Minaean Incense Corridor",
+    "cardRole": "5th Son of Midian · Arabian Theophoric Clan",
+    "summary": "Fifth and youngest son of Midian, named 'Iliyada' (\"God Knows\") in Old Arabian.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Midian",
+      "detail": "Federated inside the five-clan Midianite confederacy in northwest Arabia."
+    },
+    "geo": {
+      "lat": 27.25,
+      "lng": 37.25,
+      "rxKm": 95,
+      "ryKm": 60,
+      "angle": -48,
+      "sites": [
+        { "name": "Hejaz Caravan Track", "lat": 27.25, "lng": 37.25 }
+      ]
+    },
+    "history": [
+      "Closing the five Midianite clans in Genesis 25:4 and 1 Chronicles 1:33, Eldaah matches the Ancient North and South Arabian personal and clan name 'Iliyada' or Yada''il (\"God has known\"), confirming that the biblical writer preserved authentic first-millennium Arabian onomastics along the western caravan track."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "North Arabian Epigraphy"
+    ],
+    "relatedIds": [
+      {
+        "id": "abida",
+        "relation": "Paired brother clan in Midian's fivefold confederacy."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:4 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.4",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Eldaah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Eldaah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "midian-league",
+    "parentId": "midian",
+    "name": "Midianite League (Madyan)",
+    "nativeNames": "מִדְיָנִים · أهل مدين",
+    "kind": "people",
+    "branch": "keturah",
+    "era": "Late Bronze - Early Iron Age (c. 13th-10th c. BCE)",
+    "region": "hejaz-west-arabia",
+    "territory": "Al-Bad', Qurayyah, Hisma, Arabah Copper Mines & Sinai",
+    "cardRole": "Oasis Towns, Copper Metallurgists & Camel Raiders",
+    "summary": "Confederacy of northwest Arabia tied to Qurayyah Painted Ware, Moses's refuge, and Quranic Prophet Shu'ayb.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Absorbed into NW Arabian polities",
+      "detail": "Following the Early Iron Age decline of Arabah copper camps, Madyan's oasis communities merged into Lihyanite, Nabataean, and later Quda'ah/Baliy populations around Al-Bad' and Tabuk."
+    },
+    "geo": {
+      "lat": 28.65,
+      "lng": 35.35,
+      "rxKm": 175,
+      "ryKm": 95,
+      "angle": -55,
+      "sites": [
+        { "name": "Al-Bad' (Magha'ir Shu'ayb)", "lat": 28.502, "lng": 35.004 },
+        { "name": "Qurayyah", "lat": 28.79, "lng": 36.0 },
+        { "name": "Timna Copper Valley", "lat": 29.788, "lng": 34.989 }
+      ]
+    },
+    "history": [
+      "Archaeology anchors Late Bronze and Early Iron Age Midian at fortified northwest Arabian oases such as Qurayyah and Tayma, as well as Al-Bad' (Magha'ir Shu'ayb) near the Gulf of Aqaba. Distinctive polychrome \"Qurayyah Painted Ware\" (often called Midianite pottery) appears across northern Hejaz and at the Egyptian-run copper-smelting camps of Timna in the southern Arabah, where Midianite smiths converted an Egyptian Hathor shrine into a desert tent-sanctuary.",
+      "In Exodus 2-4 and 18, Moses fled Egypt to Midian, married Zipporah daughter of the Midianite priest Reuel (Jethro), beheld the burning bush at Horeb, and later organized Israel's judicial courts on Jethro's counsel; yet in Numbers 25 and 31 and Judges 6-8, camel-riding Midianite chieftains (Oreb, Zeeb, Zebah, and Zalmunna) raided across the Jordan into Jezreel before Gideon's defeat broke their Levantine incursions. In the Quran (Surahs 7, 11, 26, and 29), the people of Madyan are a prosperous trading society admonished by the Arab prophet Shu'ayb against fraudulent weights and highway extortion."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Islamic Tradition",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "levi",
+        "relation": "Moses of Levi married into the priestly family of Midian."
+      },
+      {
+        "id": "kenites",
+        "relation": "Sub-branch or allied clan of Midian that settled alongside Judah and Israel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Exodus 2:15-22 (Sefaria)",
+        "url": "https://www.sefaria.org/Exodus.2.15-22",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Exodus 18:1-27 (Sefaria)",
+        "url": "https://www.sefaria.org/Exodus.18.1-27",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Judges 6:1-6 (Sefaria)",
+        "url": "https://www.sefaria.org/Judges.6.1-6",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Quran 7:85-93, Madyan (Quran.com)",
+        "url": "https://quran.com/7/85-93",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Midian (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Midian",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "kenites",
+    "parentId": "midian",
+    "name": "Kenites & Rechabites",
+    "nativeNames": "קֵינִי · בְּנֵי רֵכָב",
+    "kind": "people",
+    "branch": "keturah",
+    "era": "13th-5th c. BCE",
+    "region": "sinai-negev-edom",
+    "territory": "Arabah Copper Belt, Eastern Negev (Arad) & Galilee",
+    "cardRole": "Midianite-Linked Smiths & Tent-Dwelling Allies of Israel",
+    "summary": "Nomadic metallurgists tied to Moses's Midianite in-laws who settled the Negev of Judah and produced the Rechabites.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Absorbed into Judah & Yehud",
+      "detail": "Settled the Negev south of Arad beside Judah and integrated into royal and post-exilic Judean society (1 Chr 2:55; Neh 3:14)."
+    },
+    "geo": {
+      "lat": 31.18,
+      "lng": 35.12,
+      "rxKm": 95,
+      "ryKm": 60,
+      "angle": -20,
+      "sites": [
+        { "name": "Tel Arad", "lat": 31.281, "lng": 35.125 },
+        { "name": "Kedesh (Heber's tent)", "lat": 32.71, "lng": 35.53 }
+      ]
+    },
+    "history": [
+      "Although an ancient \"Kenite\" group already appears in Genesis 15:19, Judges 1:16 and 4:11 explicitly identify the descendants of Moses's father-in-law Hobab as \"the Kenite,\" treating the historical Kenites as a metalworking clan (Semitic qayn, \"smith\") within the Midianite confederacy. Accompanying Judah up from Jericho (\"City of Palms\"), Kenite families pitched tents in the wilderness of Judah south of Arad, while Heber the Kenite and his wife Jael migrated north to Kedesh in Naphtali, where Jael slew the Canaanite general Sisera (Judges 4-5; 1 Samuel 15:6).",
+      "According to 1 Chronicles 2:55, the ascetic tent-dwelling Rechabites sprang from Hammath, ancestor of the House of Rechab among these Kenite clans. In Jeremiah 35:1-19, when Nebuchadnezzar's forces invaded Judah during the reign of King Jehoiakim (c. 598 BCE), the Rechabites took temporary refuge inside Jerusalem while steadfastly keeping their ancestral vow to shun wine, houses, and vineyards; Nehemiah 3:14 later records Malchijah son of Rechab helping rebuild Jerusalem's walls in the Persian period."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "judah",
+        "relation": "Shared settlements in the Negev of Arad and friendly protection from Saul and David (1 Sam 15:6; 30:29)."
+      },
+      {
+        "id": "amalekites",
+        "relation": "Camped near Amalekite pastures until Saul warned them to separate before battle (1 Sam 15:6)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Judges 1:16 (Sefaria)",
+        "url": "https://www.sefaria.org/Judges.1.16",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Judges 4:11 (Sefaria)",
+        "url": "https://www.sefaria.org/Judges.4.11",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Jeremiah 35:1-19 (Sefaria)",
+        "url": "https://www.sefaria.org/Jeremiah.35.1-19",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Kenites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kenites",
+        "kind": "Reference"
+      },
+      {
+        "label": "Rechabites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Rechabites",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "ishbak",
+    "parentId": "keturah",
+    "name": "Ishbak (Yasbuq)",
+    "nativeNames": "יִשְׁבָּק · Yasbuq",
+    "kind": "clan",
+    "branch": "keturah",
+    "era": "Patriarchal / 9th c. BCE",
+    "region": "syria-mesopotamia",
+    "territory": "Northern Syria / Syro-Arabian Steppe",
+    "mother": "Keturah (Qantura')",
+    "cardRole": "5th Son of Keturah · Northern Steppe Clan",
+    "summary": "Fifth son of Keturah, compared by Assyriologists to Yasbuq in Shalmaneser III's ninth-century BCE annals.",
+    "continuity": {
+      "status": "unattested",
+      "badge": "○ Unattested after 9th c. BCE",
+      "detail": "After possible attestation as Yasbuq in 858 BCE, disappears into the Aramaean-Arab pastoral populations of northern Syria."
+    },
+    "geo": {
+      "lat": 36.15,
+      "lng": 38.05,
+      "rxKm": 120,
+      "ryKm": 75,
+      "angle": -20,
+      "sites": [
+        { "name": "Upper Euphrates Margin (Yasbuq)", "lat": 36.25, "lng": 38.1 }
+      ]
+    },
+    "history": [
+      "Ishbak stands fifth among Keturah's six sons (Genesis 25:2; 1 Chronicles 1:32). On the Kurkh Monolith of Assyrian king Shalmaneser III (inscribed c. 852 BCE), a ruler named Bur-Anate of Yasbuq joins a northern Syrian coalition against Assyria in 858 BCE; scholars compare Yasbuq either as a northern migration of this Keturahite pastoral group or a cognate Northwest Semitic tribal polity along the upper Euphrates margin."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals"
+    ],
+    "relatedIds": [
+      {
+        "id": "shuah",
+        "relation": "Neighboring youngest brother linked to the Euphrates corridor."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:2 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.2",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Ishbak (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ishbak",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "shuah",
+    "parentId": "keturah",
+    "name": "Shuah",
+    "nativeNames": "שׁוּחַ",
+    "kind": "person",
+    "branch": "keturah",
+    "era": "Patriarchal Age",
+    "region": "syria-mesopotamia",
+    "territory": "Middle Euphrates & Eastern Syrian Steppe",
+    "mother": "Keturah (Qantura')",
+    "cardRole": "6th Son of Keturah · Ancestor of the Shuhites",
+    "summary": "Youngest son of Abraham and Keturah, sent eastward toward the Euphrates steppe.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Shuhites (Suhu)",
+      "detail": "Continues into the Shuhite polity along the Middle Euphrates."
+    },
+    "geo": {
+      "lat": 34.37,
+      "lng": 41.98,
+      "rxKm": 130,
+      "ryKm": 65,
+      "angle": -30,
+      "sites": [
+        { "name": "Anat ('Anah)", "lat": 34.369, "lng": 41.982 }
+      ]
+    },
+    "history": [
+      "Shuah closes the list of Keturah's six sons in Genesis 25:2 and 1 Chronicles 1:32 (note a separate Canaanite man named Shua, spelled with final 'ayin rather than heth, in Genesis 38:2). His descendants settled the northeastern edge of the Syro-Arabian desert toward the Middle Euphrates, forming the Shuhite people."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "shuhites",
+        "relation": "Euphrates-steppe people descended from Shuah."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:2 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.2",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Shuah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Shuah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "shuhites",
+    "parentId": "shuah",
+    "name": "Shuhites (Land of Suhu)",
+    "nativeNames": "שׁוּחִי · Suhu",
+    "kind": "people",
+    "branch": "keturah",
+    "era": "2nd-1st Mill. BCE",
+    "region": "syria-mesopotamia",
+    "territory": "Middle Euphrates Valley (Around Anat & Hit, Western Iraq)",
+    "cardRole": "Euphrates Caravan Polity · Bildad the Shuhite",
+    "summary": "People of Bildad the Shuhite in the Book of Job, widely linked to the cuneiform land of Suhu on the Middle Euphrates.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Absorbed into Mesopotamian empires",
+      "detail": "Suhu's Euphrates valley towns were incorporated into the Neo-Assyrian and Neo-Babylonian empires in the seventh and sixth centuries BCE."
+    },
+    "geo": {
+      "lat": 34.05,
+      "lng": 42.35,
+      "rxKm": 155,
+      "ryKm": 70,
+      "angle": -32,
+      "sites": [
+        { "name": "Anat ('Anah)", "lat": 34.369, "lng": 41.982 },
+        { "name": "Hit", "lat": 33.636, "lng": 42.828 }
+      ]
+    },
+    "history": [
+      "In the Book of Job (Job 2:11; 8:1), Job's friend Bildad the Shuhite comes from the \"people of the East\" alongside Eliphaz the Temanite (from Edom) and Zophar the Naamathite (from northwest Arabia). Assyriologists connect Shuah and the Shuhites with the land of Suhu along the Middle Euphrates downstream from Mari and Hindanu (modern western Anbar province, Iraq).",
+      "Mid-eighth-century BCE cuneiform tablets of Ninurta-kudurri-usur, governor of Suhu and Mari, record how his troops ambushed a caravan of 200 camels belonging to the people of Tema (Tayma) and Saba' (Sheba) that tried to bypass Euphrates water-well tolls, demonstrating direct commercial contact between Suhu and the oasis descendants of Ishmael and Jokshan."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "tema",
+        "relation": "Suhu cuneiform annals document intercepting a Tayma-Sabaean caravan."
+      },
+      {
+        "id": "teman",
+        "relation": "Bildad the Shuhite appears alongside Eliphaz the Temanite in Job 2:11."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Job 2:11 (Sefaria)",
+        "url": "https://www.sefaria.org/Job.2.11",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Bildad (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Bildad",
+        "kind": "Reference"
+      },
+      {
+        "label": "Suhum (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Suhum",
+        "kind": "Reference"
+      }
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Descendants of Abraham &amp; Peoples of Arabia and the Near East</title>
+  <link rel="stylesheet" href="css/chart.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="topbar-primary">
+        <div class="brand-group">
+          <h1 class="app-title">Descendants of Abraham &amp; Peoples of the Near East</h1>
+          <span id="stats-pill" class="stats-pill" aria-live="polite">Loading lineage catalog...</span>
+        </div>
+        <div class="header-actions">
+          <div class="mode-switch" role="group" aria-label="Workspace view mode">
+            <button type="button" class="mode-tab" data-view-mode="tree" aria-pressed="true">Tree</button>
+            <button type="button" class="mode-tab" data-view-mode="split" aria-pressed="false">Split: Tree + Map</button>
+            <button type="button" class="mode-tab" data-view-mode="map" aria-pressed="false">Map</button>
+          </div>
+          <div class="search-box">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <circle cx="11" cy="11" r="7"></circle>
+              <line x1="20" y1="20" x2="16.2" y2="16.2"></line>
+            </svg>
+            <input
+              id="node-search"
+              class="search-input"
+              type="search"
+              role="combobox"
+              aria-expanded="false"
+              aria-controls="search-results"
+              aria-autocomplete="list"
+              placeholder="Search person, tribe, people, oasis..."
+              aria-label="Search descendants, tribes, and people groups"
+              autocomplete="off"
+            >
+            <div id="search-results" class="search-results" role="listbox" hidden></div>
+          </div>
+          <button type="button" id="open-scope" class="action-button action-button-subtle">
+            Scope &amp; Context
+          </button>
+        </div>
+      </div>
+
+      <div class="topbar-controls">
+        <div class="branch-tabs" role="group" aria-label="Filter by maternal and patriarchal branch">
+          <button type="button" class="branch-tab" data-branch-tab="all" aria-pressed="true">
+            <span class="branch-dot" style="background-color: #8c5a18;"></span>
+            <span>All Lineages</span>
+          </button>
+          <button type="button" class="branch-tab" data-branch-tab="ishmael" aria-pressed="false">
+            <span class="branch-dot" style="background-color: #0f6b5c;"></span>
+            <span>Hagar &amp; Ishmael</span>
+          </button>
+          <button type="button" class="branch-tab" data-branch-tab="keturah" aria-pressed="false">
+            <span class="branch-dot" style="background-color: #b34724;"></span>
+            <span>Keturah</span>
+          </button>
+          <button type="button" class="branch-tab" data-branch-tab="esau" aria-pressed="false">
+            <span class="branch-dot" style="background-color: #982b2b;"></span>
+            <span>Esau (Edom)</span>
+          </button>
+          <button type="button" class="branch-tab" data-branch-tab="jacob" aria-pressed="false">
+            <span class="branch-dot" style="background-color: #234876;"></span>
+            <span>Jacob (Israel)</span>
+          </button>
+        </div>
+
+        <div class="view-controls">
+          <label class="control-label" for="region-filter">
+            <span>Highlight</span>
+            <select id="region-filter" class="region-select">
+              <option value="all">None (Full Tree)</option>
+              <option value="peoples">All People Groups &amp; Polities</option>
+              <option value="north-arabia">North, Central &amp; Eastern Arabia</option>
+              <option value="hejaz-west-arabia">Hejaz, Red Sea &amp; West Arabia</option>
+              <option value="sinai-negev-edom">Sinai, Negev &amp; Edom (Seir)</option>
+              <option value="levant-canaan">Canaan, Levant &amp; Transjordan</option>
+              <option value="syria-mesopotamia">Syrian Steppe &amp; Euphrates</option>
+              <option value="mediterranean-diaspora">Mediterranean, North Africa &amp; Diaspora</option>
+            </select>
+          </label>
+          <label class="control-label" for="arcs-mode">
+            <span>Dotted</span>
+            <select id="arcs-mode" class="region-select">
+              <option value="converge">Convergences &amp; Marriages</option>
+              <option value="all">All + Clan Coalescences</option>
+              <option value="none">Hidden</option>
+            </select>
+          </label>
+          <button type="button" id="toggle-layout" class="action-button">
+            Layout: Top-Down
+          </button>
+          <button type="button" id="expand-all" class="action-button">
+            Expand All
+          </button>
+          <button type="button" id="collapse-core" class="action-button">
+            Patriarchs Only
+          </button>
+          <button type="button" id="fit-chart" class="action-button">
+            Fit
+          </button>
+          <button type="button" id="zoom-in" class="action-button" aria-label="Zoom in">+</button>
+          <button type="button" id="zoom-out" class="action-button" aria-label="Zoom out">&minus;</button>
+        </div>
+      </div>
+    </header>
+
+    <div id="spotlight-bar" class="spotlight-bar" hidden>
+      <div class="spotlight-content">
+        <span id="spotlight-title" class="spotlight-title"></span>
+        <div id="spotlight-chips" class="spotlight-chips"></div>
+      </div>
+      <button type="button" id="clear-spotlight" class="action-button">Clear</button>
+    </div>
+
+    <main id="workspace" class="workspace" data-mode="tree">
+      <div id="chart-pane" class="chart-pane">
+        <div id="chart" class="chart-canvas" role="region" aria-label="Interactive family tree of Abraham"></div>
+      </div>
+      <section id="geo-pane" class="geo-pane" aria-label="Geographic map of Abraham's descendants" hidden>
+        <div id="geo-map" class="geo-canvas"></div>
+      </section>
+
+      <aside class="legend-panel" aria-label="Chart legend">
+        <div class="legend-row">
+          <span class="legend-item">
+            <span class="legend-swatch" style="background-color: #8c5a18;"></span>
+            <span>Patriarchal Root</span>
+          </span>
+          <span class="legend-item">
+            <span class="legend-swatch" style="background-color: #0f6b5c;"></span>
+            <span>Ishmaelite &amp; Adnanite</span>
+          </span>
+          <span class="legend-item">
+            <span class="legend-swatch" style="background-color: #b34724;"></span>
+            <span>Keturahite &amp; Midianite</span>
+          </span>
+          <span class="legend-item">
+            <span class="legend-swatch" style="background-color: #982b2b;"></span>
+            <span>Esau &amp; Edomite</span>
+          </span>
+          <span class="legend-item">
+            <span class="legend-swatch" style="background-color: #234876;"></span>
+            <span>Jacob &amp; Israelite</span>
+          </span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-item">
+            <span class="legend-swatch legend-swatch-people"></span>
+            <span>People Group / Polity</span>
+          </span>
+          <span class="legend-item">
+            <span class="legend-swatch legend-swatch-clan"></span>
+            <span>Tribe / Clan</span>
+          </span>
+          <span class="legend-item">
+            <span class="legend-line-dotted" aria-hidden="true"></span>
+            <span>Absorbed / Converged</span>
+          </span>
+          <span class="legend-item">Click any card or map pin for history &amp; sources</span>
+        </div>
+      </aside>
+    </main>
+  </div>
+
+  <dialog id="entry-dialog" class="history-dialog" aria-labelledby="dialog-title">
+    <div class="dialog-panel">
+      <header class="dialog-header">
+        <div>
+          <div id="dialog-badges" class="dialog-badges"></div>
+          <h2 id="dialog-title" class="dialog-title"></h2>
+          <p id="dialog-native" class="dialog-native" hidden></p>
+          <p id="dialog-role" class="dialog-role"></p>
+        </div>
+        <button type="button" id="entry-dialog-close" class="dialog-close" aria-label="Close dialog">&times;</button>
+      </header>
+      <div id="dialog-body" class="dialog-body"></div>
+      <footer class="dialog-footer">
+        <div class="dialog-footer-actions">
+          <button type="button" id="entry-dialog-trace" class="action-button">Trace Lineage</button>
+          <button type="button" id="entry-dialog-map" class="action-button">Locate on Map</button>
+        </div>
+        <button type="button" id="entry-dialog-done" class="action-button action-button-subtle">Close</button>
+      </footer>
+    </div>
+  </dialog>
+
+  <dialog id="scope-dialog" class="history-dialog" aria-labelledby="scope-dialog-title">
+    <div class="dialog-panel">
+      <header class="dialog-header">
+        <div>
+          <div class="dialog-badges">
+            <span class="dialog-badge">Historical Scope</span>
+          </div>
+          <h2 id="scope-dialog-title" class="dialog-title">Traditions, Convergence &amp; Neighboring Lineages</h2>
+          <p class="dialog-role">How biblical, cuneiform, North Arabian, and classical Arab genealogies map onto this chart</p>
+        </div>
+        <button type="button" id="scope-dialog-close" class="dialog-close" aria-label="Close dialog">&times;</button>
+      </header>
+      <div id="scope-dialog-body" class="dialog-body"></div>
+      <footer class="dialog-footer">
+        <span class="dialog-footer-hint">Collateral Terahites (Lot, Nahor) and Qahtanite South Arabians are documented above rather than attached under Abraham.</span>
+        <button type="button" id="scope-dialog-done" class="action-button action-button-subtle">Close</button>
+      </footer>
+    </div>
+  </dialog>
+
+  <script src="js/vendor/d3.min.js"></script>
+  <script src="js/vendor/d3-flextree.min.js"></script>
+  <script src="js/vendor/d3-org-chart.min.js"></script>
+  <script src="js/geo-map.js"></script>
+  <script src="js/tree-app.js"></script>
+</body>
+</html>

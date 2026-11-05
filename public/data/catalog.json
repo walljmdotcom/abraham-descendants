@@ -1,0 +1,633 @@
+{
+  "geoFile": "data/near-east-geo.json",
+  "entryFiles": [
+    "data/patriarchs.json",
+    "data/ishmael-line.json",
+    "data/keturah-line.json",
+    "data/esau-line.json",
+    "data/jacob-line.json"
+  ],
+  "branches": {
+    "root": {
+      "id": "root",
+      "label": "Patriarchal Root",
+      "shortLabel": "Abraham",
+      "accent": "#8c5a18",
+      "surface": "#fbf4e4",
+      "border": "#d6b377",
+      "badgeBg": "#efe0be",
+      "badgeText": "#5e3a09"
+    },
+    "ishmael": {
+      "id": "ishmael",
+      "label": "Hagar & Ishmael",
+      "shortLabel": "Ishmaelite & Adnanite Line",
+      "accent": "#0f6b5c",
+      "surface": "#eef8f5",
+      "border": "#8ec7bc",
+      "badgeBg": "#d4eee8",
+      "badgeText": "#09473d"
+    },
+    "keturah": {
+      "id": "keturah",
+      "label": "Keturah",
+      "shortLabel": "Keturahite & Eastern Line",
+      "accent": "#b34724",
+      "surface": "#fdf2ed",
+      "border": "#dfa28d",
+      "badgeBg": "#f6dbd1",
+      "badgeText": "#7a2c13"
+    },
+    "esau": {
+      "id": "esau",
+      "label": "Isaac -> Esau (Edom)",
+      "shortLabel": "Edomite & Seirite Line",
+      "accent": "#982b2b",
+      "surface": "#fcf0f0",
+      "border": "#da9696",
+      "badgeBg": "#f4d5d5",
+      "badgeText": "#691919"
+    },
+    "jacob": {
+      "id": "jacob",
+      "label": "Isaac -> Jacob (Israel)",
+      "shortLabel": "Israelite & Judahite Line",
+      "accent": "#234876",
+      "surface": "#eff4fa",
+      "border": "#93b0d4",
+      "badgeBg": "#d6e3f4",
+      "badgeText": "#142d4c"
+    }
+  },
+  "regions": {
+    "all-near-east": {
+      "id": "all-near-east",
+      "label": "Fertile Crescent & Arabia"
+    },
+    "north-arabia": {
+      "id": "north-arabia",
+      "label": "North, Central & Eastern Arabia"
+    },
+    "hejaz-west-arabia": {
+      "id": "hejaz-west-arabia",
+      "label": "Hejaz, Red Sea & West Arabia"
+    },
+    "sinai-negev-edom": {
+      "id": "sinai-negev-edom",
+      "label": "Sinai, Negev & Edom (Seir)"
+    },
+    "levant-canaan": {
+      "id": "levant-canaan",
+      "label": "Canaan, Levant & Transjordan"
+    },
+    "syria-mesopotamia": {
+      "id": "syria-mesopotamia",
+      "label": "Syrian Steppe & Euphrates"
+    },
+    "mediterranean-diaspora": {
+      "id": "mediterranean-diaspora",
+      "label": "Mediterranean, North Africa & Diaspora"
+    }
+  },
+  "kinds": {
+    "patriarch": {
+      "label": "Patriarch",
+      "plural": "Patriarchs"
+    },
+    "matriarch": {
+      "label": "Matriarch",
+      "plural": "Matriarchs"
+    },
+    "person": {
+      "label": "Descendant",
+      "plural": "Descendants"
+    },
+    "clan": {
+      "label": "Tribe / Clan Eponym",
+      "plural": "Tribes & Clans"
+    },
+    "people": {
+      "label": "People Group / Polity",
+      "plural": "People Groups"
+    }
+  },
+  "continuityKinds": {
+    "continuing": {
+      "label": "Continuing Stem"
+    },
+    "living": {
+      "label": "Living Lineage"
+    },
+    "coalesced": {
+      "label": "Coalesced into Polity"
+    },
+    "absorbed": {
+      "label": "Absorbed / Merged"
+    },
+    "unattested": {
+      "label": "Unattested After Antiquity"
+    }
+  },
+  "mapLabels": [
+    { "name": "Mediterranean Sea", "kind": "water", "lng": 25.0, "lat": 34.3, "rotate": 0 },
+    { "name": "Red Sea", "kind": "water", "lng": 38.1, "lat": 21.8, "rotate": -55 },
+    { "name": "Persian Gulf", "kind": "water", "lng": 51.2, "lat": 26.8, "rotate": -30 },
+    { "name": "Black Sea", "kind": "water", "lng": 34.5, "lat": 43.2, "rotate": 0 },
+    { "name": "Caspian Sea", "kind": "water", "lng": 50.6, "lat": 41.5, "rotate": -65 },
+    { "name": "Arabian Sea", "kind": "water", "lng": 58.5, "lat": 16.5, "rotate": 0 },
+    { "name": "CANAAN & LEVANT", "kind": "region", "lng": 35.3, "lat": 32.3, "rotate": 0 },
+    { "name": "SINAI", "kind": "region", "lng": 33.8, "lat": 29.4, "rotate": 0 },
+    { "name": "MOUNT SEIR", "kind": "region", "lng": 35.6, "lat": 30.3, "rotate": 0 },
+    { "name": "SYRIAN STEPPE", "kind": "region", "lng": 39.2, "lat": 33.9, "rotate": 0 },
+    { "name": "MESOPOTAMIA", "kind": "region", "lng": 44.3, "lat": 33.2, "rotate": -22 },
+    { "name": "UPPER JAZIRA", "kind": "region", "lng": 41.2, "lat": 36.8, "rotate": 0 },
+    { "name": "HEJAZ", "kind": "region", "lng": 39.2, "lat": 24.4, "rotate": -52 },
+    { "name": "AN-NAFUD", "kind": "region", "lng": 41.2, "lat": 28.4, "rotate": 0 },
+    { "name": "NAJD", "kind": "region", "lng": 43.8, "lat": 25.0, "rotate": 0 },
+    { "name": "AL-YAMAMAH", "kind": "region", "lng": 46.8, "lat": 23.6, "rotate": 0 },
+    { "name": "BAHRAIN / HASA", "kind": "region", "lng": 49.7, "lat": 25.8, "rotate": 0 },
+    { "name": "SOUTH ARABIA (YEMEN)", "kind": "region", "lng": 45.8, "lat": 15.4, "rotate": 0 },
+    { "name": "EGYPT", "kind": "region", "lng": 30.8, "lat": 28.0, "rotate": 0 },
+    { "name": "MAGHREB", "kind": "region", "lng": 6.5, "lat": 33.5, "rotate": 0 },
+    { "name": "AL-ANDALUS", "kind": "region", "lng": -4.5, "lat": 38.2, "rotate": 0 },
+    { "name": "ANATOLIA", "kind": "region", "lng": 33.5, "lat": 39.2, "rotate": 0 }
+  ],
+  "tradeRoutes": [
+    {
+      "id": "incense-road",
+      "name": "Incense Road",
+      "waypoints": [
+        [45.32, 15.46],
+        [44.13, 17.49],
+        [40.42, 21.42],
+        [39.61, 24.47],
+        [37.95, 26.62],
+        [37.95, 26.79],
+        [35.44, 30.33],
+        [34.47, 31.5]
+      ]
+    },
+    {
+      "id": "trans-nafud",
+      "name": "Tayma-Euphrates Spur",
+      "waypoints": [
+        [37.95, 26.62],
+        [38.55, 27.63],
+        [39.87, 29.81],
+        [42.38, 34.37],
+        [44.42, 32.54]
+      ]
+    },
+    {
+      "id": "kings-highway",
+      "name": "King's Highway",
+      "waypoints": [
+        [35.0, 29.53],
+        [35.44, 30.33],
+        [35.61, 30.74],
+        [35.79, 31.72],
+        [36.29, 33.51],
+        [39.03, 36.86]
+      ]
+    },
+    {
+      "id": "fertile-crescent",
+      "name": "Via Maris & Euphrates Arc",
+      "waypoints": [
+        [31.31, 30.13],
+        [34.47, 31.5],
+        [35.18, 32.58],
+        [35.57, 33.02],
+        [36.29, 33.51],
+        [40.89, 34.55],
+        [44.42, 32.54],
+        [46.1, 30.96]
+      ]
+    }
+  ],
+  "crossLinks": [
+    {
+      "from": "mibsam",
+      "to": "simeon",
+      "kind": "absorption",
+      "label": "Negev clan absorption",
+      "summary": "1 Chronicles 4:25 lists Mibsam inside Simeon's genealogy in the Beersheba basin, reflecting Ishmaelite-Simeonite clan merger."
+    },
+    {
+      "from": "mishma",
+      "to": "simeon",
+      "kind": "absorption",
+      "label": "Negev clan absorption",
+      "summary": "1 Chronicles 4:25-26 records Mishma inside southern Simeon alongside Mibsam on the Negev steppe."
+    },
+    {
+      "from": "kenizzites",
+      "to": "judah",
+      "kind": "absorption",
+      "label": "Merged into Judah",
+      "summary": "Caleb and Othniel of the Edomite-linked Kenizzite clan settled Hebron and Debir and became southern Judah's core (Josh 14-15; 1 Chr 2, 4)."
+    },
+    {
+      "from": "kenites",
+      "to": "judah",
+      "kind": "absorption",
+      "label": "Settled within Judah",
+      "summary": "Midianite-linked Kenite and Rechabite clans pitched tents in the Negev of Arad and integrated into Judah's civic life (Judg 1:16; 1 Chr 2:55)."
+    },
+    {
+      "from": "simeon",
+      "to": "judah-jews",
+      "kind": "absorption",
+      "label": "Enclaved & absorbed",
+      "summary": "Simeon's Beersheba and Ziklag towns lay inside Judah's territory and merged demographically into the Kingdom of Judah (Josh 19:1-9)."
+    },
+    {
+      "from": "benjamin",
+      "to": "judah-jews",
+      "kind": "absorption",
+      "label": "United in Judah & Yehud",
+      "summary": "Southern Benjamin remained attached to Jerusalem after 930 BCE and returned with Judah to form Persian-era Yehud (Ezra 1:5)."
+    },
+    {
+      "from": "northern-israel",
+      "to": "judah-jews",
+      "kind": "absorption",
+      "label": "722 BCE refugees",
+      "summary": "After Assyria destroyed Samaria in 722-720 BCE, northern Israelite refugees streamed south into Jerusalem and Judah (2 Chr 30:11)."
+    },
+    {
+      "from": "ephah",
+      "to": "northern-israel",
+      "kind": "absorption",
+      "label": "715 BCE Samaria settlement",
+      "summary": "Assyrian king Sargon II deported defeated North Arabian Hayapa (Ephah) tribesmen and settled them in Samaria in 715 BCE."
+    },
+    {
+      "from": "idumaea-herodians",
+      "to": "judah-jews",
+      "kind": "absorption",
+      "label": "Integrated c. 112 BCE",
+      "summary": "Hasmonean ruler John Hyrcanus incorporated Idumaea into Judaea around 112/111 BCE, later producing the Herodian dynasty."
+    },
+    {
+      "from": "ituraeans",
+      "to": "judah-jews",
+      "kind": "absorption",
+      "label": "Galilee annexed 104 BCE",
+      "summary": "Aristobulus I annexed southern Ituraean territory in 104-103 BCE and integrated its inhabitants into Judaean law (Josephus, Ant. 13.318)."
+    },
+    {
+      "from": "mizrahi-jews",
+      "to": "modern-israel-world-jewry",
+      "kind": "absorption",
+      "label": "Modern convergence",
+      "summary": "Babylonian, Persian, Yemeni, and Syrian Jewish communities converged with Sephardi and Ashkenazi lineages in modern Israel and global diaspora cities."
+    },
+    {
+      "from": "sephardi-maghrebi-jews",
+      "to": "modern-israel-world-jewry",
+      "kind": "absorption",
+      "label": "Modern convergence",
+      "summary": "Iberian Sephardi and North African Maghrebi Jewish communities reunited with Mizrahi and Ashkenazi branches in modern Israel and world Jewry."
+    },
+    {
+      "from": "ashkenazi-jews",
+      "to": "modern-israel-world-jewry",
+      "kind": "absorption",
+      "label": "Modern convergence",
+      "summary": "European Ashkenazi communities converged with Sephardi and Mizrahi Jewry in Israel and the contemporary diaspora."
+    },
+    {
+      "from": "qedarites",
+      "to": "nabataeans",
+      "kind": "absorption",
+      "label": "Succeeded by Nabataeans",
+      "summary": "As Qedarite hegemony waned in the 4th-3rd centuries BCE, Nabataean power absorbed former Qedarite caravan routes from Hegra to Sinai."
+    },
+    {
+      "from": "dadan-lihyan",
+      "to": "nabataeans",
+      "kind": "absorption",
+      "label": "Annexed via Hegra",
+      "summary": "Nabataean expansion south to Hegra (Mada'in Salih), 22 km north of Al-'Ula, absorbed the Lihyanite oasis kingdom in the first century BCE."
+    },
+    {
+      "from": "roman-arabia",
+      "to": "juhaynah-baliy-kalb",
+      "kind": "absorption",
+      "label": "Joined Arab confederations",
+      "summary": "Arabic-speaking provincial communities of Roman Arabia Petraea merged into Quda'ah (Kalb, Bali, Juhaynah), Tanukh, and Ghassanid federations."
+    },
+    {
+      "from": "iyad-anmar",
+      "to": "diyar-rabiah-hamdanids",
+      "kind": "absorption",
+      "label": "Assimilated on frontier",
+      "summary": "Mesopotamian and Syrian Iyad clans assimilated into larger Rabi'ah populations in Upper Mesopotamia or crossed into Byzantine Anatolia."
+    },
+    {
+      "from": "adbeel",
+      "to": "qedarites",
+      "kind": "coalescence",
+      "label": "Sinai frontier coalescence",
+      "summary": "After serving as Assyrian border wardens toward Egypt in 734 BCE, Idiba'ilu (Adbeel) pastures passed under Qedarite hegemony."
+    },
+    {
+      "from": "dumah",
+      "to": "qedarites",
+      "kind": "coalescence",
+      "label": "Royal Qedarite sanctuary",
+      "summary": "Dumat al-Jandal (Adummatu) functioned as the chief desert fortress and cult center of the Qedarite kings and priestess-queens."
+    },
+    {
+      "from": "massa",
+      "to": "qedarites",
+      "kind": "coalescence",
+      "label": "North Arabian coalescence",
+      "summary": "Massa's northern Arabian camel-herding clans operated within the wider Tayma-Qedarite desert sphere."
+    },
+    {
+      "from": "tema",
+      "to": "qedarites",
+      "kind": "coalescence",
+      "label": "Oasis-confederation sphere",
+      "summary": "Tayma's oasis polity interacted closely with Qedarite, Babylonian, Lihyanite, and later Nabataean rulers."
+    },
+    {
+      "from": "jetur",
+      "to": "hagrites",
+      "kind": "coalescence",
+      "label": "Transjordan coalition",
+      "summary": "Jetur fought alongside Naphish, Nodab, and the Hagrites east of Gilead before migrating northwest as the Ituraeans (1 Chr 5:19)."
+    },
+    {
+      "from": "naphish",
+      "to": "hagrites",
+      "kind": "coalescence",
+      "label": "Transjordan coalition",
+      "summary": "Naphish allied with the Hagrites, Jetur, and Nodab on the eastern Gilead steppe (1 Chr 5:19)."
+    },
+    {
+      "from": "nodab",
+      "to": "hagrites",
+      "kind": "coalescence",
+      "label": "Transjordan coalition",
+      "summary": "Nodab fought as part of the Hagrite-Ishmaelite steppe coalition against Reuben, Gad, and half-Manasseh (1 Chr 5:19)."
+    },
+    {
+      "from": "asshurim",
+      "to": "dadan-lihyan",
+      "kind": "coalescence",
+      "label": "Dedanite oasis polity",
+      "summary": "Asshurim formed one of the constituent Dedanite peoples around the Al-'Ula incense oasis."
+    },
+    {
+      "from": "letushim",
+      "to": "dadan-lihyan",
+      "kind": "coalescence",
+      "label": "Dedanite oasis polity",
+      "summary": "Letushim's artisan clans belonged to the Dedanite tribal federation centered on Dadan."
+    },
+    {
+      "from": "leummim",
+      "to": "dadan-lihyan",
+      "kind": "coalescence",
+      "label": "Dedanite oasis polity",
+      "summary": "Leummim's federated clans belonged to the Dedanite oasis sphere in northern Hejaz."
+    },
+    {
+      "from": "medan",
+      "to": "midian-league",
+      "kind": "coalescence",
+      "label": "Merged with Midianites",
+      "summary": "Genesis 37:28 and 37:36 alternate Medanites with Midianites along the northwest Arabian spice track."
+    },
+    {
+      "from": "ephah",
+      "to": "midian-league",
+      "kind": "coalescence",
+      "label": "1st Midianite clan",
+      "summary": "Ephah headed the five clans of the Midianite confederacy in northwest Arabia (Gen 25:4; Isa 60:6)."
+    },
+    {
+      "from": "epher",
+      "to": "midian-league",
+      "kind": "coalescence",
+      "label": "2nd Midianite clan",
+      "summary": "Epher formed the second constituent clan of the Midianite league (Gen 25:4)."
+    },
+    {
+      "from": "hanoch-midian",
+      "to": "midian-league",
+      "kind": "coalescence",
+      "label": "3rd Midianite clan",
+      "summary": "Hanoch formed the third constituent clan of the Midianite league (Gen 25:4)."
+    },
+    {
+      "from": "abida",
+      "to": "midian-league",
+      "kind": "coalescence",
+      "label": "4th Midianite clan",
+      "summary": "Abida formed the fourth constituent clan of the Midianite league (Gen 25:4)."
+    },
+    {
+      "from": "eldaah",
+      "to": "midian-league",
+      "kind": "coalescence",
+      "label": "5th Midianite clan",
+      "summary": "Eldaah formed the fifth constituent clan of the Midianite league (Gen 25:4)."
+    },
+    {
+      "from": "teman",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Edomite highland district",
+      "summary": "Teman formed a chief district and clan chieftaincy of the Kingdom of Edom."
+    },
+    {
+      "from": "omar",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Edomite chieftaincy",
+      "summary": "Omar coalesced into the Kingdom of Edom as an Eliphazite chieftaincy."
+    },
+    {
+      "from": "zepho",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Edomite chieftaincy",
+      "summary": "Zepho coalesced into the Kingdom of Edom as an Eliphazite chieftaincy."
+    },
+    {
+      "from": "gatam",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Edomite chieftaincy",
+      "summary": "Gatam coalesced into the Kingdom of Edom as an Eliphazite chieftaincy."
+    },
+    {
+      "from": "nahath",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Edomite chieftaincy",
+      "summary": "Nahath coalesced into the Kingdom of Edom as a Reuelite chieftaincy."
+    },
+    {
+      "from": "zerah-edom",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Royal Bozrah clan",
+      "summary": "Zerah centered on Bozrah (Buseirah), northern citadel of the Kingdom of Edom."
+    },
+    {
+      "from": "shammah-edom",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Edomite chieftaincy",
+      "summary": "Shammah coalesced into the Kingdom of Edom as a Reuelite chieftaincy."
+    },
+    {
+      "from": "mizzah",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Edomite chieftaincy",
+      "summary": "Mizzah coalesced into the Kingdom of Edom as a Reuelite chieftaincy."
+    },
+    {
+      "from": "jeush",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Seirite-Edomite clan",
+      "summary": "Jeush served as a direct clan chieftaincy inside Edom."
+    },
+    {
+      "from": "jaalam",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Seirite-Edomite clan",
+      "summary": "Jaalam served as a direct clan chieftaincy inside Edom."
+    },
+    {
+      "from": "korah-edom",
+      "to": "edom-idumaea",
+      "kind": "coalescence",
+      "label": "Seirite-Edomite clan",
+      "summary": "Korah served as a direct clan chieftaincy inside Edom, with northern links into Calebite Hebron."
+    },
+    {
+      "from": "reuben",
+      "to": "northern-israel",
+      "kind": "coalescence",
+      "label": "Transjordan Israelite tribe",
+      "summary": "Reuben joined the Northern Kingdom before Moabite expansion and the 732 BCE Assyrian deportation."
+    },
+    {
+      "from": "dan",
+      "to": "northern-israel",
+      "kind": "coalescence",
+      "label": "Northern sanctuary city",
+      "summary": "Tel Dan served as the northern royal border sanctuary of the Kingdom of Israel."
+    },
+    {
+      "from": "naphtali",
+      "to": "northern-israel",
+      "kind": "coalescence",
+      "label": "Galilean tribe of Israel",
+      "summary": "Naphtali formed Northern Israel's Galilean frontier until Tiglath-Pileser III's conquest in 732 BCE."
+    },
+    {
+      "from": "gad",
+      "to": "northern-israel",
+      "kind": "coalescence",
+      "label": "Gileadite tribe of Israel",
+      "summary": "Gad held Gilead inside the Northern Kingdom (attested on the Mesha Stele) until 732 BCE."
+    },
+    {
+      "from": "asher",
+      "to": "northern-israel",
+      "kind": "coalescence",
+      "label": "Western Galilean tribe",
+      "summary": "Asher formed part of Northern Israel while sending later remnant families south to Jerusalem."
+    },
+    {
+      "from": "issachar",
+      "to": "northern-israel",
+      "kind": "coalescence",
+      "label": "Jezreel tribe of Israel",
+      "summary": "Issachar farmed the Jezreel plain at the heart of the Northern Kingdom and gave Israel King Baasha."
+    },
+    {
+      "from": "zebulun",
+      "to": "northern-israel",
+      "kind": "coalescence",
+      "label": "Galilean tribe of Israel",
+      "summary": "Zebulun belonged to Northern Israel, with surviving families later joining Judah's worship."
+    },
+    {
+      "from": "manasseh",
+      "to": "northern-israel",
+      "kind": "coalescence",
+      "label": "Core Samaria & Gilead tribe",
+      "summary": "Manasseh's clans formed the administrative core around Samaria and Tirzah in the Northern Kingdom."
+    },
+    {
+      "from": "manasseh",
+      "to": "samaritans",
+      "kind": "coalescence",
+      "label": "Samaritan Josephite line",
+      "summary": "Living Samaritan families trace descent from Manasseh alongside Ephraim and Kohathite Levi."
+    },
+    {
+      "from": "levites-kohanim",
+      "to": "samaritans",
+      "kind": "coalescence",
+      "label": "Aaronic-Ithamar priesthood",
+      "summary": "The Samaritan high-priestly house on Mount Gerizim preserves Aaronic Kohathite Levitical lineage."
+    },
+    {
+      "from": "mahalath",
+      "to": "esau",
+      "kind": "marriage",
+      "label": "Wed Esau (Gen 28:9)",
+      "summary": "Esau married Ishmael's daughter Mahalath (Basemath), uniting Ishmaelite and Edomite clans through Reuel."
+    },
+    {
+      "from": "midian-league",
+      "to": "levi",
+      "kind": "marriage",
+      "label": "Midianite-Levite marriage",
+      "summary": "Moses of Levi married Zipporah, daughter of the Midianite priest Reuel/Jethro (Exod 2:16-21)."
+    }
+  ],
+  "scopeNotes": [
+    {
+      "heading": "How the Four Historical Traditions Intersect",
+      "paragraphs": [
+        "No single ancient archive records all of Abraham's posterity. Hebrew scripture (Genesis 16-36 and 1 Chronicles 1-8) preserves structured genealogies for three maternal lines: Hagar's son Ishmael (twelve tribal princes), Keturah's six eastern sons (including Jokshan and Midian), and Sarah's son Isaac (twin lines of Esau/Edom and Jacob/Israel).",
+        "First-millennium BCE cuneiform annals from Assyria and Babylonia, together with Dadanitic, Taymanitic, Hismaic, Safaitic, Thamudic, Minaean, and Aramaic inscriptions, independently attest many of these exact names as active oasis kingdoms and camel-herding confederations across Arabia and the Syrian desert: Qidri (Kedar), Nabayatu (Nebaioth), Idiba'ilu (Adbeel), Mas'a (Massa), Adummatu (Dumah), Tema (Tayma), Hayapa (Ephah), Dadanu (Dedan), Udumu (Edom), Bit-Humri (Israel), and Ya'udu (Judah).",
+        "Classical Arab genealogists (Ibn Ishaq, Ibn Hisham, Ibn al-Kalbi, and al-Tabari) carry the northern Arabian line forward from Isma'il through Qaydar or Nabit to Adnan, Ma'add, and Nizar, mapping the Mudar and Rabi'ah confederations that shaped late antique and Islamic Middle Eastern history. Where scholars debate an identification, such as Nebaioth and the Nabataeans of Petra or the unrecorded generations between Qedar and Adnan, each node states both the traditional claim and epigraphic evidence."
+      ]
+    },
+    {
+      "heading": "Why Tribes Coalesce, Stop, or Converge",
+      "paragraphs": [
+        "Most Bronze and Iron Age clans did not die out biologically when their individual names disappeared from chronicles. Instead, pastoral clans federated into larger oasis kingdoms and tribal leagues (such as Dumah, Tema, Massa, and Adbeel inside the Qedarite and later Nabataean spheres; the five Midianite sons inside the Midianite League; Esau's chieftaincies inside Edom and Idumaea; or Simeon, Benjamin, Calebites, Kenites, northern Israelite refugees, and Idumaeans inside Judah/Judaea). Dotted directional curves on the chart mark these documented coalescences and absorptions.",
+        "Second Temple Jewish texts such as the Book of Jubilees (20:11-13) explicitly observed this desert convergence, noting that the sons of Keturah and the sons of Ishmael intermarried eastward from Paran to Babylon and came to be called Arabs and Ishmaelites together. Classical Arab historians similarly distinguished surviving Adnanite and Qahtanite confederations from older vanished tribal formations (al-'Arab al-Ba'idah, such as Thamud, 'Ad, Tasm, Jadis, and legendary 'Amaliq) whose remnants were absorbed by neighboring tribes."
+      ]
+    },
+    {
+      "heading": "Relatives of Abraham Outside Direct Descent",
+      "paragraphs": [
+        "Several neighboring peoples belonged to Abraham's wider Terahite family rather than his own offspring, so they are excluded from direct child nodes here. Lot, son of Abraham's deceased brother Haran, fathered Moab and Ben-Ammi, ancestors of the Moabites and Ammonites on the Transjordanian plateau (Genesis 19:30-38).",
+        "Abraham's brother Nahor fathered twelve Aramaean clans around Harran and Aram-Naharaim, including Uz, Buz, Kemuel, Chesed, and Bethuel (Genesis 22:20-24). Isaac and Jacob married back into Nahor's branch through Rebekah, Leah, and Rachel, tying the Israelite and Edomite lines to Upper Mesopotamian Aramaeans on their maternal side."
+      ]
+    },
+    {
+      "heading": "Qahtanite South Arabians and Abrahamic North Arabians",
+      "paragraphs": [
+        "Arab genealogical science divides the peoples of the peninsula between Qahtanites (al-'Arab al-'Ariba, the southern kingdoms and tribes of Yemen such as Saba', Himyar, Ma'in, Hadramawt, Kindah, Azd, Tayyi', Ghassanids, and Lakhmids) and Adnanites (al-'Arab al-Musta'riba, northern and central Arabs tracing descent from Abraham and Ishmael).",
+        "Genesis mirrors this dual map by listing Sheba and Dedan both among the older Joktanite/Cushite table of nations (Genesis 10) and again under Abraham's grandson Jokshan son of Keturah (Genesis 25:3), reflecting northern merchant colonies and oasis kin-groups along the Incense Road that traded with the southern Yemeni kingdoms."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1710 @@
+[
+  {
+    "id": "jacob",
+    "parentId": "isaac",
+    "name": "Jacob (Israel / Ya'qub)",
+    "nativeNames": "יַעֲקֹב · יִשְׂרָאֵל · يعقوب",
+    "kind": "patriarch",
+    "branch": "jacob",
+    "era": "Patriarchal Age",
+    "region": "levant-canaan",
+    "territory": "Beersheba, Bethel, Harran, Gilead, Shechem, Hebron & Goshen",
+    "mother": "Rebekah",
+    "consorts": [
+      "Leah",
+      "Rachel",
+      "Bilhah",
+      "Zilpah"
+    ],
+    "cardRole": "Younger Twin of Isaac · Father of the Twelve Tribes",
+    "summary": "Renamed Israel at Peniel; his twelve sons formed the tribal confederation of Israel across Canaan and Transjordan.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "12 tribes & daughter Dinah",
+      "detail": "Continues across the Twelve Tribes of Israel, forming the Northern Kingdom of Israel (and living Samaritans) and the Kingdom of Judah (and world Jewry)."
+    },
+    "geo": {
+      "lat": 32.214,
+      "lng": 35.284,
+      "rxKm": 135,
+      "ryKm": 65,
+      "angle": -72,
+      "sites": [
+        { "name": "Shechem", "lat": 32.214, "lng": 35.284 },
+        { "name": "Bethel", "lat": 31.931, "lng": 35.222 },
+        { "name": "Peniel (Jabbok)", "lat": 32.192, "lng": 35.702 },
+        { "name": "Hebron (Machpelah)", "lat": 31.524, "lng": 35.111 }
+      ]
+    },
+    "history": [
+      "Younger twin of Isaac and Rebekah, Jacob journeyed north to his maternal uncle Laban in Aram-Naharaim (Harran), where eleven of his twelve sons and his daughter Dinah were born to Leah, Rachel, Bilhah, and Zilpah before Benjamin's birth on the road to Ephrath in Canaan (Genesis 28-35). Wrestling at the Jabbok ford in Transjordan, he received the name Israel (Genesis 32:29, Eng. 32:28; 35:10), the national ethnonym first attested outside scripture on Egyptian Pharaoh Merneptah's Victory Stele around 1208 BCE (\"Israel is laid waste, his seed is no more,\" written with the determinative for a people rather than a city-state in the Canaanite highlands).",
+      "In his old age Jacob led his seventy-person household down to Goshen in Egypt during Joseph's vizierate and adopted Joseph's two sons, Ephraim and Manasseh, as full tribal heads (Genesis 46-49), before Joseph carried his embalmed body back to Hebron for burial in the Cave of Machpelah. In the Quran, Ya'qub (also titled Isra'il in Quran 3:93 and 19:58) is revered as a prophet whose deathbed testament in Quran 2:132-133 binds his sons to the monotheism of Ibrahim, Isma'il, and Ishaq."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology",
+      "Islamic Tradition",
+      "Christian Scripture"
+    ],
+    "relatedIds": [
+      {
+        "id": "esau",
+        "relation": "Elder twin brother who settled Mount Seir."
+      },
+      {
+        "id": "joseph",
+        "relation": "Son via Rachel whose two sons received double tribal inheritance."
+      },
+      {
+        "id": "judah",
+        "relation": "Fourth son, ancestor of the royal Davidic line and the Jewish people."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 32:23-33 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.32.23-33",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 49:1-28 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.49.1-28",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Quran 2:132-133 (Quran.com)",
+        "url": "https://quran.com/2/132-133",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Merneptah Stele (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Merneptah_Stele",
+        "kind": "Reference"
+      },
+      {
+        "label": "Jacob (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Jacob",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "reuben",
+    "parentId": "jacob",
+    "name": "Reuben",
+    "nativeNames": "רְאוּבֵן",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age",
+    "region": "levant-canaan",
+    "territory": "Mishor Plateau East of the Dead Sea (Northern Moab)",
+    "mother": "Leah",
+    "cardRole": "1st Son of Jacob · Transjordanian Pastoral Tribe",
+    "summary": "Firstborn of Jacob who settled the eastern Dead Sea plateau and fought Hagrite nomads toward the Euphrates.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Northern Israel (732 BCE)",
+      "detail": "Joined the Northern Kingdom on the eastern Dead Sea plateau before ninth-century Moabite expansion and Tiglath-Pileser III's 732 BCE Assyrian deportation (1 Chr 5:26)."
+    },
+    "geo": {
+      "lat": 31.72,
+      "lng": 35.79,
+      "rxKm": 34,
+      "ryKm": 22,
+      "angle": -80,
+      "sites": [
+        { "name": "Heshbon (Tall Hisban)", "lat": 31.801, "lng": 35.809 },
+        { "name": "Medeba (Madaba)", "lat": 31.716, "lng": 35.794 },
+        { "name": "Aroer (Arnon)", "lat": 31.469, "lng": 35.823 }
+      ]
+    },
+    "history": [
+      "Reuben was Jacob's chronological firstborn by Leah (Genesis 29:32), though his tribal primacy passed to Joseph and Judah (Genesis 49:3-4; 1 Chronicles 5:1-2). Choosing open cattle pastures east of the Jordan around Heshbon, Medeba, and Aroer (Numbers 32), Reuben's four clans (Hanoch, Pallu, Hezron, and Carmi) bordered Moab and expanded eastward into Hagrite territory (1 Chronicles 5:9-10) before Moabite king Mesha's ninth-century campaigns and Tiglath-Pileser III's Assyrian deportation in 732 BCE (1 Chronicles 5:26)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals"
+    ],
+    "relatedIds": [
+      {
+        "id": "hagrites",
+        "relation": "Reubenite herdsmen seized Hagrite pastures east of Gilead (1 Chr 5:10)."
+      },
+      {
+        "id": "hanoch-midian",
+        "relation": "Shared the clan name Hanoch along the Moab-Midian border."
+      }
+    ],
+    "sources": [
+      {
+        "label": "1 Chronicles 5:1-10 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.5.1-10",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Reuben (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Reuben",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "simeon",
+    "parentId": "jacob",
+    "name": "Simeon",
+    "nativeNames": "שִׁמְעוֹן",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Beersheba Basin & Northern Negev (Within Judah)",
+    "mother": "Leah",
+    "cardRole": "2nd Son of Jacob · Southern Negev Pastoral Tribe",
+    "summary": "Second son of Jacob whose clans held Beersheba and Ziklag inside southern Judah and pushed into Seir.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Enclaved & merged into Judah",
+      "detail": "Enclaved inside southern Judah around Beersheba and Ziklag (Josh 19:1-9), Simeon's pastoral clans merged demographically into the Kingdom of Judah while sharing clan names with Negev Ishmaelites."
+    },
+    "geo": {
+      "lat": 31.245,
+      "lng": 34.791,
+      "rxKm": 38,
+      "ryKm": 22,
+      "angle": -18,
+      "sites": [
+        { "name": "Beersheba (Tel Be'er Sheva)", "lat": 31.245, "lng": 34.841 },
+        { "name": "Tel Arad", "lat": 31.281, "lng": 35.126 },
+        { "name": "Ziklag Region", "lat": 31.39, "lng": 34.68 }
+      ]
+    },
+    "history": [
+      "Fulfilling Jacob's deathbed saying that Simeon and Levi would be \"scattered in Israel\" (Genesis 49:5-7), Simeon received towns inside the southern Negev enclave of Judah's territory, centered on Beersheba, Hormah, and Ziklag (Joshua 19:1-9). Sharing semi-arid pastures with neighboring desert lineages, Simeonite genealogies include Ishmaelite clan names (Mibsam and Mishma, 1 Chronicles 4:25), record migrations to Gedor and Mount Seir under King Hezekiah where they defeated the last Amalekites (1 Chronicles 4:39-43), and gradually merged into the Kingdom of Judah."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "judah",
+        "relation": "Enclaved within and gradually absorbed by Judah."
+      },
+      {
+        "id": "mibsam",
+        "relation": "Shared clan names across the Beersheba-Sinai steppe (1 Chr 4:25)."
+      },
+      {
+        "id": "amalekites",
+        "relation": "Simeonites defeated the final Amalekite enclave in Seir (1 Chr 4:42-43)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Joshua 19:1-9 (Sefaria)",
+        "url": "https://www.sefaria.org/Joshua.19.1-9",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 4:24-43 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.4.24-43",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Simeon (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Simeon",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "levi",
+    "parentId": "jacob",
+    "name": "Levi",
+    "nativeNames": "לֵוִי · لاوي",
+    "kind": "person",
+    "branch": "jacob",
+    "era": "Patriarchal Age",
+    "region": "levant-canaan",
+    "territory": "Forty-Eight Sanctuary Towns Across All Israel & Judah",
+    "mother": "Leah",
+    "cardRole": "3rd Son of Jacob · Progenitor of the Priestly Tribe",
+    "summary": "Third son of Jacob and Leah; father of Gershon, Kohath, and Merari, ancestral head of Israel's priesthood.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Levites & Kohanim",
+      "detail": "Continues across hereditary Levitical and Aaronic priestly families in both global Jewish communities and the Samaritan priesthood on Mount Gerizim."
+    },
+    "geo": {
+      "lat": 31.89,
+      "lng": 35.24,
+      "rxKm": 85,
+      "ryKm": 36,
+      "angle": -75,
+      "sites": [
+        { "name": "Shiloh", "lat": 32.055, "lng": 35.289 },
+        { "name": "Hebron", "lat": 31.524, "lng": 35.111 },
+        { "name": "Shechem", "lat": 32.214, "lng": 35.284 }
+      ]
+    },
+    "history": [
+      "Third son of Jacob and Leah (Genesis 29:34), Levi fathered three clan divisions, Gershon, Kohath, and Merari (Genesis 46:11; Exodus 6:16-19). Instead of receiving a contiguous territorial province in Canaan, Levi's descendants were set apart for sanctuary liturgy, Torah instruction, and judicial administration across forty-eight Levitical cities distributed among the other tribes (Numbers 18; 35; Joshua 21)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Islamic Tradition",
+      "Christian Scripture"
+    ],
+    "relatedIds": [
+      {
+        "id": "levites-kohanim",
+        "relation": "Priestly and temple lineages descended from Levi across Jewish and Samaritan history."
+      },
+      {
+        "id": "midian-league",
+        "relation": "Moses of Kohath/Levi married Zipporah of Midian."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Exodus 6:16-25 (Sefaria)",
+        "url": "https://www.sefaria.org/Exodus.6.16-25",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Levi (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Levi",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "levites-kohanim",
+    "parentId": "levi",
+    "name": "Levites & Kohanim",
+    "nativeNames": "לְוִיִּם · כֹּהֲנִים",
+    "kind": "people",
+    "branch": "jacob",
+    "era": "Late Bronze Age - Present",
+    "region": "levant-canaan",
+    "territory": "Shiloh, Jerusalem, Mount Gerizim & Global Diaspora",
+    "cardRole": "Aaronic Priesthood, Temple Guilds & Hasmoneans",
+    "summary": "Enduring priestly and Levitical lineages descending through Moses, Aaron, Zadok, and the Hasmoneans to modern communities.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living Jewish & Samaritan priesthoods",
+      "detail": "Preserved today as hereditary Kohanim and Levi'im across world Jewry and in the Bene Ithamar high-priestly house of the Samaritans."
+    },
+    "geo": {
+      "lat": 31.778,
+      "lng": 35.235,
+      "rxKm": 80,
+      "ryKm": 34,
+      "angle": -75,
+      "sites": [
+        { "name": "Jerusalem Temple Mount", "lat": 31.778, "lng": 35.235 },
+        { "name": "Shiloh", "lat": 32.055, "lng": 35.289 },
+        { "name": "Mount Gerizim", "lat": 32.199, "lng": 35.273 }
+      ]
+    },
+    "history": [
+      "From Levi's Kohathite clan came Amram and Jochebed's three children: Miriam, Moses (lawgiver and prophet), and Aaron, progenitor of the hereditary Kohanim (priests). During the monarchy and Second Temple period, Aaronic branches such as the House of Eli at Shiloh, the House of Zadok in Jerusalem (and later Onias's temple at Leontopolis in Egypt and the Qumran community), and the Hasmonean priest-kings (Maccabees) led Judaean religious and political life, while non-priestly Levites staffed temple music, treasury, and courts.",
+      "Both rabbinic Judaism and the Samaritan community at Mount Gerizim preserved patrilineal transmission of Levitical and Kohanic status across millennia. When the last direct Samaritan high priest of the elder Aaronic line of Eleazar and Phinehas died without male issue in 1624 CE, the Samaritan high priesthood passed to the younger Aaronic branch of Ithamar (Bene Ithamar), which still officiates on Mount Gerizim today."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "judah-jews",
+        "relation": "Large numbers of Levites and priests rallied to Jerusalem and Judah (2 Chr 11:13-14; Ezra 2:36-42)."
+      },
+      {
+        "id": "samaritans",
+        "relation": "Samaritan high priests trace Aaronic-Ithamar lineage on Mount Gerizim."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Numbers 3:5-13 (Sefaria)",
+        "url": "https://www.sefaria.org/Numbers.3.5-13",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Numbers 18:1-7 (Sefaria)",
+        "url": "https://www.sefaria.org/Numbers.18.1-7",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Kohen (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kohen",
+        "kind": "Reference"
+      },
+      {
+        "label": "Levite (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Levite",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "judah",
+    "parentId": "jacob",
+    "name": "Judah (Yehudah)",
+    "nativeNames": "יְהוּדָה · يهوذا",
+    "kind": "person",
+    "branch": "jacob",
+    "era": "Patriarchal Age",
+    "region": "levant-canaan",
+    "territory": "Judean Hills, Shephelah, Judean Desert & Northern Negev",
+    "mother": "Leah",
+    "cardRole": "4th Son of Jacob · Ancestor of Judah & David",
+    "summary": "Fourth son of Jacob and Leah whose highland confederation united Perezite, Zerahite, Shelanite, and Calebite clans.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Judah & House of David",
+      "detail": "Continues through the Royal House of David and the Kingdom of Judah, Persian Yehud, Second Temple Judaea, and global Jewish communities."
+    },
+    "geo": {
+      "lat": 31.6,
+      "lng": 35.08,
+      "rxKm": 46,
+      "ryKm": 32,
+      "angle": -75,
+      "sites": [
+        { "name": "Hebron", "lat": 31.524, "lng": 35.111 },
+        { "name": "Bethlehem", "lat": 31.705, "lng": 35.202 },
+        { "name": "Lachish (Tel Lachish)", "lat": 31.565, "lng": 34.849 }
+      ]
+    },
+    "history": [
+      "Fourth son of Jacob and Leah (Genesis 29:35), Judah received the royal scepter promise in Genesis 49:8-12 and fathered three surviving clan heads: Shelah (by Bath-shua) and the twins Perez and Zerah (by Tamar, Genesis 38). Settling the southern hill country around Bethlehem, Hebron, Adullam, and Lachish, the Tribe of Judah absorbed southern Kenizzite/Calebite, Othnielite, Jerahmeelite, Kenite, and Simeonite families into a highland polity."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Christian Scripture",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "davidic-house",
+        "relation": "Royal dynasty descending from Judah -> Perez -> Boaz -> Jesse -> David."
+      },
+      {
+        "id": "judah-jews",
+        "relation": "Kingdom of Judah and the Jewish people (Yehudim) named after Judah."
+      },
+      {
+        "id": "kenizzites",
+        "relation": "Calebite clans integrated into southern Judah around Hebron."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 49:8-12 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.49.8-12",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 2:1-55 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.2.1-55",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Judah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Judah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "davidic-house",
+    "parentId": "judah",
+    "name": "Royal House of David",
+    "nativeNames": "בֵּית דָּוִד · bytdwd",
+    "kind": "people",
+    "branch": "jacob",
+    "era": "c. 1000-587 BCE (Exilarchate to Medieval Era)",
+    "region": "levant-canaan",
+    "territory": "Bethlehem, Hebron, Jerusalem & Babylonian Exilarchate",
+    "cardRole": "Jerusalem Dynasty & Messianic Lineage",
+    "summary": "Four-century royal house of Jerusalem attested on the Tel Dan Stele, central to Jewish, Christian, and Islamic traditions.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Babylonian Exilarchate & rabbinic lines",
+      "detail": "Ruled Jerusalem until 587/586 BCE and led Babylonian Jewry as the Exilarchate (Resh Galuta) into the Abbasid and medieval eras, with later rabbinic families preserving Davidic pedigrees."
+    },
+    "geo": {
+      "lat": 31.776,
+      "lng": 35.234,
+      "rxKm": 35,
+      "ryKm": 24,
+      "angle": -75,
+      "sites": [
+        { "name": "Jerusalem (City of David)", "lat": 31.774, "lng": 35.236 },
+        { "name": "Bethlehem", "lat": 31.705, "lng": 35.202 },
+        { "name": "Hebron", "lat": 31.524, "lng": 35.111 }
+      ]
+    },
+    "history": [
+      "Descending from Judah's son Perez through Ruth the Moabite and Boaz of Bethlehem (Ruth 4:18-22), David son of Jesse ruled first at Hebron and then captured Jebusite Jerusalem, founding a single dynasty (Solomon, Asa, Jehoshaphat, Hezekiah, Josiah, down to Zedekiah and Jehoiachin) that governed Judah until Nebuchadnezzar II's destruction of Jerusalem in 587/586 BCE. In 1993-1994, archaeologists at Tel Dan in northern Galilee uncovered fragments of a ninth-century BCE Aramaic victory stela of Hazael of Damascus explicitly naming the southern kingdom bytdwd (\"House of David\") alongside a \"king of Israel.\"",
+      "Under Persian, Parthian, Sasanian, and Abbasid rule in Iraq, the Resh Galuta (Exilarch) of Babylonian Jewry continued to govern as recognized heir of King Jehoiachin's Davidic line. Jewish messianic hope centers on a future scion of David, Christian scripture traces Jesus of Nazareth's royal descent from David explicitly through Joseph in Matthew 1 and Luke 3 (with later Christian tradition also reading Luke 3 through Mary; cf. Romans 1:3), and the Quran honors Dawud and Sulayman as prophet-kings."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology",
+      "Christian Scripture",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "judah-jews",
+        "relation": "Ruling royal house of the Kingdom of Judah."
+      },
+      {
+        "id": "northern-israel",
+        "relation": "Northern ten tribes seceded from David's grandson Rehoboam c. 930 BCE."
+      }
+    ],
+    "sources": [
+      {
+        "label": "2 Samuel 7:8-16 (Sefaria)",
+        "url": "https://www.sefaria.org/II_Samuel.7.8-16",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tel Dan Stele (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tel_Dan_stele",
+        "kind": "Reference"
+      },
+      {
+        "label": "Davidic line (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Davidic_line",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "judah-jews",
+    "parentId": "judah",
+    "name": "Kingdom of Judah, Yehud & Second Temple Judaea",
+    "nativeNames": "בֵּית יְהוּדָה · יְהוּד · יְהוּדִים · Ya'udu",
+    "kind": "people",
+    "branch": "jacob",
+    "era": "c. 930 BCE - 1st c. CE",
+    "region": "levant-canaan",
+    "territory": "Judea, Benjamin, Negev, Galilee, Babylonia & Elephantine",
+    "cardRole": "Southern Kingdom (Ya'udu), Yehud & Judaean Commonwealth",
+    "summary": "Polity uniting Judah, Benjamin, Simeon, Levi, northern refugees, and Idumaeans, ancestral stem of world Jewry.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Mizrahi, Sephardi & Ashkenazi Jewry",
+      "detail": "Absorbed Simeon, Benjamin, Kenizzites, Kenites, northern Israelite refugees, and Idumaeans, then branched into Mizrahi, Sephardi-Maghrebi, and Ashkenazi communities that reconverge in modern Israel and world Jewry."
+    },
+    "geo": {
+      "lat": 31.768,
+      "lng": 35.214,
+      "rxKm": 62,
+      "ryKm": 38,
+      "angle": -75,
+      "sites": [
+        { "name": "Jerusalem", "lat": 31.778, "lng": 35.235 },
+        { "name": "Hebron", "lat": 31.524, "lng": 35.111 },
+        { "name": "Lachish", "lat": 31.565, "lng": 34.849 },
+        { "name": "Tel Arad", "lat": 31.281, "lng": 35.126 }
+      ]
+    },
+    "history": [
+      "Called Ya'udu in Neo-Assyrian royal annals (such as Sennacherib's Taylor Prism recounting the 701 BCE siege of Hezekiah in Jerusalem and Lachish) and documented internally by Paleo-Hebrew inscriptions including the Siloam Tunnel Inscription, the Arad Ostraca, and the Lachish Letters, the Kingdom of Judah united the tribes of Judah, Benjamin, enclaved Simeon, Levites, and waves of northern Israelite refugees who expanded Jerusalem after Samaria fell in 722-720 BCE.",
+      "Deported in part to Babylonia in 597 and 587 BCE (attested in Babylonian ration tablets for King Jehoiachin and the Al-Yahudu cuneiform archive of Judaean deportees in Iraq) while military colonists staffed Elephantine (Yeb) in Upper Egypt (5th-century BCE Aramaic Elephantine Papyri), returning exiles rebuilt the Second Temple in Persian-era Yehud. During the Hasmonean kingdom, Judaea integrated neighboring Idumaeans (c. 112/111 BCE) and southern Ituraeans (104-103 BCE). After the Roman wars of 66-70 and 132-135 CE, Judaean (Yehudi) rabbinic and synagogue life regrouped in Galilee and across eastern and Mediterranean diasporas."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "Archaeology",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "benjamin",
+        "relation": "Core partner tribe of the Kingdom of Judah and post-exilic Yehud."
+      },
+      {
+        "id": "levites-kohanim",
+        "relation": "Priests and Levites formed the liturgical leadership of Judaea and diaspora synagogues."
+      },
+      {
+        "id": "idumaea-herodians",
+        "relation": "Idumaeans were incorporated into Judaea c. 112/111 BCE and produced the Herodian dynasty."
+      },
+      {
+        "id": "ituraeans",
+        "relation": "Southern Ituraean territory in northern Galilee was annexed by Aristobulus I in 104-103 BCE."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ezra 1:1-5 (Sefaria)",
+        "url": "https://www.sefaria.org/Ezra.1.1-5",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Ezra 2:1-2 (Sefaria)",
+        "url": "https://www.sefaria.org/Ezra.2.1-2",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Siloam Inscription (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Siloam_inscription",
+        "kind": "Epigraphy"
+      },
+      {
+        "label": "Lachish Letters (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Lachish_letters",
+        "kind": "Epigraphy"
+      },
+      {
+        "label": "Elephantine Papyri (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Elephantine_papyri",
+        "kind": "Epigraphy"
+      },
+      {
+        "label": "Kingdom of Judah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Judah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "mizrahi-jews",
+    "parentId": "judah-jews",
+    "name": "Mizrahi, Babylonian, Persian & Yemeni Jewry",
+    "nativeNames": "יְהוּדֵי הַמִּזְרָח · בָּבֶל · תֵּימָן · يهود الشرق",
+    "kind": "people",
+    "branch": "jacob",
+    "era": "6th c. BCE - Present",
+    "region": "syria-mesopotamia",
+    "territory": "Iraq (Babylonia), Iran (Persia), Yemen, Syria, Egypt & Land of Israel",
+    "cardRole": "Eastern Talmudic Academies & Middle Eastern Communities",
+    "summary": "Continuous Jewish communities of Mesopotamia, Persia, Yemen, Syria, Egypt, and the Levant from the Babylonian exile onward.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living Eastern & Israeli communities",
+      "detail": "Flourished for over two millennia across Iraq, Iran, Yemen, Syria, and Egypt; since the mid-twentieth century the majority live in Israel alongside diaspora communities."
+    },
+    "geo": {
+      "lat": 32.95,
+      "lng": 44.35,
+      "rxKm": 520,
+      "ryKm": 240,
+      "angle": -25,
+      "sites": [
+        { "name": "Babylon / Sura", "lat": 32.542, "lng": 44.421 },
+        { "name": "Baghdad (Pumbedita Sphere)", "lat": 33.315, "lng": 44.366 },
+        { "name": "Aleppo (Aram-Zobah)", "lat": 36.202, "lng": 37.134 },
+        { "name": "Sana'a (Yemen)", "lat": 15.369, "lng": 44.191 }
+      ]
+    },
+    "history": [
+      "Rooted in the sixth-century BCE Judaean deportations to Babylonia (documented in the Al-Yahudu tablets), eastern Jewry built the Talmudic academies of Nehardea, Sura, and Pumbedita under Parthian, Sasanian, and Abbasid rule, compiling the Babylonian Talmud and standardizing Geonic halakhah from Baghdad while Masoretic scholars in Tiberias and Aleppo transmitted the vocalized Hebrew Bible (Aleppo Codex).",
+      "Related ancient communities thrived across Iran (Persia and Bukhara), Syria (Damascus and Aleppo), Egypt (Alexandria and Cairo's Ben Ezra Geniza), the Land of Israel, and South Arabia, where Sabaic and Greek inscriptions attest Jewish communities and the fourth-to-sixth-century CE Judaizing royal house of Himyar in Yemen. After 1948, most Iraqi, Yemeni, Syrian, Egyptian, and Iranian Jews resettled in Israel and western cities, reconverging with Sephardi and Ashkenazi branches."
+    ],
+    "traditions": [
+      "Archaeology",
+      "Classical Historians",
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "davidic-house",
+        "relation": "Babylonian Jewry was led politically by the Davidic Exilarch (Resh Galuta)."
+      },
+      {
+        "id": "modern-israel-world-jewry",
+        "relation": "Mizrahi communities form roughly half of Israel's Jewish population today."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Mizrahi Jews (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Mizrahi_Jews",
+        "kind": "Reference"
+      },
+      {
+        "label": "History of the Jews in Iraq (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Iraq",
+        "kind": "Reference"
+      },
+      {
+        "label": "Yemenite Jews (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Yemenite_Jews",
+        "kind": "Reference"
+      },
+      {
+        "label": "Cairo Geniza (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Cairo_Geniza",
+        "kind": "Epigraphy"
+      }
+    ]
+  },
+  {
+    "id": "sephardi-maghrebi-jews",
+    "parentId": "judah-jews",
+    "name": "Sephardi & Maghrebi Jewry",
+    "nativeNames": "יְהוּדֵי סְפָרַד וְהַמַּגְרֵב · Sefaradim",
+    "kind": "people",
+    "branch": "jacob",
+    "era": "Roman Era - Present",
+    "region": "mediterranean-diaspora",
+    "territory": "Iberia (Sefarad), North Africa (Maghreb), Ottoman Balkans, Anatolia & Levant",
+    "cardRole": "Iberian, North African & Eastern Mediterranean Diaspora",
+    "summary": "Mediterranean Judaean diaspora of Spain, Portugal, and North Africa that spread across the Ottoman Levant and Americas after 1492.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living Sephardi & Maghrebi communities",
+      "detail": "Endures across Israel, France, the Americas, Morocco, Turkey, and Mediterranean cities, having merged liturgy and kinship with Mizrahi and Ashkenazi branches."
+    },
+    "geo": {
+      "lat": 36.2,
+      "lng": 5.5,
+      "rxKm": 920,
+      "ryKm": 290,
+      "angle": -8,
+      "sites": [
+        { "name": "Cordoba", "lat": 37.888, "lng": -4.779 },
+        { "name": "Fez", "lat": 34.033, "lng": -5.0 },
+        { "name": "Salonika (Thessaloniki)", "lat": 40.64, "lng": 22.944 },
+        { "name": "Safed (Tzfat)", "lat": 32.965, "lng": 35.496 }
+      ]
+    },
+    "history": [
+      "Settling Roman Hispania (Hebrew Sefarad) and North Africa (Cyrenaica, Tunisia, Algeria, and Morocco) in antiquity, Iberian and Maghrebi Jews produced a medieval Golden Age of Hebrew poetry, grammar, philosophy, and jurisprudence under Umayyad al-Andalus and Christian kingdoms, exemplified by Samuel ha-Nagid, Judah Halevi, and Moses Maimonides (born in Cordoba, active in Fez and Fustat/Cairo).",
+      "Following the 1492 Alhambra Decree in Spain and 1496-1497 forced conversions in Portugal, Sephardi exiles (Megorashim) joined indigenous Maghrebi communities (Toshavim) across Morocco, Algeria, and Tunisia, founded Ladino-speaking centers in Ottoman Salonika, Istanbul, Izmir, Jerusalem, and Safed (where Joseph Karo codified the Shulhan Arukh), and later established western congregations in Amsterdam, London, and the Americas."
+    ],
+    "traditions": [
+      "Classical Historians",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "mizrahi-jews",
+        "relation": "Sephardi exiles settled alongside and intermarried with eastern communities across Ottoman Syria, Palestine, and Egypt."
+      },
+      {
+        "id": "modern-israel-world-jewry",
+        "relation": "Major demographic and liturgical branch of modern Israel, France, and the Americas."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Sephardi Jews (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Sephardi_Jews",
+        "kind": "Reference"
+      },
+      {
+        "label": "Maghrebi Jews (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Maghrebi_Jews",
+        "kind": "Reference"
+      },
+      {
+        "label": "Alhambra Decree (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Alhambra_Decree",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "ashkenazi-jews",
+    "parentId": "judah-jews",
+    "name": "Ashkenazi Jewry",
+    "nativeNames": "יְהוּדֵי אַשְׁכְּנַז · אַשְׁכְּנַזִּים",
+    "kind": "people",
+    "branch": "jacob",
+    "era": "Roman / Medieval Era - Present",
+    "region": "mediterranean-diaspora",
+    "territory": "Roman Italy, Medieval Rhineland, Central & Eastern Europe & Global Diaspora",
+    "cardRole": "European Rabbinic & Yiddish-Speaking Diaspora",
+    "summary": "European Jewish branch tracing Levantine ancestry through Roman Italy to the medieval Rhineland, Poland-Lithuania, and modern diaspora.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living global Ashkenazi communities",
+      "detail": "Despite the destruction of six million European Jews in the Holocaust, Ashkenazi communities endure across North America, Israel, Europe, and the Southern Hemisphere."
+    },
+    "geo": {
+      "lat": 47.2,
+      "lng": 15.2,
+      "rxKm": 640,
+      "ryKm": 320,
+      "angle": -18,
+      "sites": [
+        { "name": "Rome", "lat": 41.89, "lng": 12.478 },
+        { "name": "Mainz / Worms (ShUM)", "lat": 49.999, "lng": 8.274 },
+        { "name": "Krakow", "lat": 50.052, "lng": 19.945 },
+        { "name": "Vilnius", "lat": 54.687, "lng": 25.279 }
+      ]
+    },
+    "history": [
+      "Descending from Judaean diaspora communities in Roman Italy that migrated north across the Alps into Carolingian France and the Rhineland (Hebrew Ashkenaz), medieval Ashkenazi scholarship crystallized in the ShUM cities of Speyer, Worms, and Mainz and the academies of Rashi (Solomon Yitzhaki of Troyes) and the Tosafists. Genome-wide and ancient-DNA studies (including fourteenth-century Erfurt burials) consistently show shared Near Eastern and southern European Mediterranean ancestry followed by a tight medieval founder bottleneck.",
+      "Expulsions and Crusader violence pushed eastward migrations into Bohemia, Poland, Lithuania, Ukraine, and Russia, where Yiddish-speaking communities governed through the Council of Four Lands and later generated Hasidism, the Lithuanian yeshiva movement, modern Hebrew literature, and Zionism. After nineteenth-century transatlantic migration and the Nazi Holocaust (Shoah, 1941-1945), surviving communities rebuilt primarily in the United States, Israel, Canada, Britain, France, Argentina, and Australia."
+    ],
+    "traditions": [
+      "Archaeology",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "sephardi-maghrebi-jews",
+        "relation": "Sister western diaspora branch descended from Roman-era Judaean Mediterranean settlements."
+      },
+      {
+        "id": "modern-israel-world-jewry",
+        "relation": "Converged with Mizrahi and Sephardi branches in modern Israel and diaspora cities."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ashkenazi Jews (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ashkenazi_Jews",
+        "kind": "Reference"
+      },
+      {
+        "label": "ShUM Cities: Speyer, Worms & Mainz (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/ShUM-cities",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "modern-israel-world-jewry",
+    "parentId": "judah-jews",
+    "name": "Modern Israel & Contemporary World Jewry",
+    "nativeNames": "מְדִינַת יִשְׂרָאֵל · עַם יִשְׂרָאֵל",
+    "kind": "people",
+    "branch": "jacob",
+    "era": "19th c. CE - Present",
+    "region": "levant-canaan",
+    "territory": "State of Israel & Global Diaspora Communities",
+    "cardRole": "Reconverged Global Jewish Nation (~15.8 Million)",
+    "summary": "Modern demographic and linguistic convergence of Mizrahi, Sephardi, Ashkenazi, Ethiopian, and historic Land-of-Israel Jewish lineages.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living nation in Israel & worldwide",
+      "detail": "Reunites long-separated Mizrahi, Sephardi-Maghrebi, Ashkenazi, Ethiopian Beta Israel, and Indian Jewish communities in modern Hebrew-speaking Israel and global diaspora centers."
+    },
+    "geo": {
+      "lat": 31.85,
+      "lng": 34.95,
+      "rxKm": 110,
+      "ryKm": 42,
+      "angle": -74,
+      "sites": [
+        { "name": "Jerusalem", "lat": 31.778, "lng": 35.235 },
+        { "name": "Tel Aviv-Jaffa", "lat": 32.085, "lng": 34.782 },
+        { "name": "Haifa", "lat": 32.794, "lng": 34.99 },
+        { "name": "Tiberias", "lat": 32.792, "lng": 35.531 }
+      ]
+    },
+    "history": [
+      "Across nearly two millennia after the Second Temple's fall, continuous small Jewish communities in Tiberias, Safed, Hebron, and Jerusalem lived alongside far larger diasporas in Iraq, Persia, Yemen, North Africa, Ottoman lands, Europe, Ethiopia, and India. Beginning in the late nineteenth century, Zionist immigration waves (Aliyot) revived spoken Hebrew and joined the Old Yishuv, culminating in the establishment of the State of Israel in 1948.",
+      "Subsequent mass migrations from postwar Europe, Iraq, Yemen, Morocco, Iran, the former Soviet Union, and Ethiopia brought separated branches back into shared towns and rapid intermarriage, while major diaspora communities continue in North America and Europe. Together they number roughly 15.8 million people today, nearly half inside Israel, alongside the neighboring Samaritan community at Mount Gerizim and Holon."
+    ],
+    "traditions": [
+      "Classical Historians",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "mizrahi-jews",
+        "relation": "Eastern Jewish communities integrated into modern Israeli and diaspora society."
+      },
+      {
+        "id": "sephardi-maghrebi-jews",
+        "relation": "Sephardi and Maghrebi communities integrated into modern Israel and world Jewry."
+      },
+      {
+        "id": "ashkenazi-jews",
+        "relation": "Ashkenazi communities integrated into modern Israel and world Jewry."
+      },
+      {
+        "id": "samaritans",
+        "relation": "Sister Israelite community living alongside Israeli Jews in Holon and on Mount Gerizim."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Jews (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Jews",
+        "kind": "Reference"
+      },
+      {
+        "label": "Israel (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Israel",
+        "kind": "Reference"
+      },
+      {
+        "label": "Jewish Population by Country (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Jewish_population_by_country",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "dan",
+    "parentId": "jacob",
+    "name": "Dan",
+    "nativeNames": "דָּן",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age",
+    "region": "levant-canaan",
+    "territory": "Northern Shephelah (Zorah) & Upper Jordan Headwaters (Tel Dan)",
+    "mother": "Bilhah (Rachel's handmaid)",
+    "cardRole": "5th Son of Jacob · Maritime-Border & Northern Frontier Tribe",
+    "summary": "Eldest son of Jacob and Bilhah whose tribe migrated from Philistine-border hills to found the city of Dan below Hermon.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Northern Israel sanctuary (732 BCE)",
+      "detail": "Coalesced into the Northern Kingdom around the border sanctuary of Tel Dan until Tiglath-Pileser III conquered northern Galilee in 732 BCE."
+    },
+    "geo": {
+      "lat": 33.249,
+      "lng": 35.652,
+      "rxKm": 28,
+      "ryKm": 20,
+      "angle": -70,
+      "sites": [
+        { "name": "Tel Dan (Laish)", "lat": 33.249, "lng": 35.652 },
+        { "name": "Zorah (Shephelah)", "lat": 31.776, "lng": 34.988 }
+      ]
+    },
+    "history": [
+      "Born to Rachel's handmaid Bilhah (Genesis 30:5-6), Dan first settled the foothills around Zorah, Eshtaol, and Joppa's hinterland (homeland of Judge Samson, Judges 13-16; Deborah's Song in Judges 5:17 asks, \"And Dan, why did he abide with the ships?\"). Pressed by Philistine and Amorite towns, a Danite expedition marched north to the springs at the foot of Mount Hermon, conquered the Canaanite city of Laish, renamed it Dan (Judges 18), and made it the northern landmark of the land (\"from Dan to Beersheba\")."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "northern-israel",
+        "relation": "Jeroboam I erected one of Northern Israel's two royal golden-calf sanctuaries at Tel Dan (1 Kgs 12:28-29)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Judges 18:27-31 (Sefaria)",
+        "url": "https://www.sefaria.org/Judges.18.27-31",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Dan (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Dan",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "naphtali",
+    "parentId": "jacob",
+    "name": "Naphtali",
+    "nativeNames": "נַפְתָּלִי",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age",
+    "region": "levant-canaan",
+    "territory": "Eastern Upper & Lower Galilee, Hula Valley & Sea of Galilee",
+    "mother": "Bilhah (Rachel's handmaid)",
+    "cardRole": "6th Son of Jacob · Eastern Galilean Highland Tribe",
+    "summary": "Second son of Jacob and Bilhah, holding Hazor, Kedesh, and Galilee's lakefront until Assyrian annexation in 732 BCE.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Northern Israel (annexed 732 BCE)",
+      "detail": "Formed Northern Israel's eastern Galilean province until Assyrian annexation and partial deportation in 732 BCE (2 Kgs 15:29), with exilic memory preserved in the Book of Tobit."
+    },
+    "geo": {
+      "lat": 33.017,
+      "lng": 35.568,
+      "rxKm": 30,
+      "ryKm": 18,
+      "angle": -80,
+      "sites": [
+        { "name": "Tel Hazor", "lat": 33.017, "lng": 35.568 },
+        { "name": "Tel Kedesh", "lat": 33.112, "lng": 35.531 },
+        { "name": "Chinnereth (Tel Kinrot)", "lat": 32.872, "lng": 35.54 }
+      ]
+    },
+    "history": [
+      "Second son of Jacob and Bilhah (Genesis 30:7-8), Naphtali held the eastern Galilee corridor including Kedesh, Hazor, and Chinnereth along the Sea of Galilee, supplying commander Barak son of Abinoam in the victory over Sisera at Mount Tabor (Judges 4-5). Because Galilee lay on the highway from Damascus, Naphtali faced early Syrian and Assyrian invasions: Ben-Hadad I of Aram raided its cities around 890 BCE, and Tiglath-Pileser III annexed \"all the land of Naphtali\" in 732 BCE, deporting captives to Assyria (2 Kings 15:29; remembered later in the Hellenistic Book of Tobit, whose protagonist is a Naphtalite exile in Nineveh)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "zebulun",
+        "relation": "Allied Galilean neighbor paired with Naphtali in Judges 4-5 and Isaiah 8:23 (Eng. 9:1)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "2 Kings 15:29 (Sefaria)",
+        "url": "https://www.sefaria.org/II_Kings.15.29",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Naphtali (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Naphtali",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "gad",
+    "parentId": "jacob",
+    "name": "Gad",
+    "nativeNames": "גָּד",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age",
+    "region": "levant-canaan",
+    "territory": "Central Gilead, Jabbok Valley & Ataroth (Transjordan)",
+    "mother": "Zilpah (Leah's handmaid)",
+    "cardRole": "7th Son of Jacob · Epigraphically Attested on Mesha Stele",
+    "summary": "Son of Jacob and Zilpah whose Transjordanian tribe is named directly (\"men of Gad\") on the ninth-century BCE Mesha Stele.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Northern Israel Gilead (732 BCE)",
+      "detail": "Held Gilead and Ataroth inside the Northern Kingdom (attested on the c. 840 BCE Mesha Stele) before Moabite and 732 BCE Assyrian conquests."
+    },
+    "geo": {
+      "lat": 32.12,
+      "lng": 35.76,
+      "rxKm": 36,
+      "ryKm": 22,
+      "angle": -80,
+      "sites": [
+        { "name": "Ataroth (Khirbet 'Ataruz)", "lat": 31.574, "lng": 35.668 },
+        { "name": "Penuel (Tall adh-Dhahab)", "lat": 32.189, "lng": 35.698 },
+        { "name": "Ramoth-Gilead (Tell er-Rumeith)", "lat": 32.502, "lng": 36.017 }
+      ]
+    },
+    "history": [
+      "Firstborn of Leah's handmaid Zilpah (Genesis 30:10-11), Gad settled the wooded highlands of central Gilead east of the Jordan and along the eastern Dead Sea plateau, famed as swift mountain warriors (1 Chronicles 12:9, Eng. 12:8) and allies of Reuben and half-Manasseh against the Ishmaelite Hagrites, Jetur, Nodab, and Naphish (1 Chronicles 5:18-22).",
+      "Line 10 of the Moabite Mesha Stele (c. 840 BCE, Louvre AO 5066) provides direct extra-biblical attestation of a specific Israelite tribe, recording: \"Now the men of Gad ('ish Gad) had dwelt in the land of Ataroth from of old, and the king of Israel had built Ataroth for himself,\" before Mesha stormed the town."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "reuben",
+        "relation": "Neighboring Transjordanian Israelite tribe."
+      },
+      {
+        "id": "hagrites",
+        "relation": "Fought Hagrite, Jeturite, Nodabite, and Naphishite nomads east of Gilead."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Deuteronomy 33:20-21 (Sefaria)",
+        "url": "https://www.sefaria.org/Deuteronomy.33.20-21",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Mesha Stele AO 5066 (Louvre)",
+        "url": "https://collections.louvre.fr/en/ark:/53355/cl010120339",
+        "kind": "Epigraphy"
+      },
+      {
+        "label": "Mesha Stele (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Mesha_Stele",
+        "kind": "Reference"
+      },
+      {
+        "label": "Tribe of Gad (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Gad",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "asher",
+    "parentId": "jacob",
+    "name": "Asher",
+    "nativeNames": "אָשֵׁר",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age - Second Temple",
+    "region": "levant-canaan",
+    "territory": "Western Galilee & Phoenician Coastal Hinterland (Acco to Tyre)",
+    "mother": "Zilpah (Leah's handmaid)",
+    "cardRole": "8th Son of Jacob · Olive-Producing Coastal Hinterland Tribe",
+    "summary": "Younger son of Jacob and Zilpah whose western Galilean hills supplied olive oil and grain to Phoenician ports.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Northern Israel; remnants in Jerusalem",
+      "detail": "Part of the Northern Kingdom along the Phoenician hinterland, with surviving families joining Jerusalem worship from Hezekiah's reign to the first century CE (2 Chr 30:11; Luke 2:36)."
+    },
+    "geo": {
+      "lat": 32.98,
+      "lng": 35.14,
+      "rxKm": 32,
+      "ryKm": 16,
+      "angle": -72,
+      "sites": [
+        { "name": "Acco (Tel Akko)", "lat": 32.922, "lng": 35.088 },
+        { "name": "Achzib (Tel Achziv)", "lat": 33.049, "lng": 35.102 },
+        { "name": "Cabul", "lat": 32.869, "lng": 35.211 }
+      ]
+    },
+    "history": [
+      "Second son of Jacob and Zilpah (Genesis 30:12-13), Asher received the olive-growing foothills and valleys behind Acco, Achzib, Sidon, and Tyre (Genesis 49:20; Deuteronomy 33:24), maintaining close economic ties with maritime Phoenicia. After Assyria broke the northern kingdom, King Hezekiah invited remnants in Asher, Manasseh, and Zebulun to celebrate Passover in Jerusalem, and \"some men of Asher, of Manasseh, and of Zebulun humbled themselves and came to Jerusalem\" (2 Chronicles 30:11), explaining how Asherite families endured into the first century CE (such as the prophetess Anna, daughter of Phanuel of the tribe of Asher, in Luke 2:36)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Christian Scripture"
+    ],
+    "relatedIds": [
+      {
+        "id": "zebulun",
+        "relation": "Adjacent western Galilean tribe."
+      },
+      {
+        "id": "judah-jews",
+        "relation": "Asherite families joined Jerusalem worship from Hezekiah's era into the Second Temple period."
+      }
+    ],
+    "sources": [
+      {
+        "label": "2 Chronicles 30:10-11 (Sefaria)",
+        "url": "https://www.sefaria.org/II_Chronicles.30.10-11",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Asher (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Asher",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "issachar",
+    "parentId": "jacob",
+    "name": "Issachar",
+    "nativeNames": "יִשָּׂשכָר",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age",
+    "region": "levant-canaan",
+    "territory": "Eastern Jezreel Valley, Shunem & Lower Galilee",
+    "mother": "Leah",
+    "cardRole": "9th Son of Jacob · Agricultural Jezreel Tribe",
+    "summary": "Fifth son of Jacob and Leah, cultivating the Jezreel breadbasket between Mount Tabor and the Jordan.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Northern Israel Jezreel core",
+      "detail": "Cultivated the Jezreel plain at the center of the Northern Kingdom until Assyria reorganized Galilee and Megiddo into imperial provinces in 732-720 BCE."
+    },
+    "geo": {
+      "lat": 32.58,
+      "lng": 35.34,
+      "rxKm": 24,
+      "ryKm": 16,
+      "angle": -15,
+      "sites": [
+        { "name": "Jezreel (Tel Jezreel)", "lat": 32.558, "lng": 35.328 },
+        { "name": "Shunem", "lat": 32.605, "lng": 35.334 },
+        { "name": "Mount Tabor", "lat": 32.687, "lng": 35.39 }
+      ]
+    },
+    "history": [
+      "Fifth son of Leah (Genesis 30:17-18), Issachar settled the alluvial plains of the eastern Jezreel Valley around Jezreel, Shunem, and Mount Tabor, where fourteenth-century BCE Amarna letters already show Canaanite city-rulers using forced corvee labor to harvest royal estates (echoed in Genesis 49:14-15). Issachar fought at the forefront alongside Deborah and Barak (Judges 5:15) and later gave Northern Israel both Judge Tola and King Baasha son of Ahijah (1 Kings 15:27)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "zebulun",
+        "relation": "Paired brother tribe in Deuteronomy 33:18-19 sharing Mount Tabor's sanctuary."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Deuteronomy 33:18-19 (Sefaria)",
+        "url": "https://www.sefaria.org/Deuteronomy.33.18-19",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Issachar (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Issachar",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "zebulun",
+    "parentId": "jacob",
+    "name": "Zebulun",
+    "nativeNames": "זְבוּלֻן",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age",
+    "region": "levant-canaan",
+    "territory": "Lower Galilee Hills (North of Jezreel Valley)",
+    "mother": "Leah",
+    "cardRole": "10th Son of Jacob · Lower Galilean Highland Tribe",
+    "summary": "Sixth son of Jacob and Leah, holding the lower Galilean hills linking Mediterranean and Galilean trade.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Northern Israel; Galilean remnant",
+      "detail": "Belonged to Northern Israel in lower Galilee, with remnant families later joining Jerusalem pilgrimage under Hezekiah (2 Chr 30:11, 18)."
+    },
+    "geo": {
+      "lat": 32.75,
+      "lng": 35.25,
+      "rxKm": 22,
+      "ryKm": 15,
+      "angle": -20,
+      "sites": [
+        { "name": "Shimron (Tel Shimron)", "lat": 32.704, "lng": 35.215 },
+        { "name": "Bethlehem of Galilee", "lat": 32.735, "lng": 35.191 },
+        { "name": "Nazareth Ridge", "lat": 32.702, "lng": 35.298 }
+      ]
+    },
+    "history": [
+      "Sixth son of Leah (Genesis 30:19-20), Zebulun occupied the limestone hills of lower Galilee between the Jezreel Valley and Sakhnin Valley (including Shimron, Bethlehem of Galilee, and the ridge where Nazareth later stood), sitting astride the Via Maris trade spurs toward Phoenician ports (Genesis 49:13). Zebulun risked its warriors \"to the death\" on the heights of Tabor in Judges 5:18, gave Israel Judge Elon the Zebulunite (Judges 12:11), and sent pilgrims south to Jerusalem in Hezekiah's reign after Assyria's northern campaigns (2 Chronicles 30:11, 18)."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "issachar",
+        "relation": "Paired brother tribe in the Jezreel-Tabor region."
+      },
+      {
+        "id": "naphtali",
+        "relation": "Paired Galilean ally in Judges 4-5."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Judges 5:14 (Sefaria)",
+        "url": "https://www.sefaria.org/Judges.5.14",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Judges 5:18 (Sefaria)",
+        "url": "https://www.sefaria.org/Judges.5.18",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Zebulun (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Zebulun",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "dinah",
+    "parentId": "jacob",
+    "name": "Dinah",
+    "nativeNames": "דִּינָה",
+    "kind": "person",
+    "branch": "jacob",
+    "era": "Patriarchal Age",
+    "region": "levant-canaan",
+    "territory": "Harran, Shechem & Goshen",
+    "mother": "Leah",
+    "cardRole": "Daughter of Jacob & Leah",
+    "summary": "Only named daughter of Jacob in Genesis, central to the Shechem crisis of Genesis 34 and counted in the migration to Egypt.",
+    "continuity": {
+      "status": "unattested",
+      "badge": "○ Entered Egypt; no separate tribe",
+      "detail": "Counted in Jacob's household entering Goshen (Gen 46:15), Dinah founded no separate territorial Israelite tribe."
+    },
+    "geo": {
+      "lat": 32.214,
+      "lng": 35.284,
+      "rxKm": 26,
+      "ryKm": 18,
+      "angle": -70,
+      "sites": [
+        { "name": "Shechem (Tell Balata)", "lat": 32.214, "lng": 35.284 }
+      ]
+    },
+    "history": [
+      "Born to Leah after Zebulun in Aram-Naharaim (Genesis 30:21), Dinah stands at the center of Genesis 34 at Shechem, where her abduction by Shechem son of Hamor the Hivite provoked retaliation by her full brothers Simeon and Levi and shaped Jacob's final assessment of those two tribes in Genesis 49:5-7. Genesis 46:15 explicitly includes Dinah in the census of Jacob's family entering Egypt; she founded no separate territorial tribe."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "simeon",
+        "relation": "Full brother who avenged her at Shechem (Gen 34:25)."
+      },
+      {
+        "id": "levi",
+        "relation": "Full brother who avenged her at Shechem (Gen 34:25)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 30:21 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.30.21",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 34:1-31 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.34.1-31",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Dinah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Dinah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "joseph",
+    "parentId": "jacob",
+    "name": "Joseph (Yusuf)",
+    "nativeNames": "יוֹסֵף · يوسف",
+    "kind": "person",
+    "branch": "jacob",
+    "era": "Patriarchal Age",
+    "region": "levant-canaan",
+    "territory": "Canaan, Egypt (Heliopolis / Goshen) & Shechem Tomb",
+    "mother": "Rachel",
+    "consorts": [
+      "Asenath daughter of Potiphera, priest of On (Heliopolis)"
+    ],
+    "cardRole": "11th Son of Jacob · Father of the Double House of Joseph",
+    "summary": "Elder son of Jacob and Rachel; vizier in Egypt whose sons Manasseh and Ephraim formed northern Israel's core.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Manasseh & Ephraim",
+      "detail": "Received the double tribal portion in Israel through his two sons Manasseh and Ephraim, ancestral core of Northern Israel and the Samaritans."
+    },
+    "geo": {
+      "lat": 30.95,
+      "lng": 33.4,
+      "rxKm": 160,
+      "ryKm": 70,
+      "angle": -48,
+      "sites": [
+        { "name": "Heliopolis (On)", "lat": 30.129, "lng": 31.307 },
+        { "name": "Goshen (Tell el-Dab'a)", "lat": 30.787, "lng": 31.822 },
+        { "name": "Shechem (Joseph's Tomb)", "lat": 32.213, "lng": 35.285 }
+      ]
+    },
+    "history": [
+      "Sold into Egypt by Ishmaelite and Midianite/Medanite spice caravaneers (Genesis 37:25-36), Joseph rose to govern Egypt's grain administration, married Asenath of On, preserved his father's family through famine, and received the double portion of the birthright when Jacob elevated Joseph's two Egyptian-born sons, Manasseh and Ephraim, to the rank of full Israelite tribes (Genesis 48:5; 1 Chronicles 5:1-2). Joshua 24:32 records the burial of Joseph's bones at Shechem (modern Tell Balata / Nablus), at the center of the House of Joseph's highland territory. Surah 12 of the Quran (Surat Yusuf) devotes an entire continuous narrative chapter to Yusuf as \"the best of stories.\""
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Islamic Tradition",
+      "Christian Scripture"
+    ],
+    "relatedIds": [
+      {
+        "id": "manasseh",
+        "relation": "Firstborn son of Joseph and Asenath."
+      },
+      {
+        "id": "ephraim",
+        "relation": "Younger son of Joseph elevated by Jacob's blessing."
+      },
+      {
+        "id": "benjamin",
+        "relation": "Only full brother via Rachel."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 48:1-22 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.48.1-22",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Quran 12:1-101, Yusuf (Quran.com)",
+        "url": "https://quran.com/12",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Joseph (Genesis) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Joseph_(Genesis)",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "manasseh",
+    "parentId": "joseph",
+    "name": "Manasseh",
+    "nativeNames": "מְנַשֶּׁה",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age",
+    "region": "levant-canaan",
+    "territory": "Northern Samaria (Shechem/Tirzah) & Eastern Bashan/Gilead",
+    "mother": "Asenath",
+    "cardRole": "1st Son of Joseph · Cisjordan & Transjordan Half-Tribes",
+    "summary": "Eldest son of Joseph whose wide tribe spanned northern Samaria (attested on the Samaria Ostraca) and Bashan.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Northern Israel & living Samaritans",
+      "detail": "Formed the highland and Transjordanian core of Northern Israel, with southern pilgrims reaching Judah (2 Chr 30:11) and local highland families enduring in the Samaritan Tsedaka house."
+    },
+    "geo": {
+      "lat": 32.35,
+      "lng": 35.42,
+      "rxKm": 64,
+      "ryKm": 36,
+      "angle": 12,
+      "sites": [
+        { "name": "Shechem", "lat": 32.214, "lng": 35.284 },
+        { "name": "Tirzah (Tell el-Far'ah North)", "lat": 32.288, "lng": 35.337 },
+        { "name": "Samaria (Sebastia)", "lat": 32.276, "lng": 35.195 }
+      ]
+    },
+    "history": [
+      "Firstborn of Joseph and Asenath (Genesis 41:51), Manasseh split into two geographical halves: Machir and Jair conquered northern Gilead and Bashan east of the Jordan, while six western clans (Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida, including Zelophehad's five daughters Mahlah, Noah, Hoglah, Milcah, and Tirzah, Numbers 26:29-33; 27:1-7) held the valleys around Shechem, Tirzah, and Samaria, producing Judge Gideon of Abiezer.",
+      "Eighth-century BCE Hebrew ink tax receipts excavated at the royal palace of Samaria (the Samaria Ostraca) record wine and olive oil shipments from all seven biblical clan districts of western Manasseh there attested: Abiezer, Helek, Asriel, Shechem, Shemida, Noah, and Hoglah, confirming that these exact subdivisions functioned as administrative tax districts in Iron Age Israel."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "ephraim",
+        "relation": "Sister Josephite tribe forming the core of the Northern Kingdom and Samaritan lineage."
+      },
+      {
+        "id": "samaritans",
+        "relation": "Samaritan Tsedaka families trace descent from Manasseh alongside Ephraim and Levi."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Numbers 26:28-34 (Sefaria)",
+        "url": "https://www.sefaria.org/Numbers.26.28-34",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Numbers 27:1-11 (Sefaria)",
+        "url": "https://www.sefaria.org/Numbers.27.1-11",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Samaria Ostraca (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Samaria_Ostraca",
+        "kind": "Epigraphy"
+      },
+      {
+        "label": "Tribe of Manasseh (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Manasseh",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "ephraim",
+    "parentId": "joseph",
+    "name": "Ephraim",
+    "nativeNames": "אֶפְרַיִם",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age",
+    "region": "levant-canaan",
+    "territory": "Central Canaanite Highlands (Shiloh, Bethel & Timnath-serah)",
+    "mother": "Asenath",
+    "cardRole": "2nd Son of Joseph · Leading Northern Highland Tribe",
+    "summary": "Younger son of Joseph whose central hill-country tribe gave Northern Israel Joshua, the Shiloh shrine, and its royal byname.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Northern Israel & Samaritans",
+      "detail": "Led the Northern Kingdom of Israel and endures locally around Mount Gerizim in Samaritan Ephraimite families alongside post-722 BCE refugees absorbed into Judah."
+    },
+    "geo": {
+      "lat": 32.055,
+      "lng": 35.289,
+      "rxKm": 30,
+      "ryKm": 22,
+      "angle": -75,
+      "sites": [
+        { "name": "Shiloh", "lat": 32.055, "lng": 35.289 },
+        { "name": "Bethel", "lat": 31.931, "lng": 35.222 },
+        { "name": "Timnath-serah", "lat": 32.104, "lng": 35.158 }
+      ]
+    },
+    "history": [
+      "Placed ahead of his elder brother Manasseh by Jacob's crossed hands (Genesis 48:13-20), Ephraim settled the central limestone highlands around Shiloh (site of the pre-monarchic Tabernacle), Bethel, and Shechem's southern border. Ephraim produced Joshua son of Nun, Samuel's ancestral home in Ramathaim-zophim, and Jeroboam son of Nebat, who led the northern secession around 930 BCE. In prophets such as Hosea, Isaiah, and Jeremiah, \"Ephraim\" regularly stands as the name for the entire Northern Kingdom of Israel."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "northern-israel",
+        "relation": "Heartland and eponymous leading tribe of the Northern Kingdom."
+      },
+      {
+        "id": "samaritans",
+        "relation": "Ancestral tribe of the Samaritan Danfi and Marhiv families alongside Manasseh and Levi."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 48:17-20 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.48.17-20",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Ephraim (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Ephraim",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "northern-israel",
+    "parentId": "ephraim",
+    "name": "Northern Kingdom of Israel (Samaria)",
+    "nativeNames": "בֵּית יִשְׂרָאֵל · שֹׁמְרוֹן · Bit-Humri",
+    "kind": "people",
+    "branch": "jacob",
+    "era": "c. 930-722 BCE",
+    "region": "levant-canaan",
+    "territory": "Samaria, Jezreel, Galilee & Gilead",
+    "cardRole": "Ten-Tribe Monarchy (Assyrian Bit-Humri / Samerina)",
+    "summary": "Larger and more populous of the two Hebrew kingdoms, attested in Assyrian, Moabite, and Aramaic inscriptions.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues in Samaritans; refugees -> Judah",
+      "detail": "Eastern deportees assimilated in Assyria and Media, large refugee waves merged south into Judah after 722 BCE, and indigenous highland communities continued around Mount Gerizim as the Samaritans."
+    },
+    "geo": {
+      "lat": 32.276,
+      "lng": 35.195,
+      "rxKm": 68,
+      "ryKm": 42,
+      "angle": -78,
+      "sites": [
+        { "name": "Samaria (Sebastia)", "lat": 32.276, "lng": 35.195 },
+        { "name": "Jezreel", "lat": 32.558, "lng": 35.328 },
+        { "name": "Megiddo", "lat": 32.585, "lng": 35.184 },
+        { "name": "Tel Dan", "lat": 33.249, "lng": 35.652 }
+      ]
+    },
+    "history": [
+      "Uniting Ephraim, Manasseh, Issachar, Zebulun, Asher, Naphtali, Dan, Reuben, and Gad under Jeroboam I around 930 BCE, the Northern Kingdom reached regional power under the ninth-century Omride dynasty (Omri and Ahab, builders of the ivory-adorned capital at Samaria; Ahab fielded 2,000 chariots against Shalmaneser III at the Battle of Qarqar in 853 BCE) and again under Jeroboam II in the eighth century. Assyrian scribes called the state Bit-Humri (\"House of Omri\") or Samerina, depicting King Jehu on the Black Obelisk of Shalmaneser III.",
+      "After Tiglath-Pileser III detached Galilee and Gilead in 732 BCE, Shalmaneser V and Sargon II captured Samaria in 722-720 BCE. Sargon's Nimrud Prism (27,280 captives) and Khorsabad Display Inscription (27,290 captives) record deporting Samarians into Assyria and drafting royal chariot units, while 2 Kings 17:6 specifies resettlement in Halah, on the Habur River of Gozan, and in the cities of the Medes alongside incoming settlers from Babylonia, Hamath, and North Arabian tribes (including Ephah/Hayapa in 715 BCE). While eastern deportees assimilated (\"Ten Lost Tribes\" tradition), archaeological surveys show that most rural villagers remained in Samaria or fled south to expand Hezekiah's Jerusalem."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "samaritans",
+        "relation": "Indigenous northern Israelite remnant centered on Mount Gerizim."
+      },
+      {
+        "id": "judah-jews",
+        "relation": "Absorbed large waves of northern Israelite refugees after 732 and 722 BCE."
+      },
+      {
+        "id": "ephah",
+        "relation": "Sargon II settled defeated North Arabian Hayapa (Ephah) tribesmen in Samaria in 715 BCE."
+      }
+    ],
+    "sources": [
+      {
+        "label": "2 Kings 17:1-23 (Sefaria)",
+        "url": "https://www.sefaria.org/II_Kings.17.1-23",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Kingdom of Israel (Samaria) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)",
+        "kind": "Reference"
+      },
+      {
+        "label": "Black Obelisk of Shalmaneser III (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Black_Obelisk_of_Shalmaneser_III",
+        "kind": "Epigraphy"
+      }
+    ]
+  },
+  {
+    "id": "samaritans",
+    "parentId": "northern-israel",
+    "name": "Samaritans (Shamerim)",
+    "nativeNames": "שָׁמְרִים · שֹׁמְרוֹנִים · السامريون",
+    "kind": "people",
+    "branch": "jacob",
+    "era": "Persian Era (5th c. BCE) - Present",
+    "region": "levant-canaan",
+    "territory": "Mount Gerizim (Nablus / Shechem) & Holon",
+    "cardRole": "Living Northern Israelite Community (\"Keepers\")",
+    "summary": "Indigenous Levantine community at Mount Gerizim preserving the Samaritan Pentateuch and Josephite-Levitical ancestry.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living community on Mount Gerizim & Holon",
+      "detail": "Survives today in four traditional families (Cohen of Levi/Ithamar, Tsedaka of Manasseh, and Danfi and Marhiv of Ephraim) at Kiryat Luza on Mount Gerizim and in Holon."
+    },
+    "geo": {
+      "lat": 32.199,
+      "lng": 35.273,
+      "rxKm": 22,
+      "ryKm": 16,
+      "angle": -70,
+      "sites": [
+        { "name": "Mount Gerizim (Kiryat Luza)", "lat": 32.199, "lng": 35.273 },
+        { "name": "Nablus (Shechem)", "lat": 32.221, "lng": 35.254 },
+        { "name": "Holon", "lat": 32.016, "lng": 34.787 }
+      ]
+    },
+    "history": [
+      "Calling themselves Bene Yisra'el and Shamerim (\"Keepers [of the Torah]\", rather than geographical inhabitants of Samaria), the Samaritans trace continuous residence around Mount Gerizim through Ephraim, Manasseh, and Aaronic-Kohathite Levi. While polemical accounts in 2 Kings 17:24-41 and Josephus portrayed them as foreign colonists from Cuthah (and Nehemiah 13:28-29 / Antiquities 11.321-325 linked Gerizim's priesthood to Sanballat's marriage alliance), Yitzhak Magen's excavations on Mount Gerizim revealed a large YHWH temple precinct built already in the mid-fifth century BCE (Persian period), expanded in the early second century BCE with hundreds of Hebrew, Aramaic, and Greek votive inscriptions before Hasmonean ruler John Hyrcanus destroyed it c. 111-110 BCE.",
+      "Numbering in the hundreds of thousands in Roman and early Byzantine Palestine before sixth-century Justinianic suppressions and medieval decline, the community survives today (~900 members) organized in four ancestral families: the priestly Cohen house (Aaronic branch of Ithamar since 1624 CE), Tsedaka (Manasseh), and Danfi and Marhiv (Ephraim), celebrating the annual Passover sacrifice on Mount Gerizim and reading the Torah in Samaritan Hebrew script."
+    ],
+    "traditions": [
+      "Archaeology",
+      "Hebrew Bible",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "manasseh",
+        "relation": "Co-ancestral Josephite tribe (Tsedaka family) alongside Ephraim."
+      },
+      {
+        "id": "levites-kohanim",
+        "relation": "Samaritan Cohen family preserves Aaronic-Ithamar Levitical priesthood."
+      },
+      {
+        "id": "modern-israel-world-jewry",
+        "relation": "Lives alongside modern Israeli communities in Holon and at Mount Gerizim."
+      }
+    ],
+    "sources": [
+      {
+        "label": "2 Kings 17:24-41 (Sefaria)",
+        "url": "https://www.sefaria.org/II_Kings.17.24-41",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Nehemiah 13:28-29 (Sefaria)",
+        "url": "https://www.sefaria.org/Nehemiah.13.28-29",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Josephus, Antiquities 11.321-325 (Lexundria)",
+        "url": "https://lexundria.com/j_aj/11.321-11.325/wst",
+        "kind": "Classical"
+      },
+      {
+        "label": "Samaritans (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Samaritans",
+        "kind": "Reference"
+      },
+      {
+        "label": "Mount Gerizim (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Mount_Gerizim",
+        "kind": "Reference"
+      },
+      {
+        "label": "Samaritan Pentateuch (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Samaritan_Pentateuch",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "benjamin",
+    "parentId": "jacob",
+    "name": "Benjamin",
+    "nativeNames": "בִּנְיָמִין · بنيامين",
+    "kind": "clan",
+    "branch": "jacob",
+    "era": "Patriarchal / Iron Age - Second Temple",
+    "region": "levant-canaan",
+    "territory": "Central Hill Country (Gibeah, Bethel, Mizpah, Jericho & Jerusalem)",
+    "mother": "Rachel",
+    "cardRole": "12th Son of Jacob · Royal Tribe of Saul & Partner of Judah",
+    "summary": "Youngest son of Jacob and Rachel, holding the highland saddle north of Jerusalem and remaining united with Judah.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Partnered & merged into Judah / Yehud",
+      "detail": "Remained united with Jerusalem after 930 BCE, survived around Mizpah in 587 BCE, returned with Judah in Persian Yehud (Ezra 1:5), and merged into the Jewish people."
+    },
+    "geo": {
+      "lat": 31.86,
+      "lng": 35.23,
+      "rxKm": 26,
+      "ryKm": 15,
+      "angle": -12,
+      "sites": [
+        { "name": "Gibeah (Tell el-Ful)", "lat": 31.823, "lng": 35.231 },
+        { "name": "Mizpah (Tell en-Nasbeh)", "lat": 31.885, "lng": 35.217 },
+        { "name": "Jericho (Tell es-Sultan)", "lat": 31.871, "lng": 35.444 }
+      ]
+    },
+    "history": [
+      "Only son of Jacob born inside Canaan, where Rachel died giving birth near Ephrath/Bethlehem (Genesis 35:16-19), Benjamin held the compact ridge controlling the north-south watershed road and east-west passes between Jericho and the coastal plain, including Gibeah, Ramah, Mizpah, Gibeon, and the northern edge of Jerusalem (Joshua 18:11-28).",
+      "Famed for left-handed slingers and archers (Judges 20:16; 1 Chronicles 12:2), Benjamin gave united Israel its first monarch, King Saul of Gibeah (1 Samuel 9-10). After the northern secession of 930 BCE, southern Benjamin stayed inside the Kingdom of Judah (1 Kings 12:21), escaped Jerusalem's ruin around Mizpah in 587 BCE, returned alongside Judah in Ezra 1:5, and maintained distinct tribal memory through Esther and Mordecai (Esther 2:5) down to Paul of Tarsus in the first century CE (Romans 11:1; Philippians 3:5)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Archaeology",
+      "Christian Scripture"
+    ],
+    "relatedIds": [
+      {
+        "id": "joseph",
+        "relation": "Elder full brother via Rachel."
+      },
+      {
+        "id": "judah-jews",
+        "relation": "Core partner tribe alongside Judah in the Southern Kingdom and post-exilic Judaea."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 35:16-20 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.35.16-20",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Samuel 9:1-2 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Samuel.9.1-2",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Samuel 9:21 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Samuel.9.21",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tribe of Benjamin (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribe_of_Benjamin",
+        "kind": "Reference"
+      }
+    ]
+  }
+]

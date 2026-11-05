@@ -1,0 +1,2460 @@
+[
+  {
+    "id": "hagrites",
+    "parentId": "hagar",
+    "name": "Hagrites (Hagarenes)",
+    "nativeNames": "הַגְרִיאִים · Hagaranu",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "Iron Age (11th-8th c. BCE)",
+    "region": "syria-mesopotamia",
+    "territory": "East of Gilead, Hauran & Syro-Arabian Steppe",
+    "cardRole": "Pastoral Confederation Named for Hagar",
+    "summary": "Semi-nomadic confederation east of the Jordan allied with Jetur, Naphish, and Nodab in 1 Chronicles 5.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Displaced 8th c. BCE · Steppe Arabs",
+      "detail": "Displaced east of Gilead before Tiglath-Pileser III's 732 BCE deportations; eastern groups appear as Hagaranu along the Babylonian border and Agraei in Hellenistic geography."
+    },
+    "geo": {
+      "lat": 32.35,
+      "lng": 37.15,
+      "rxKm": 180,
+      "ryKm": 95,
+      "angle": -25,
+      "sites": [
+        { "name": "Eastern Gilead Steppe", "lat": 32.25, "lng": 36.45 },
+        { "name": "Hauran Basalt Desert", "lat": 32.65, "lng": 37.25 }
+      ]
+    },
+    "history": [
+      "Hebrew chronicles distinguish the Hagrites (Hagri'im) as a wealthy pastoral confederation inhabiting the steppe east of Gilead from the Hauran toward the Euphrates. Psalm 83:6 (MT 83:7) lists the \"tents of Edom and the Ishmaelites, Moab and the Hagrites\" side by side, treating them as a distinct people linked by name and kinship to Hagar.",
+      "According to 1 Chronicles 5:10 and 5:18-22, the Israelite Transjordanian tribes of Reuben, Gad, and half-Manasseh waged war against the Hagrites and their allies Jetur, Naphish, and Nodab, seizing 50,000 camels and 250,000 sheep and holding their pasturelands until the Assyrian deportations under Tiglath-Pileser III. Assyrian inscriptions of Tiglath-Pileser III and Sennacherib mention an Aramaean-Arab border group called the Hagaranu along the Babylonian frontier, and Hellenistic geographers knew desert dwellers called Agraei in northern Arabia."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "jetur",
+        "relation": "Military ally of the Hagrites in Transjordan (1 Chr 5:19)."
+      },
+      {
+        "id": "naphish",
+        "relation": "Allied Ishmaelite tribe in the Gilead border war."
+      },
+      {
+        "id": "nodab",
+        "relation": "Allied Transjordanian steppe clan named beside Jetur and Naphish (1 Chr 5:19)."
+      },
+      {
+        "id": "reuben",
+        "relation": "Captured Hagrite grazing lands east of Gilead (1 Chr 5:10)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "1 Chronicles 5:10 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.5.10",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 5:18-22 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.5.18-22",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Psalm 83:6-8 / MT 83:7-9 (Sefaria)",
+        "url": "https://www.sefaria.org/Psalms.83.7-9",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Hagrites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hagrites",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "nodab",
+    "parentId": "hagar",
+    "name": "Nodab",
+    "nativeNames": "נוֹדָב",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Iron Age (c. 10th-8th c. BCE)",
+    "region": "levant-canaan",
+    "territory": "Eastern Gilead & Hauran Steppe",
+    "cardRole": "Hagarite-Ishmaelite Coalition Clan (1 Chr 5:19)",
+    "summary": "Pastoral steppe tribe allied with the Hagrites, Jetur, and Naphish east of the Jordan.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced in Hagrite league",
+      "detail": "Fought inside the Hagrite-Jetur-Naphish coalition east of Gilead and merged into the North Arabian steppe populations."
+    },
+    "geo": {
+      "lat": 32.48,
+      "lng": 36.68,
+      "rxKm": 85,
+      "ryKm": 55,
+      "angle": -20,
+      "sites": [
+        { "name": "Hauran-Gilead Margin", "lat": 32.5, "lng": 36.7 }
+      ]
+    },
+    "history": [
+      "Although absent from the twelve-prince roll of Genesis 25:13-15, Nodab appears in 1 Chronicles 5:19 right beside the Hagrites, Jetur, and Naphish in the Transjordanian steppe war against Reuben, Gad, and half-Manasseh. Biblical historians and Semitic philologists interpret Nodab (from Semitic n-d-b, \"generous\" or \"noble\") as an allied Hagarite or collateral Ishmaelite camel-herding clan on the eastern edge of Bashan and the Hauran."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "hagrites",
+        "relation": "Coalition partner in the Transjordanian steppe war (1 Chr 5:19)."
+      },
+      {
+        "id": "jetur",
+        "relation": "Allied Ishmaelite clan in 1 Chronicles 5:19."
+      }
+    ],
+    "sources": [
+      {
+        "label": "1 Chronicles 5:18-22 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.5.18-22",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Hagrites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hagrites",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "ishmael",
+    "parentId": "hagar",
+    "name": "Ishmael (Isma'il)",
+    "nativeNames": "יִשְׁמָעֵאל · إسماعيل",
+    "kind": "patriarch",
+    "branch": "ishmael",
+    "era": "Patriarchal Age",
+    "region": "hejaz-west-arabia",
+    "territory": "Paran, Havilah-to-Shur Corridor & Mecca",
+    "mother": "Hagar (Hajar)",
+    "consorts": [
+      "Wife from Egypt (Gen 21:21)",
+      "Rala / Sayyidah bint Mudad of Jurhum (Arab tradition)"
+    ],
+    "cardRole": "Firstborn Son of Abraham · Father of Twelve Princes",
+    "summary": "Elder son of Abraham whose descendants spanned northern and western Arabia from Sinai to the Euphrates.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "12 princes & Adnanite line",
+      "detail": "Continues across twelve North Arabian tribal princes, Ituraea, the Nabataean/Provincia Arabia sphere, and the living Adnanite Arab confederations."
+    },
+    "geo": {
+      "lat": 27.8,
+      "lng": 37.8,
+      "rxKm": 620,
+      "ryKm": 240,
+      "angle": -48,
+      "sites": [
+        { "name": "Mecca (Bakkah)", "lat": 21.422, "lng": 39.826 },
+        { "name": "Paran", "lat": 29.85, "lng": 34.45 },
+        { "name": "Dumat al-Jandal", "lat": 29.811, "lng": 39.868 }
+      ]
+    },
+    "history": [
+      "Born when Abraham was eighty-six (Genesis 16:16), Ishmael received a divine covenant promise that he would become fruitful, multiply exceedingly, and father twelve tribal princes (nesi'im) forming a great nation (Genesis 17:20). Despite his separation from Isaac's household, Genesis 25:9 records that Ishmael and Isaac reunited at Hebron to bury their father Abraham together in the Cave of Machpelah.",
+      "Genesis 25:12-18 maps the territory of Ishmael's posterity \"from Havilah to Shur, which is opposite Egypt in the direction of Assyria,\" describing the entire northern Arabian arc from the eastern Sinai frontier across Wadi Sirhan and the Nafud oases toward Mesopotamia. First-century historian Josephus (Antiquities 1.12.4) adds that these twelve sons held the country stretching from the Euphrates to the Red Sea.",
+      "In the Quran and Islamic historiography, Isma'il is a prophet and messenger who settled with Hajar at Mecca, married into the migrating Yemenite tribe of Jurhum, and helped Ibrahim build the Ka'bah (Quran 2:125-129). Through his sons Qaydar (Kedar) and Nabit (Nebaioth), Arab genealogists trace the Adnanite branch of the Arab peoples."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Islamic Tradition",
+      "Arab Genealogy",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "isaac",
+        "relation": "Half-brother; buried Abraham together at Machpelah (Gen 25:9)."
+      },
+      {
+        "id": "esau",
+        "relation": "Nephew and son-in-law via Ishmael's daughter Mahalath (Gen 28:9)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:12-18 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.12-18",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Quran 2:125-129 (Quran.com)",
+        "url": "https://quran.com/2/125-129",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Josephus, Antiquities 1.220-221 (Lexundria)",
+        "url": "https://lexundria.com/j_aj/1.220-1.221/wst",
+        "kind": "Classical"
+      },
+      {
+        "label": "Ishmael (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ishmael",
+        "kind": "Reference"
+      },
+      {
+        "label": "Ishmaelites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ishmaelites",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "mahalath",
+    "parentId": "ishmael",
+    "name": "Mahalath (Basemath)",
+    "nativeNames": "מָחֲלַת · בָּשְׂמַת",
+    "kind": "person",
+    "branch": "ishmael",
+    "era": "Patriarchal Age",
+    "region": "sinai-negev-edom",
+    "territory": "Negev & Mount Seir (Edom)",
+    "consorts": [
+      "Esau (Edom)"
+    ],
+    "cardRole": "Daughter of Ishmael · Matriarch in Edom",
+    "summary": "Sister of Nebaioth who married her cousin Esau, linking Ishmaelite and Edomite lineages through Reuel.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Matriarch of Reuel in Edom",
+      "detail": "Married Esau (Gen 28:9; 36:3-4), uniting Ishmaelite ancestry with Edom's four Reuelite chieftaincies."
+    },
+    "geo": {
+      "lat": 30.65,
+      "lng": 35.35,
+      "rxKm": 85,
+      "ryKm": 55,
+      "angle": -25,
+      "sites": [
+        { "name": "Negev-Seir Borderlands", "lat": 30.65, "lng": 35.35 }
+      ]
+    },
+    "history": [
+      "Genesis 28:9 records that when Esau saw how his Canaanite wives displeased his parents Isaac and Rebekah, he went to Ishmael and married Mahalath, daughter of Abraham's son Ishmael and full sister of Ishmael's firstborn Nebaioth.",
+      "In the Edomite clan lists of Genesis 36:3-4, 13, Ishmael's daughter and Nebaioth's sister appears under the name Basemath (\"fragrant spice\") as the mother of Esau's son Reuel and grandmother of four Edomite chieftains (Nahath, Zerah, Shammah, and Mizzah), reflecting early intermarriage between Edomite clans of Seir and neighboring North Arabian tribes."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "esau",
+        "relation": "Husband of Mahalath/Basemath (Gen 28:9; 36:3)."
+      },
+      {
+        "id": "reuel",
+        "relation": "Son born to Esau and Basemath daughter of Ishmael (Gen 36:4)."
+      },
+      {
+        "id": "nebaioth",
+        "relation": "Full brother mentioned alongside her in both passages."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 28:6-9 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.28.6-9",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Genesis 36:2-4 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.36.2-4",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Mahalath (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Mahalath",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "nebaioth",
+    "parentId": "ishmael",
+    "name": "Nebaioth (Nabit)",
+    "nativeNames": "נְבָיוֹת · نابت · Nabayatu",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / 8th-6th c. BCE",
+    "region": "north-arabia",
+    "territory": "Northern Arabia (Ha'il, Tayma & Wadi Sirhan)",
+    "cardRole": "1st Son of Ishmael · Nabayatu Tribe",
+    "summary": "Firstborn of Ishmael attested as the pastoral Nabayatu tribe in Neo-Assyrian and Taymanitic records.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues / Nabataean debate",
+      "detail": "Attested as Nabayatu/Nbyt in 7th-6th c. BCE North Arabia; linked by classical writers to the Nabataeans and by Ibn Ishaq to Adnan."
+    },
+    "geo": {
+      "lat": 28.05,
+      "lng": 40.35,
+      "rxKm": 210,
+      "ryKm": 115,
+      "angle": -30,
+      "sites": [
+        { "name": "Ha'il (Jabal Shammar)", "lat": 27.521, "lng": 41.69 },
+        { "name": "Tayma", "lat": 27.629, "lng": 38.548 }
+      ]
+    },
+    "history": [
+      "Nebaioth heads every biblical list of Ishmael's sons (Genesis 25:13; 1 Chronicles 1:29) and appears alongside Kedar in Isaiah 60:7 (\"All the flocks of Kedar shall be gathered to you; the rams of Nebaioth shall minister to you\"), portraying a wealthy pastoral tribe of northern Arabia.",
+      "Seventh-century BCE royal annals of Assyrian king Ashurbanipal record campaigns against Natnu and his son Nuhuru, kings of the Nabayatu, who interacted with Qedarite rulers across the Syrian-Arabian desert. Ancient North Arabian (Taymanitic) rock inscriptions from the region around Tayma and Ha'il also record soldiers serving in a \"war of Nbyt\" (Nebaioth), confirming their home in north-central Arabia.",
+      "In early Islamic historiography, a strand preserved by Ibn Ishaq and al-Tabari traced Adnan (ancestor of the northern Arabs) through Nabit rather than Qaydar, while other medieval Arab writers applied the term \"Nabat\" to Aramaic-speaking agrarian populations of Iraq and the Levant."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "North Arabian Epigraphy",
+      "Arab Genealogy"
+    ],
+    "relatedIds": [
+      {
+        "id": "kedar",
+        "relation": "Paired brother tribe in Isaiah 60:7 and Ashurbanipal's annals."
+      },
+      {
+        "id": "nabataeans",
+        "relation": "Linked by Josephus and Jerome; debated in modern Semitic philology."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:13 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.13",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Isaiah 60:6-7 (Sefaria)",
+        "url": "https://www.sefaria.org/Isaiah.60.6-7",
+        "kind": "Scripture"
+      },
+      {
+        "label": "OCIANA: Online Corpus of the Inscriptions of Ancient North Arabia",
+        "url": "https://ociana.osu.edu/",
+        "kind": "Epigraphy"
+      },
+      {
+        "label": "Nebaioth (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Nebaioth",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "nabataeans",
+    "parentId": "nebaioth",
+    "name": "Nabataean Kingdom (Debated Link)",
+    "nativeNames": "נבטו · الأنباط · Nabaṭu",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "c. 312 BCE - 106 CE",
+    "region": "sinai-negev-edom",
+    "territory": "Petra, Hegra (Mada'in Salih), Negev, Sinai & Hauran",
+    "cardRole": "Caravan Kingdom · Classical Nebaioth Identification",
+    "summary": "Arab kingdom centered at Petra and Hegra; equated with Nebaioth in antiquity, debated on phonetic grounds today.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Provincia Arabia",
+      "detail": "Annexed by Rome in 106 CE as Provincia Arabia, where Nabataean towns and cursive script evolved directly into late antique Arabic communities and script."
+    },
+    "geo": {
+      "lat": 29.65,
+      "lng": 36.25,
+      "rxKm": 330,
+      "ryKm": 140,
+      "angle": -62,
+      "sites": [
+        { "name": "Petra (Raqmu)", "lat": 30.329, "lng": 35.444 },
+        { "name": "Hegra (Mada'in Salih)", "lat": 26.791, "lng": 37.953 },
+        { "name": "Avdat (En Avdat)", "lat": 30.795, "lng": 34.774 },
+        { "name": "Bosra", "lat": 32.517, "lng": 36.482 }
+      ]
+    },
+    "history": [
+      "Emerging into Greek historical records in 312 BCE when they repelled Antigonid general Athenaeus near Petra, the Nabataeans built a wealthy Arab kingdom under kings such as Aretas III, Obodas III, and Aretas IV, controlling the frankincense, myrrh, and bitumen trade from Hegra (Mada'in Salih / Al-Hijr) through Petra and the Negev cities to Gaza, Damascus, and Bosra before Roman annexation in 106 CE.",
+      "Flavius Josephus (Antiquities 1.12.4) explicitly named the entire region from the Euphrates to the Red Sea \"Nabatene\" after Ishmael's sons headed by Nebaioth, and Jerome's Latin commentaries followed the same identification.",
+      "Modern Semitic epigraphists (including Michael C. A. Macdonald and Ahmad Al-Jallad) note a consonantal distinction: Hebrew Nebaioth (nbywt) and Taymanitic nbyt end with non-emphatic t (taw), whereas Nabataeans wrote their own name in Nabataean Aramaic as nbṭw with emphatic ṭ (tet). While using official Aramaic in chancery inscriptions, everyday Nabataeans spoke Old Arabic, embedded directly in the En Avdat liturgical hymn in the Negev and legal clauses in Hegra tomb texts."
+    ],
+    "traditions": [
+      "Classical Historians",
+      "North Arabian Epigraphy",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "edom-idumaea",
+        "relation": "Nabataeans settled former Edomite territory around Petra as Edomites moved into Idumaea."
+      },
+      {
+        "id": "dadan-lihyan",
+        "relation": "Nabataean rule expanded south to Hegra beside Lihyanite Al-'Ula."
+      },
+      {
+        "id": "roman-arabia",
+        "relation": "Post-106 CE continuation of Nabataean cities, society, and evolving Arabic script."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Josephus, Antiquities 1.220-221 (Lexundria)",
+        "url": "https://lexundria.com/j_aj/1.220-1.221/wst",
+        "kind": "Classical"
+      },
+      {
+        "label": "Nabataeans (Livius.org)",
+        "url": "https://www.livius.org/articles/people/nabataeans/",
+        "kind": "Reference"
+      },
+      {
+        "label": "Nabataeans (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Nabataeans",
+        "kind": "Reference"
+      },
+      {
+        "label": "Nabataean Kingdom (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Nabataean_Kingdom",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "roman-arabia",
+    "parentId": "nabataeans",
+    "name": "Nabataean-Arabs of Provincia Arabia",
+    "nativeNames": "Arabia Petraea · الأنباط العرب",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "106 - 7th c. CE",
+    "region": "sinai-negev-edom",
+    "territory": "Bosra, Petra, Negev Towns, Sinai & Northern Hejaz",
+    "cardRole": "Post-Annexation Nabataean Communities & Early Arabic Script",
+    "summary": "Provincial descendants of the Nabataean Kingdom whose inscriptions bridge Nabataean Aramaic and the Arabic alphabet.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Joined Quda'ah & Levantine Arabs",
+      "detail": "Merged into late antique Arabic-speaking federations (Quda'ah, Tanukh, Ghassanids) and the townspeople of early Islamic Syria, Jordan, and northern Hejaz."
+    },
+    "geo": {
+      "lat": 31.05,
+      "lng": 35.85,
+      "rxKm": 240,
+      "ryKm": 115,
+      "angle": -68,
+      "sites": [
+        { "name": "Bosra (Capital)", "lat": 32.517, "lng": 36.482 },
+        { "name": "Petra (Papyri)", "lat": 30.329, "lng": 35.444 },
+        { "name": "Nessana", "lat": 30.885, "lng": 34.425 },
+        { "name": "Rawwafah Temple", "lat": 27.95, "lng": 36.1 }
+      ]
+    },
+    "history": [
+      "Nabataean society did not vanish when Emperor Trajan annexed the kingdom as Provincia Arabia in 106 CE. Centered at Bosra in the Hauran and Petra (honored as a Roman metropolis), Nabataean landholders, merchants, and desert allies flourished across southern Jordan, the terraced Negev agricultural towns (Avdat, Shivta, Mamshit, and Nessana, attested down to the sixth-century Petra and Nessana papyri), and northern Hejaz, where Thamudic confederates dedicated a bilingual Greek-Nabataean imperial shrine at Rawwafah in 165-169 CE.",
+      "Dated transitional inscriptions from Hegra (267 CE), Namara (328 CE), Zebed (512 CE), Jabal Usays (528 CE), and Harran in the Lajat (568 CE) document how late Nabataean scribes adapted their cursive alphabet to write Old Arabic, creating the direct paleographic ancestor of the Islamic-era Arabic script while provincial communities integrated into Christian Arab foederati (Salihids, Ghassanids, and Quda'ah) across the Byzantine frontier."
+    ],
+    "traditions": [
+      "North Arabian Epigraphy",
+      "Archaeology",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "juhaynah-baliy-kalb",
+        "relation": "Quda'ah tribes absorbed much of the former Nabataean steppe and northern Hejaz population."
+      },
+      {
+        "id": "maadd",
+        "relation": "The 328 CE Namara inscription uses late Nabataean letters to record rule over Ma'add."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Arabia Petraea (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Arabia_Petraea",
+        "kind": "Reference"
+      },
+      {
+        "label": "Nabataean alphabet & transition to Arabic (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Nabataean_alphabet",
+        "kind": "Reference"
+      },
+      {
+        "label": "Petra Papyri & Byzantine Petra (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Petra#Byzantine_period",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "kedar",
+    "parentId": "ishmael",
+    "name": "Kedar (Qaydar)",
+    "nativeNames": "קֵדָר · قيدار · Qidri",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / 8th-4th c. BCE",
+    "region": "north-arabia",
+    "territory": "Wadi Sirhan, Al-Jawf & North Arabian Steppe",
+    "cardRole": "2nd Son of Ishmael · Ancestor of Qedar & Adnan",
+    "summary": "Second son of Ishmael, eponym of the Iron Age Qedarites and primary ancestral link to Adnan in Arab genealogy.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Qedar & Adnan",
+      "detail": "Continues into the Qedarite Confederation and, in mainstream Arab genealogical science, the Adnanite northern Arab stem."
+    },
+    "geo": {
+      "lat": 30.35,
+      "lng": 38.85,
+      "rxKm": 220,
+      "ryKm": 120,
+      "angle": -35,
+      "sites": [
+        { "name": "Wadi Sirhan", "lat": 30.5, "lng": 38.2 },
+        { "name": "Dumat al-Jandal", "lat": 29.811, "lng": 39.868 }
+      ]
+    },
+    "history": [
+      "Listed second among Ishmael's sons (Genesis 25:13), Kedar became synonymous in Hebrew poetry and prophecy with the black goat-hair tents, flocks, and archers of northern Arabia (Psalm 120:5; Song of Songs 1:5; Isaiah 21:16-17; Jeremiah 49:28-29; Ezekiel 27:21).",
+      "Mainstream Arab genealogical authorities, including Ibn al-Kalbi in Jamharat al-Nasab, trace Adnan (progenitor of the northern and central Arabs) through Qaydar son of Isma'il, portraying Qaydar as custodian of the Meccan sanctuary alongside his Jurhumite maternal relatives."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "qedarites",
+        "relation": "Iron Age and Persian-period tribal confederation named after Kedar."
+      },
+      {
+        "id": "adnan",
+        "relation": "Descendant of Qaydar in standard Arab genealogical tradition."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Isaiah 21:13-17 (Sefaria)",
+        "url": "https://www.sefaria.org/Isaiah.21.13-17",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Jeremiah 49:28-33 (Sefaria)",
+        "url": "https://www.sefaria.org/Jeremiah.49.28-33",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Qedarites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Qedarites",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "qedarites",
+    "parentId": "kedar",
+    "name": "Qedarite Confederation",
+    "nativeNames": "קֵדָר · מלך קדר (mlk qdr) · قيدار · Qidri",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "8th-4th c. BCE",
+    "region": "north-arabia",
+    "territory": "Wadi Sirhan, Dumah, Southern Levant & Eastern Sinai",
+    "cardRole": "Dominant Iron Age & Achaemenid Arab Power",
+    "summary": "Arab tribal confederation ruled by queens and kings from Dumat al-Jandal to the eastern Nile Delta.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Succeeded by Nabataea & Adnanites",
+      "detail": "Caravan hegemony passed to the Nabataeans in the 4th-3rd centuries BCE, while inner Arabian Qedarite lineages persisted in classical Arab memory around Qaydar and Adnan."
+    },
+    "geo": {
+      "lat": 30.45,
+      "lng": 37.15,
+      "rxKm": 360,
+      "ryKm": 150,
+      "angle": -18,
+      "sites": [
+        { "name": "Dumat al-Jandal (Adummatu)", "lat": 29.811, "lng": 39.868 },
+        { "name": "Tell el-Maskhuta (Wadi Tumilat)", "lat": 30.553, "lng": 32.099 },
+        { "name": "Southern Palestine / Lachish", "lat": 31.565, "lng": 34.849 }
+      ]
+    },
+    "history": [
+      "Between the eighth and fourth centuries BCE, the Qedarites (Assyrian Qidri) formed the largest tribal confederation in northern Arabia. Assyrian annals from Tiglath-Pileser III, Sargon II, Sennacherib, Esarhaddon, and Ashurbanipal document Arab priestess-queens and kings centered at Adummatu (Dumat al-Jandal), including Zabibe, Samsi, Yatie, Te'elhunu, Tabua (raised at Nineveh), Hazael, Hazael's son Yauta', and his cousin Uaite', who paid tribute in camels, gold, and aromatics or fought Assyrian armies across the Syrian steppe.",
+      "Under Neo-Babylonian and Achaemenid Persian rule, Qedarite authority expanded westward across southern Palestine and northern Sinai to the eastern border of Egypt. Fifth-century BCE Aramaic silver bowls dedicated to the goddess Han-'Ilat at Tell el-Maskhuta in Wadi Tumilat (Egypt) name \"Qaynu bar Gashmu, king of Qedar\" (mlk qdr), while Dadanitic inscription JSLih 349 at Al-'Ula dates an event by \"Gashmu son of Shahru\" and \"'Abd, governor of Dedan,\" anchoring biblical \"Geshem the Arab\" (Nehemiah 2:19; 6:1-6) in contemporary epigraphy."
+    ],
+    "traditions": [
+      "Assyrian Annals",
+      "Hebrew Bible",
+      "Archaeology",
+      "North Arabian Epigraphy"
+    ],
+    "relatedIds": [
+      {
+        "id": "dumah",
+        "relation": "Dumat al-Jandal (Adummatu) served as the royal religious stronghold of Qedar."
+      },
+      {
+        "id": "dadan-lihyan",
+        "relation": "Dadanitic inscription JSLih 349 names Gashmu son of Shahru alongside 'Abd, governor of Dedan."
+      },
+      {
+        "id": "judah-jews",
+        "relation": "Qedarite king Geshem (Gashmu) interacted with Nehemiah in Persian-era Yehud."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Nehemiah 2:19 (Sefaria)",
+        "url": "https://www.sefaria.org/Nehemiah.2.19",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Qedarites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Qedarites",
+        "kind": "Reference"
+      },
+      {
+        "label": "Geshem the Arab (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Geshem_the_Arab",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "adnan",
+    "parentId": "kedar",
+    "name": "Adnan",
+    "nativeNames": "عدنان",
+    "kind": "person",
+    "branch": "ishmael",
+    "era": "1st Mill. BCE (Arab Tradition)",
+    "region": "hejaz-west-arabia",
+    "territory": "Hejaz, Tihamah & Central Arabia",
+    "cardRole": "Foundational Patriarch of the Adnanite Arabs",
+    "summary": "Traditional ancestor of all Northern, Central, and Western Arab tribes (al-'Arab al-Musta'riba) via Ishmael.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Ma'add",
+      "detail": "Genealogical head of all living Adnanite Arab tribes across the Middle East and North Africa."
+    },
+    "geo": {
+      "lat": 23.2,
+      "lng": 40.4,
+      "rxKm": 240,
+      "ryKm": 140,
+      "angle": -45,
+      "sites": [
+        { "name": "Mecca & Tihamah", "lat": 21.422, "lng": 39.826 },
+        { "name": "Western Najd", "lat": 24.5, "lng": 41.5 }
+      ]
+    },
+    "history": [
+      "In classical Arab genealogy ('Ilm al-Ansab), Adnan stands at the head of the northern \"Arabized Arabs\" (al-'Arab al-Musta'riba), paired alongside Qahtan, ancestor of the southern Yemeni tribes. Arab historians uniformly affirm that Adnan descended directly from Abraham's son Isma'il (usually through Qaydar, or in a rival line through Nabit), while acknowledging that the exact number and spelling of intermediate generations spanning the centuries between Qaydar and Adnan were no longer recoverable with certainty.",
+      "Early Muslim scholars recorded reports that Muhammad traced his own ancestry back to Adnan and cautioned genealogists against claiming exact names above Adnan. Al-Tabari preserves traditions setting Adnan's son Ma'add in the era of Nebuchadnezzar II's sixth-century BCE Arabian campaigns, when desert populations scattered into inner Arabia."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "nebaioth",
+        "relation": "Alternative Ishmaelite ancestor of Adnan in Ibn Ishaq's lineage."
+      },
+      {
+        "id": "maadd",
+        "relation": "Primary son through whom Adnanite tribes descend."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Adnan (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Adnan",
+        "kind": "Reference"
+      },
+      {
+        "label": "Adnanites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Adnanites",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "maadd",
+    "parentId": "adnan",
+    "name": "Ma'add",
+    "nativeNames": "معد بن عدنان · m'dw (Namara) · Ma'addum (Sabaic)",
+    "kind": "person",
+    "branch": "ishmael",
+    "era": "Late Antiquity / Pre-Islamic",
+    "region": "north-arabia",
+    "territory": "Central & Western Arabia (Najd & Hejaz)",
+    "cardRole": "Son of Adnan · Epigraphically Attested Confederation",
+    "summary": "Patriarch of the Ma'addite Arabs, attested in the 328 CE Namara inscription, Sabaic texts, and Procopius.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Nizar & Quda'ah",
+      "detail": "Continues through Nizar (Mudar, Rabi'ah, Iyad, Anmar) and the northern genealogical claim over Quda'ah."
+    },
+    "geo": {
+      "lat": 25.1,
+      "lng": 42.6,
+      "rxKm": 320,
+      "ryKm": 180,
+      "angle": -30,
+      "sites": [
+        { "name": "Ma'sal al-Jumh (Najd)", "lat": 24.21, "lng": 44.41 },
+        { "name": "Namara (328 CE epitaph)", "lat": 32.853, "lng": 36.939 }
+      ]
+    },
+    "history": [
+      "Unlike deeper prehistoric tiers of oral genealogy, Ma'add appears directly in late antique monumental epigraphy and Roman diplomatic texts. Lines 2-3 of the 328 CE Namara inscription in southern Syria, epitaph of Imru' al-Qays ibn 'Amr (\"king of all the Arabs\"), record in Nabataean-Arabic script that he subdued al-Asd and Nizar and their kings, routed Madhhij down to Najran, and \"ruled Ma'add\" (w-mlk m'dw), assigning his sons over the tribes. South Arabian Sabaic royal inscriptions (such as the fourth-century 'Abadan text and 'Abraha's 552 CE Ma'sal al-Jumh inscription in Najd) independently write the confederation's name as Ma'addum (m'dm).",
+      "Sixth-century Byzantine historian Procopius likewise names the Maddenoi as central Arabian pastoralists over whom Himyarite and Kindite rulers appointed phylarchs. In Arab poetry before Islam, \"son of Ma'add\" functioned almost interchangeably with northern Arab identity."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "North Arabian Epigraphy",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "nizar",
+        "relation": "Son of Ma'add and ancestor of Mudar, Rabi'ah, Iyad, and Anmar."
+      },
+      {
+        "id": "qudaah",
+        "relation": "Tribal federation attributed either to Ma'add or to Himyar."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Ma'add (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ma%27add",
+        "kind": "Reference"
+      },
+      {
+        "label": "Namara Inscription (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Namara_inscription",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "qudaah",
+    "parentId": "maadd",
+    "name": "Quda'ah Confederations (Disputed)",
+    "nativeNames": "قضاعة",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "Late Antiquity - Islamic Era",
+    "region": "syria-mesopotamia",
+    "territory": "Northern Hejaz, Tabuk, Sinai & Syrian Steppe",
+    "cardRole": "Kalb, Bali, Juhaynah & Tanukh Tribes",
+    "summary": "Northwest Arabian and Syrian steppe tribal bloc claimed by both Ma'addite (Adnanite) and Himyarite genealogies.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Juhaynah, Bali & Kalb",
+      "detail": "Continues directly into living Hejazi, Sinai, Egyptian, Sudanese, and Levantine tribes."
+    },
+    "geo": {
+      "lat": 28.4,
+      "lng": 37.2,
+      "rxKm": 360,
+      "ryKm": 145,
+      "angle": -58,
+      "sites": [
+        { "name": "Tabuk", "lat": 28.383, "lng": 36.566 },
+        { "name": "Palmyra (Tadmur)", "lat": 34.55, "lng": 38.269 },
+        { "name": "Yanbu", "lat": 24.089, "lng": 38.063 }
+      ]
+    },
+    "history": [
+      "Quda'ah encompassed several tribes that dominated the caravan corridor from Medina and the Red Sea coast up into Syria: Juhaynah and Bali along the Hejaz littoral, Bahra' and Salih on the Roman frontier, elements of the Tanukhid foederati, and Banu Kalb in the Syrian steppe around Palmyra and Dumat al-Jandal.",
+      "Classical Arab scholars recorded a famous genealogical controversy over Quda'ah's origin. Early Hejazi tradition treated Quda'ah as a son of Ma'add ibn Adnan (making them Ishmaelite northern Arabs), whereas during the Umayyad-era rivalry between Qays and Yaman in Syria, Banu Kalb and allied Quda'ah poets aligned politically with Yaman and traced Quda'ah to Himyar ibn Saba'. Both claims are preserved side by side in Ibn al-Kalbi and al-Baladhuri, illustrating how tribal genealogies in the Levant could realign around political coalitions."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "qays-aylan",
+        "relation": "Rival northern faction against Kalb/Quda'ah at the Battle of Marj Rahit (684 CE)."
+      },
+      {
+        "id": "dumah",
+        "relation": "Banu Kalb controlled Dumat al-Jandal in late antiquity."
+      },
+      {
+        "id": "juhaynah-baliy-kalb",
+        "relation": "Medieval and modern tribal branches across Hejaz, Egypt, Sudan, and the Levant."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Quda'a (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Quda%27a",
+        "kind": "Reference"
+      },
+      {
+        "label": "Banu Kalb (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Kalb",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "juhaynah-baliy-kalb",
+    "parentId": "qudaah",
+    "name": "Juhaynah, Bali & Syrian Kalb",
+    "nativeNames": "جهينة وبلي وبنو كلب",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "Islamic Era - Present",
+    "region": "hejaz-west-arabia",
+    "territory": "Hejaz Coast (Yanbu & Al-Wajh), Sinai, Egypt, Sudan & Syria",
+    "cardRole": "Living Red Sea, Nile & Levantine Quda'ah Tribes",
+    "summary": "Enduring Quda'ah tribes spanning western Saudi Arabia, Sinai, Upper Egypt, Sudan, and the Syrian steppe.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living lineage",
+      "detail": "Large living tribal populations in western Saudi Arabia (Yanbu, Medina, Al-Wajh, Tabuk), Jordan, Sinai, Egypt, Sudan, and Syria."
+    },
+    "geo": {
+      "lat": 26.2,
+      "lng": 37.5,
+      "rxKm": 340,
+      "ryKm": 130,
+      "angle": -56,
+      "sites": [
+        { "name": "Yanbu (Juhaynah)", "lat": 24.089, "lng": 38.063 },
+        { "name": "Al-Wajh (Bali)", "lat": 26.245, "lng": 36.452 },
+        { "name": "Damascus Steppe (Kalb)", "lat": 33.513, "lng": 36.292 }
+      ]
+    },
+    "history": [
+      "Along the Red Sea coast and mountain passes of Hejaz around Yanbu, Al-Wajh, Al-'Ula, and Medina, Juhaynah and Bali maintained continuous ancestral territories from pre-Islamic times to modern Saudi Arabia, Jordan, Sinai, and Egypt, while medieval migrations up the Nile Valley made Juhaynah-linked clans a foundational Arab tribal stock across Sudan.",
+      "Further north across the Syrian steppe, Banu Kalb formed the military backbone of the early Marwanid Umayyad caliphs from Damascus to Palmyra, founded the Kalbid Emirate of Sicily (948-1053 CE), and gradually integrated into the rural and Bedouin communities of Syria, Lebanon's Bekaa and Chouf hills, and northern Jordan."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "roman-arabia",
+        "relation": "Absorbed Arabic-speaking communities across former Provincia Arabia."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Juhaynah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Juhaynah",
+        "kind": "Reference"
+      },
+      {
+        "label": "Bali (tribe) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Bali_(tribe)",
+        "kind": "Reference"
+      },
+      {
+        "label": "Banu Kalb (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Kalb",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "nizar",
+    "parentId": "maadd",
+    "name": "Nizar",
+    "nativeNames": "نزار بن معد",
+    "kind": "person",
+    "branch": "ishmael",
+    "era": "Late Antiquity (Attested 328 CE)",
+    "region": "north-arabia",
+    "territory": "Hejaz, Najd & Eastern Arabia",
+    "cardRole": "Branching Patriarch of Four Northern Stocks",
+    "summary": "Son of Ma'add named in the 328 CE Namara inscription; father of Mudar, Rabi'ah, Iyad, and Anmar.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Mudar & Rabi'ah",
+      "detail": "Divides into the four northern Adnanite stocks of Mudar, Rabi'ah, Iyad, and Anmar."
+    },
+    "geo": {
+      "lat": 25.6,
+      "lng": 43.8,
+      "rxKm": 310,
+      "ryKm": 170,
+      "angle": -25,
+      "sites": [
+        { "name": "Central Najd", "lat": 25.6, "lng": 43.8 }
+      ]
+    },
+    "history": [
+      "Named alongside al-Asd and Ma'add in the 328 CE Namara inscription, Nizar ibn Ma'add is the branching node from whom the four main Adnanite stocks split: Mudar, Rabi'ah, Iyad, and Anmar. Traditional accounts divide Nizar's inheritance symbolically, giving the red pavilion (al-hamra') to Mudar and the black horses to Rabi'ah, whence the epithets Mudar al-Hamra' and Rabi'at al-Faras."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "North Arabian Epigraphy"
+    ],
+    "relatedIds": [
+      {
+        "id": "mudar",
+        "relation": "Son of Nizar heading the western and central Arabian branch."
+      },
+      {
+        "id": "rabiah",
+        "relation": "Son of Nizar heading the eastern Arabian and Jaziran branch."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Nizar ibn Ma'add (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Nizar_ibn_Ma%27add",
+        "kind": "Reference"
+      },
+      {
+        "label": "Tribes of Arabia (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tribes_of_Arabia",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "mudar",
+    "parentId": "nizar",
+    "name": "Mudar",
+    "nativeNames": "مضر بن نزار",
+    "kind": "person",
+    "branch": "ishmael",
+    "era": "Pre-Islamic Antiquity",
+    "region": "hejaz-west-arabia",
+    "territory": "Hejaz, Tihamah & Central Najd",
+    "cardRole": "Ancestor of Khandaf (Quraysh, Tamim) & Qays 'Aylan",
+    "summary": "Largest Adnanite super-branch, encompassing Mecca's Quraysh, Najd's Tamim, and the Qays 'Aylan tribes.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Quraysh, Qays & Tamim",
+      "detail": "Continues through Kinanah & Quraysh, Qays 'Aylan, and Tamim & Hudhayl across the Middle East and North Africa."
+    },
+    "geo": {
+      "lat": 23.8,
+      "lng": 41.2,
+      "rxKm": 280,
+      "ryKm": 165,
+      "angle": -42,
+      "sites": [
+        { "name": "Mecca", "lat": 21.422, "lng": 39.826 },
+        { "name": "Ta'if", "lat": 21.27, "lng": 40.415 }
+      ]
+    },
+    "history": [
+      "Mudar ibn Nizar gave rise to two vast subdivisions: Ilyas (often grouped as Khandaf after Ilyas's wife Layla bint Hulwan), from whom came Kinanah, Quraysh, Hudhayl, Asad ibn Khuzaymah, and Tamim; and Qays 'Aylan (via al-Nas ibn Mudar), from whom came Hawazin, Thaqif, Ghatafan, Sulaym, and Hilal. Across the pre-Islamic and Islamic Middle East, Mudarite tribes populated Mecca and Ta'if, the pastures of Najd, Basra and Kufa in Iraq, northern Syria (Diyar Mudar along the middle Euphrates), Khorasan, and North Africa."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "quraysh-kinanah",
+        "relation": "Meccan Mudarite lineage via Ilyas -> Mudrikah -> Khuzaymah -> Kinanah."
+      },
+      {
+        "id": "qays-aylan",
+        "relation": "Sister Mudarite subdivision via al-Nas ('Aylan) ibn Mudar."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Mudar (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Mudar",
+        "kind": "Reference"
+      },
+      {
+        "label": "Diyar Mudar (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Diyar_Mudar",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "quraysh-kinanah",
+    "parentId": "mudar",
+    "name": "Kinanah & Quraysh",
+    "nativeNames": "كنانة وقريش",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "c. 3rd c. CE - Present",
+    "region": "hejaz-west-arabia",
+    "territory": "Mecca, Tihamah Coast & Across the Middle East",
+    "cardRole": "Meccan Custodians · Parent Tribe of Hashim & Umayyah",
+    "summary": "Mudarite tribe of Mecca descending via Kinanah and Fihr, producing Prophet Muhammad and major Islamic dynasties.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Hashim & Umayyah",
+      "detail": "Continues through Banu Hashim, Banu Umayyah, and living Kinanah and Qurayshi clans (including Makhzum, Taym, 'Adi, and Jumah)."
+    },
+    "geo": {
+      "lat": 21.422,
+      "lng": 39.826,
+      "rxKm": 155,
+      "ryKm": 95,
+      "angle": -52,
+      "sites": [
+        { "name": "Mecca (Ka'bah)", "lat": 21.422, "lng": 39.826 },
+        { "name": "Tihamah Coast", "lat": 20.8, "lng": 39.8 }
+      ]
+    },
+    "history": [
+      "Descending from Mudar through Ilyas, Mudrikah, Khuzaymah, and Kinanah, the Quraysh (progeny of Fihr ibn Malik or al-Nadr ibn Kinanah) were unified at Mecca in the fifth century CE by Qusayy ibn Kilab, who displaced Khuza'ah as custodians of the Ka'bah and organized pilgrimage water and provisioning offices alongside winter and summer caravans to Yemen and Syria (Quran 106).",
+      "From Quraysh's 'Abd Manaf branch arose both Banu Hashim and Banu Umayyah, while sister clans such as Taym, 'Adi, Makhzum, Zuhrah, and Sahm supplied early caliphs, commanders, and jurists from Arabia across the Mediterranean and Indian Ocean worlds."
+    ],
+    "traditions": [
+      "Islamic Tradition",
+      "Arab Genealogy"
+    ],
+    "relatedIds": [
+      {
+        "id": "ishmael",
+        "relation": "Revered ancestor and builder of the Meccan sanctuary."
+      },
+      {
+        "id": "qays-aylan",
+        "relation": "Neighboring Mudarite confederation in Hejaz and Ta'if."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Quran 106:1-4, Quraysh (Quran.com)",
+        "url": "https://quran.com/106",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Quraysh (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Quraysh",
+        "kind": "Reference"
+      },
+      {
+        "label": "Banu Kinanah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Kinanah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "banu-hashim",
+    "parentId": "quraysh-kinanah",
+    "name": "Banu Hashim & Hashemite Houses",
+    "nativeNames": "بنو هاشم · الأشراف الهواشم",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "6th c. CE - Present",
+    "region": "hejaz-west-arabia",
+    "territory": "Mecca, Medina, Baghdad, Jordan, Morocco & Global Ashraf",
+    "cardRole": "Prophetic Clan · Abbasids, Sharifs & Reigning Hashemites",
+    "summary": "Clan of Prophet Muhammad within Quraysh, continuing through Hasanid, Husaynid, and Abbasid lineages to modern royal houses.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living lineage",
+      "detail": "Includes the reigning Hashemite royal house of Jordan, the Alaouite royal house of Morocco, and documented Ashraf/Sayyid families worldwide."
+    },
+    "geo": {
+      "lat": 26.8,
+      "lng": 38.6,
+      "rxKm": 460,
+      "ryKm": 180,
+      "angle": -62,
+      "sites": [
+        { "name": "Mecca", "lat": 21.422, "lng": 39.826 },
+        { "name": "Medina", "lat": 24.467, "lng": 39.611 },
+        { "name": "Amman (Jordan)", "lat": 31.954, "lng": 35.911 },
+        { "name": "Baghdad (Abbasids)", "lat": 33.315, "lng": 44.366 }
+      ]
+    },
+    "history": [
+      "Named for Hashim ibn 'Abd Manaf, great-grandfather of Prophet Muhammad, Banu Hashim stands at the center of Islamic sacred and dynastic history. Through Muhammad's uncle al-'Abbas came the Abbasid caliphs of Baghdad and Cairo (750-1517 CE), while through his daughter Fatimah and cousin 'Ali ibn Abi Talib came the Hasanid and Husaynid lineages, including the Idrisids and Alaouites of Morocco, the Zaydi imams of Yemen, the Fatimids, and the Hashimite Sharifs who governed Mecca from the tenth century until 1925.",
+      "In the modern Middle East, the sons and descendants of Sharif Husayn ibn 'Ali ruled the Kingdoms of Hejaz (1916-1925), Syria (1920), and Iraq (1921-1958) and reign today over the Hashemite Kingdom of Jordan, alongside millions of Sayyid and Sharif families preserving verified genealogical registers (naqabat al-ashraf) from Hejaz and Iraq to Hadramawt, South Asia, and Southeast Asia."
+    ],
+    "traditions": [
+      "Islamic Tradition",
+      "Arab Genealogy"
+    ],
+    "relatedIds": [
+      {
+        "id": "banu-umayyah",
+        "relation": "Cousin 'Abd Manaf branch within Quraysh."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Banu Hashim (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Hashim",
+        "kind": "Reference"
+      },
+      {
+        "label": "Hashemites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hashemites",
+        "kind": "Reference"
+      },
+      {
+        "label": "Abbasid Caliphate (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "banu-umayyah",
+    "parentId": "quraysh-kinanah",
+    "name": "Banu Umayyah (Damascus & Cordoba)",
+    "nativeNames": "بنو أمية",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "6th-11th c. CE (Families Present)",
+    "region": "syria-mesopotamia",
+    "territory": "Mecca, Damascus (Bilad al-Sham) & Cordoba (al-Andalus)",
+    "cardRole": "Umayyad Caliphal Houses of Syria & Islamic Spain",
+    "summary": "Cousin clan to Hashim inside Quraysh that founded the Damascus Caliphate (661-750) and the Caliphate of Cordoba (756-1031).",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living families · Dynasties ended 1031 CE",
+      "detail": "Sovereign dynasties ended in Damascus (750 CE) and Cordoba (1031 CE), while 'Uthmani, Sufyani, and Marwani family lines persist in Hejaz, the Levant, Egypt, and the Maghreb."
+    },
+    "geo": {
+      "lat": 33.513,
+      "lng": 36.292,
+      "rxKm": 310,
+      "ryKm": 155,
+      "angle": -15,
+      "sites": [
+        { "name": "Damascus", "lat": 33.513, "lng": 36.292 },
+        { "name": "Rusafa", "lat": 35.628, "lng": 38.756 },
+        { "name": "Cordoba (al-Andalus)", "lat": 37.888, "lng": -4.779 }
+      ]
+    },
+    "history": [
+      "Descending from Umayyah ibn 'Abd Shams (nephew of Hashim inside Quraysh), Banu Umayyah supplied the third Rashidun caliph 'Uthman ibn 'Affan before Mu'awiyah I and the Marwanid branch governed the Umayyad Caliphate from Damascus (661-750 CE), making Arabic the administrative language of an empire stretching from Sindh and Central Asia to the Atlantic.",
+      "Surviving the Abbasid revolution of 750 CE, the Umayyad prince 'Abd al-Rahman I reached Iberia and founded the Umayyad Emirate and Caliphate of Cordoba (756-1031 CE), while 'Uthmani and Marwani families continued in Hejaz, Upper Egypt, Syria, and Andalusi-Moroccan diaspora communities."
+    ],
+    "traditions": [
+      "Islamic Tradition",
+      "Arab Genealogy"
+    ],
+    "relatedIds": [
+      {
+        "id": "banu-hashim",
+        "relation": "Rival 'Abd Manaf cousin clan within Quraysh."
+      },
+      {
+        "id": "qudaah",
+        "relation": "Allied with Syrian Banu Kalb during early Marwanid rule."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Banu Umayya (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Umayya",
+        "kind": "Reference"
+      },
+      {
+        "label": "Umayyad Caliphate (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate",
+        "kind": "Reference"
+      },
+      {
+        "label": "Caliphate of Cordoba (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Caliphate_of_C%C3%B3rdoba",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "qays-aylan",
+    "parentId": "mudar",
+    "name": "Qays 'Aylan Confederations",
+    "nativeNames": "قيس عيلان",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "Late Antiquity - Present",
+    "region": "north-arabia",
+    "territory": "Hejaz, Najd, Northern Syria, Jazira & North Africa",
+    "cardRole": "Hawazin, Thaqif, Ghatafan, Sulaym & Banu Hilal",
+    "summary": "Mudarite tribal group across western Najd and Hejaz that later shaped Syria, Iraq, and the Maghreb.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues in Arabia & Maghreb",
+      "detail": "Continues through Thaqif, 'Utaybah/Hawazin, Mutayr, Sulaym, and the Hilalian Arab populations of North Africa."
+    },
+    "geo": {
+      "lat": 23.4,
+      "lng": 41.8,
+      "rxKm": 260,
+      "ryKm": 145,
+      "angle": -35,
+      "sites": [
+        { "name": "Ta'if (Thaqif)", "lat": 21.27, "lng": 40.415 },
+        { "name": "Harrat Rahat (Sulaym)", "lat": 23.1, "lng": 39.9 },
+        { "name": "Qinnasrin (N. Syria)", "lat": 35.95, "lng": 37.0 }
+      ]
+    },
+    "history": [
+      "Qays 'Aylan encompassed major pastoral and urban tribes of central and western Arabia: Thaqif in the walled mountain town of Ta'if, Hawazin ('Amir ibn Sa'sa'ah, Kilab, and Hilal), Banu Sulaym in the volcanic harrahs between Mecca and Medina, and Ghatafan ('Abs and Dhubyan) in northern Najd.",
+      "After the seventh-century Islamic conquests, Qaysi tribes settled heavily around Qinnasrin, Harran, and Upper Mesopotamia, forming the northern \"Qays\" political bloc opposite southern \"Yaman\" tribes across the Levant and al-Andalus."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "qudaah",
+        "relation": "Opposing Yaman-aligned faction in Umayyad Syria."
+      },
+      {
+        "id": "quraysh-kinanah",
+        "relation": "Fought and allied with Quraysh across the Fijar Wars and Hunayn."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Qays (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Qays",
+        "kind": "Reference"
+      },
+      {
+        "label": "Banu Thaqif (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Thaqif",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "hilal-sulaym-qays",
+    "parentId": "qays-aylan",
+    "name": "Hilalian, Sulaym & Modern Qaysi Tribes",
+    "nativeNames": "بنو هلال وبنو سليم وعتيبة",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "11th c. CE - Present",
+    "region": "mediterranean-diaspora",
+    "territory": "Libya, Tunisia, Algeria, Morocco, Egypt & Central Saudi Arabia",
+    "cardRole": "Maghrebi Arabization & Living Hejazi-Najdi Confederations",
+    "summary": "Eleventh-century Hilalian and Sulaym migrations across North Africa alongside living Thaqif, 'Utaybah, and Qaysi tribes.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living lineage",
+      "detail": "Populous living tribes across Libya, Tunisia, Algeria, Morocco, Egypt, Jordan, Iraq, and western/central Saudi Arabia."
+    },
+    "geo": {
+      "lat": 32.8,
+      "lng": 13.2,
+      "rxKm": 780,
+      "ryKm": 220,
+      "angle": -8,
+      "sites": [
+        { "name": "Kairouan (Tunisia)", "lat": 35.678, "lng": 10.096 },
+        { "name": "Cyrenaica (Sulaym)", "lat": 32.119, "lng": 20.086 },
+        { "name": "Ta'if & Najd (Thaqif / 'Utaybah)", "lat": 21.27, "lng": 40.415 }
+      ]
+    },
+    "history": [
+      "In the mid-eleventh century, the Fatimid caliphate redirected the Qaysi confederations of Banu Hilal and Banu Sulaym from Upper Egypt westward across North Africa: Banu Sulaym settled largely in Cyrenaica and Tripolitania (modern Libya and southern Tunisia), while Banu Hilal pushed across Tunisia, Algeria, and Morocco, spreading Bedouin Arabic dialects across the rural Maghreb and inspiring the oral epic Taghribat Bani Hilal.",
+      "Within the Arabian Peninsula and Fertile Crescent, Qays 'Aylan lineages remain prominent today through Banu Thaqif around Ta'if, 'Utaybah (traced to Hawazin) across Hejaz and Najd, Subay' and Suhul in central Arabia, and Qaysi communities in northern Syria, Iraq, and Jordan."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "qays-aylan",
+        "relation": "Direct medieval and modern continuations of Qays 'Aylan."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Banu Hilal (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Hilal",
+        "kind": "Reference"
+      },
+      {
+        "label": "Banu Sulaym (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Sulaym",
+        "kind": "Reference"
+      },
+      {
+        "label": "Otaibah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Otaibah",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "tamim-hudhayl",
+    "parentId": "mudar",
+    "name": "Banu Tamim & Hudhayl",
+    "nativeNames": "بنو تميم وهذيل",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "Late Antiquity - Present",
+    "region": "north-arabia",
+    "territory": "Najd, al-Yamamah, Eastern Arabia, Iraq & Hejaz",
+    "cardRole": "Central & Eastern Arabian Mudarite Tribes",
+    "summary": "Major Khandaf-Mudar tribes: Hudhayl in the Sarat hills around Mecca, and Tamim across Najd, Iraq, and the Gulf.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Modern Tamim & Hudhayl",
+      "detail": "Continues uninterrupted across central Saudi Arabia, Qatar, Iraq, and the Hejaz mountains."
+    },
+    "geo": {
+      "lat": 25.4,
+      "lng": 45.2,
+      "rxKm": 280,
+      "ryKm": 160,
+      "angle": -25,
+      "sites": [
+        { "name": "Al-Qassim & Washm (Najd)", "lat": 25.8, "lng": 44.2 },
+        { "name": "Sarat Valleys (Hudhayl)", "lat": 21.35, "lng": 40.05 }
+      ]
+    },
+    "history": [
+      "Descending from Ilyas ibn Mudar alongside Kinanah, Banu Hudhayl held the rugged valleys east and south of Mecca and left the only surviving single-tribe anthology of pre-Islamic Arabic poetry (Diwan al-Hudhaliyyin), while sister Khandaf tribe Banu Asad ibn Khuzaymah roamed south of the Nafud toward the Euphrates.",
+      "Banu Tamim, descending from Tabikhah ibn Ilyas, formed one of the largest tribal leagues of Najd, al-Yamamah, and the Persian Gulf shore before Islam, later supplying major contingents in Basra, Khorasan, and North Africa (including the Aghlabid dynasty of Kairouan in 800-909 CE)."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "quraysh-kinanah",
+        "relation": "Shared Khandaf (Ilyas ibn Mudar) ancestry."
+      },
+      {
+        "id": "abdalqays-hanifah-anazah",
+        "relation": "Neighboring tribes in al-Yamamah and Eastern Arabia."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Banu Tamim (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Tamim",
+        "kind": "Reference"
+      },
+      {
+        "label": "Banu Hudhayl (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Hudhayl",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "modern-tamim-khandaf",
+    "parentId": "tamim-hudhayl",
+    "name": "Modern Tamim, Hudhayl & Al Thani",
+    "nativeNames": "قبيلة تميم وآل ثاني وهذيل",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "Early Modern - Present",
+    "region": "north-arabia",
+    "territory": "Najd, Qatar, Kuwait, Southern Iraq & Mecca Highlands",
+    "cardRole": "Contemporary Najdi, Gulf & Hejazi Khandaf Lineages",
+    "summary": "Living Banu Tamim and Hudhayl populations, including Qatar's ruling House of Thani and Najdi town lineages.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living lineage",
+      "detail": "Active today across Saudi Arabia, Qatar (ruling House of Thani), Kuwait, Iraq, and Jordan."
+    },
+    "geo": {
+      "lat": 25.3,
+      "lng": 48.2,
+      "rxKm": 340,
+      "ryKm": 150,
+      "angle": -18,
+      "sites": [
+        { "name": "Doha (Al Thani)", "lat": 25.285, "lng": 51.531 },
+        { "name": "Ushaiqir (Najd)", "lat": 25.342, "lng": 45.182 },
+        { "name": "Basra", "lat": 30.508, "lng": 47.783 }
+      ]
+    },
+    "history": [
+      "Across central Najd (Sudair, Washm, al-Qassim, and Jabal Shammar), southern Iraq, Kuwait, and Qatar, Banu Tamim remains a major settled and Bedouin tribe. From Tamim's Ma'adhid branch at Ushaiqir in Najd migrated the House of Thani (Al Thani) to the Qatari peninsula in the eighteenth century, establishing the reigning house of Qatar, while the Al ash-Sheikh family of Riyadh likewise traces Tamimi lineage.",
+      "In western Arabia, Banu Hudhayl continues to inhabit its historical mountain valleys around Mecca and Ta'if, preserving continuous territorial presence from the pre-Islamic era to the modern Kingdom of Saudi Arabia."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "anazah-arabian-houses",
+        "relation": "Neighboring Najdi and Gulf ruling lineages."
+      }
+    ],
+    "sources": [
+      {
+        "label": "House of Thani (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/House_of_Thani",
+        "kind": "Reference"
+      },
+      {
+        "label": "Banu Tamim (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Tamim",
+        "kind": "Reference"
+      },
+      {
+        "label": "Al ash-Sheikh (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Al_ash-Sheikh",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "rabiah",
+    "parentId": "nizar",
+    "name": "Rabi'ah",
+    "nativeNames": "ربيعة بن نزار",
+    "kind": "person",
+    "branch": "ishmael",
+    "era": "Pre-Islamic Antiquity",
+    "region": "north-arabia",
+    "territory": "Eastern Arabia, al-Yamamah, Lower Iraq & Upper Mesopotamia",
+    "cardRole": "Eastern & Mesopotamian Adnanite Super-Branch",
+    "summary": "Second stem of Nizar whose tribes populated Bahrain, Yamamah, and Upper Mesopotamia (Diyar Rabi'ah).",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Wa'il & 'Anazah",
+      "detail": "Continues through Bakr & Taghlib in Mesopotamia and 'Abd al-Qays, Hanifah, and 'Anazah across Arabia and the Levant."
+    },
+    "geo": {
+      "lat": 26.8,
+      "lng": 47.4,
+      "rxKm": 330,
+      "ryKm": 170,
+      "angle": -35,
+      "sites": [
+        { "name": "Al-Yamamah", "lat": 24.65, "lng": 46.72 },
+        { "name": "Lower Euphrates", "lat": 31.0, "lng": 46.2 }
+      ]
+    },
+    "history": [
+      "Rabi'ah ibn Nizar stands opposite Mudar as the second major stem of northern Arab tribes. Expanding eastward from central Arabia into al-Yamamah, the Persian Gulf littoral, and the Sasanian frontier along the Euphrates and Tigris, Rabi'ah tribes migrated northward into Upper Mesopotamia, giving their name to the province of Diyar Rabi'ah centered on Mosul and Nisibis."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "bakr-taghlib",
+        "relation": "Twin branches of Wa'il within Rabi'ah."
+      },
+      {
+        "id": "abdalqays-hanifah-anazah",
+        "relation": "Major Rabi'ah tribes of Eastern and Central Arabia."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Rabi'a ibn Nizar (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Rabi%27a_ibn_Nizar",
+        "kind": "Reference"
+      },
+      {
+        "label": "Diyar Rabi'a (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Diyar_Rabi%27a",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "bakr-taghlib",
+    "parentId": "rabiah",
+    "name": "Bakr ibn Wa'il & Taghlib",
+    "nativeNames": "بكر بن وائل وتغلب",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "5th c. CE - Present",
+    "region": "syria-mesopotamia",
+    "territory": "Najd, Lower Euphrates & Jazira (Mosul & Diyarbakir)",
+    "cardRole": "Mesopotamian Frontier Tribes of Rabi'ah",
+    "summary": "Brother tribes of Wa'il famed for the Basus War, Battle of Dhu Qar, and settlement of Diyar Bakr and Mosul.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues in Jazira & Iraq",
+      "detail": "Continues into Diyar Bakr, Shayban, the Hamdanid emirates, and living Rabi'ah/Taghlib federations in Iraq and Syria."
+    },
+    "geo": {
+      "lat": 34.4,
+      "lng": 42.8,
+      "rxKm": 280,
+      "ryKm": 135,
+      "angle": -48,
+      "sites": [
+        { "name": "Dhu Qar (Lower Iraq)", "lat": 31.04, "lng": 46.25 },
+        { "name": "Mosul", "lat": 36.34, "lng": 43.13 }
+      ]
+    },
+    "history": [
+      "Descending from Wa'il ibn Qasit in the Rabi'ah line, Banu Bakr and Banu Taghlib fought the forty-year Basus War in pre-Islamic Najd before migrating northward toward the Euphrates and the Jazira. Taghlib embraced Syriac Christianity under Miaphysite bishops before gradually Islamizing in the Abbasid era and producing the tenth-century Hamdanid dynasties of Mosul and Aleppo.",
+      "Clans of Bakr ibn Wa'il (led by Shayban alongside Lujaym, father of Banu Hanifah) defeated a Sasanian Persian army and its allies at the Battle of Dhu Qar around 609 CE and settled the upper Tigris basin around Amida, giving the region its enduring name Diyar Bakr (modern Diyarbakir)."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "abdalqays-hanifah-anazah",
+        "relation": "In Ibn al-Kalbi, Banu Hanifah is a sub-tribe of Bakr ibn Wa'il (via Lujaym), while 'Anazah and 'Abd al-Qays stem from Asad ibn Rabi'ah."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Banu Bakr (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Bakr",
+        "kind": "Reference"
+      },
+      {
+        "label": "Banu Taghlib (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Taghlib",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "diyar-rabiah-hamdanids",
+    "parentId": "bakr-taghlib",
+    "name": "Diyar Rabi'ah, Shayban & Hamdanids",
+    "nativeNames": "ديار ربيعة وبنو شيبان والحمدانيون",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "7th c. CE - Present",
+    "region": "syria-mesopotamia",
+    "territory": "Mosul, Aleppo, Diyarbakir (Upper Tigris) & Central Iraq",
+    "cardRole": "Medieval Jaziran Dynasties & Living Iraqi Rabi'ah Tribes",
+    "summary": "Shaybani governors and Taghlibi Hamdanid emirs of Mosul and Aleppo, alongside enduring Rabi'ah confederations in Iraq.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living Rabi'ah & Taghlib in Iraq/Syria",
+      "detail": "Medieval emirates ended in the 11th century, while large Rabi'ah, Shaybani, and Taghlibi tribal confederations endure across Iraq and eastern Syria."
+    },
+    "geo": {
+      "lat": 36.55,
+      "lng": 41.25,
+      "rxKm": 270,
+      "ryKm": 125,
+      "angle": -15,
+      "sites": [
+        { "name": "Mosul (Diyar Rabi'ah)", "lat": 36.34, "lng": 43.13 },
+        { "name": "Diyarbakir (Amida)", "lat": 37.914, "lng": 40.23 },
+        { "name": "Aleppo (Sayf al-Dawla)", "lat": 36.202, "lng": 37.134 }
+      ]
+    },
+    "history": [
+      "Across Upper Mesopotamia and Armenia, Banu Shayban (of Bakr ibn Wa'il) supplied Umayyad and Abbasid governors, Kharijite leaders, and the Arab-origin Mazyadid line of Shirvanshahs in the Caucasus, while Banu Taghlib founded the Hamdanid emirates of Mosul (905-990 CE) and Aleppo (944-1002 CE), whose ruler Sayf al-Dawla defended the Syrian frontier against Byzantium and patronized poet al-Mutanabbi and philosopher al-Farabi.",
+      "While northernmost Jaziran clans around Diyarbakir gradually assimilated with neighboring Kurdish and Aramaic communities, populous Arab Rabi'ah and Taghlibi confederations remained rooted along the Tigris and Euphrates plains of Iraq (around Wasit, Kut, Diyala, and Nineveh) and eastern Syria down to the present day."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "iyad-anmar",
+        "relation": "Absorbed earlier Iyadite Arab communities in Upper Mesopotamia."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Hamdanid dynasty (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hamdanid_dynasty",
+        "kind": "Reference"
+      },
+      {
+        "label": "Banu Shayban (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Shayban",
+        "kind": "Reference"
+      },
+      {
+        "label": "Diyar Bakr (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Diyar_Bakr",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "abdalqays-hanifah-anazah",
+    "parentId": "rabiah",
+    "name": "'Abd al-Qays, Hanifah & 'Anazah",
+    "nativeNames": "عبد القيس وبنو حنيفة وعنزة",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "Late Antiquity - Present",
+    "region": "north-arabia",
+    "territory": "Bahrain/Eastern Arabia, al-Yamamah (Riyadh) & Syrian Desert",
+    "cardRole": "Eastern Gulf, Yamamah & Steppe Confederations",
+    "summary": "Rabi'ah peoples of the Gulf coast, Wadi Hanifah, and the Syrian-Arabian steppe.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via 'Anazah & Gulf houses",
+      "detail": "Continues into the modern 'Anazah confederation, Baharna/eastern Arabian communities, and ruling houses of Saudi Arabia, Kuwait, and Bahrain."
+    },
+    "geo": {
+      "lat": 25.4,
+      "lng": 48.0,
+      "rxKm": 290,
+      "ryKm": 150,
+      "angle": -22,
+      "sites": [
+        { "name": "Wadi Hanifah (Diriyah/Riyadh)", "lat": 24.733, "lng": 46.575 },
+        { "name": "Al-Ahsa & Bahrain", "lat": 26.066, "lng": 50.557 }
+      ]
+    },
+    "history": [
+      "Within the wider Asad ibn Rabi'ah and Wa'il branches, 'Abd al-Qays inhabited historical Bahrain (covering al-Ahsa, Qatif, and the Bahrain islands) and parts of Oman, where many belonged to the Church of the East before sending an early peaceful delegation to Medina to accept Islam. Banu Hanifah (traced in Ibn al-Kalbi through Hanifah ibn Lujaym inside Bakr ibn Wa'il) settled the palm-fringed towns of Wadi Hanifah in al-Yamamah.",
+      "Banu 'Anazah, traced directly to 'Anazah ibn Asad ibn Rabi'ah, expanded northward from Khaybar and Najd across the northern Arabian and Syrian steppe, linking central Arabia to the Fertile Crescent."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "tamim-hudhayl",
+        "relation": "Shared central and eastern Arabian territory in Najd and Yamamah."
+      },
+      {
+        "id": "bakr-taghlib",
+        "relation": "Banu Hanifah stems genealogically from Lujaym of Bakr ibn Wa'il."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Abd al-Qays (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Abd_al-Qays",
+        "kind": "Reference"
+      },
+      {
+        "label": "Banu Hanifa (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Banu_Hanifa",
+        "kind": "Reference"
+      },
+      {
+        "label": "Anaza (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Anaza",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "anazah-arabian-houses",
+    "parentId": "abdalqays-hanifah-anazah",
+    "name": "'Anazah Confederation & Al Saud / Utub Houses",
+    "nativeNames": "قبيلة عنزة وآل سعود والعتوب",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "Early Modern - Present",
+    "region": "north-arabia",
+    "territory": "Najd (Riyadh), Kuwait, Bahrain, Northern Arabia, Jordan & Syria",
+    "cardRole": "Largest Modern Steppe Confederation & Three Gulf Royal Houses",
+    "summary": "Modern 'Anazah tribes (Ruwallah, Fed'an, 'Amarat) alongside the reigning Al Saud, Al Sabah, and Al Khalifa dynasties.",
+    "continuity": {
+      "status": "living",
+      "badge": "● Living lineage",
+      "detail": "Millions of 'Anazah tribespeople across Saudi Arabia, Syria, Jordan, and Iraq, plus the reigning royal houses of Saudi Arabia, Kuwait, and Bahrain."
+    },
+    "geo": {
+      "lat": 27.6,
+      "lng": 46.2,
+      "rxKm": 460,
+      "ryKm": 220,
+      "angle": -35,
+      "sites": [
+        { "name": "Diriyah / Riyadh (Al Saud)", "lat": 24.733, "lng": 46.575 },
+        { "name": "Kuwait (Al Sabah)", "lat": 29.376, "lng": 47.977 },
+        { "name": "Bahrain (Al Khalifa)", "lat": 26.228, "lng": 50.586 },
+        { "name": "Syrian Steppe (Ruwallah)", "lat": 32.2, "lng": 39.0 }
+      ]
+    },
+    "history": [
+      "From the seventeenth century onward, branches of Banu 'Anazah (including the Ruwallah, Fed'an, Sba'a, and 'Amarat) spread from northern Hejaz and Najd across the entire Badiyat ash-Sham into Jordan, Syria, and western Iraq, forming the largest Bedouin confederation in the modern Arab East.",
+      "Three modern Arabian monarchies trace ancestry within this Hanifah-Wa'il-'Anazah genealogical sphere: the House of Saud (Al Saud) of Diriyah in Wadi Hanifah (traced in Najdi chronicles to the Mrudah of Banu Hanifah with wider Wa'ili/'Anazah kinship), and the Bani 'Utbah ('Utub) houses of Al Sabah in Kuwait and Al Khalifa in Bahrain, who migrated from al-Aflaj in Najd to the Gulf coast in the eighteenth century."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "banu-hashim",
+        "relation": "Fellow contemporary Arab royal lineage alongside Jordan's Hashemites."
+      }
+    ],
+    "sources": [
+      {
+        "label": "House of Saud (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/House_of_Saud",
+        "kind": "Reference"
+      },
+      {
+        "label": "Bani Utbah: Al Sabah & Al Khalifa (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Bani_Utbah",
+        "kind": "Reference"
+      },
+      {
+        "label": "Rwala (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Rwala",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "iyad-anmar",
+    "parentId": "nizar",
+    "name": "Iyad & Anmar",
+    "nativeNames": "إياد وأنمار",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "3rd-8th c. CE (Bajilah/Khath'am Present)",
+    "region": "syria-mesopotamia",
+    "territory": "Lower Iraq (al-Hirah), Euphrates, Syria & Sarat Highlands",
+    "cardRole": "Early Mesopotamian & Highland Nizarite Branches",
+    "summary": "Smaller Nizarite branches: Iyad migrated early into Iraq, Syria, and Byzantine Anatolia; Anmar held Sarat valleys.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Iyad assimilated · Bajilah living",
+      "detail": "Iyad assimilated into Jaziran Rabi'ah and Anatolian populations after the 8th century CE, while Bajilah and Khath'am (linked either to Anmar or southern Kahlan) survive in southwestern Saudi Arabia and Iraq."
+    },
+    "geo": {
+      "lat": 32.0,
+      "lng": 44.3,
+      "rxKm": 250,
+      "ryKm": 120,
+      "angle": -35,
+      "sites": [
+        { "name": "Al-Hirah / 'Ayn Ubagh", "lat": 31.88, "lng": 44.49 },
+        { "name": "Sarat Highlands (Bajilah)", "lat": 19.85, "lng": 41.55 }
+      ]
+    },
+    "history": [
+      "Iyad ibn Nizar migrated early out of Tihamah and eastern Arabia into the plains of lower Iraq around 'Ayn Ubagh and al-Hirah, clashing with Sasanian king Shapur II before moving further north along the Euphrates into Syria (Homs and Qinnasrin) and across the Taurus border into Byzantine Anatolia after the seventh-century Arab-Byzantine wars, while individual Iyadite families such as Ibn Zuhr (Avenzoar) later flourished in al-Andalus.",
+      "Anmar ibn Nizar is linked in northern genealogies to the highland tribes of Bajilah and Khath'am in the Sarat mountains south of Ta'if (though rival southern genealogists claimed both for Kahlan of Qahtan after they settled beside Yemeni neighbors)."
+    ],
+    "traditions": [
+      "Arab Genealogy",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "nizar",
+        "relation": "Third and fourth sons of Nizar alongside Mudar and Rabi'ah."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Iyad (tribe) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Iyad_(tribe)",
+        "kind": "Reference"
+      },
+      {
+        "label": "Bajila (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Bajila",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "adbeel",
+    "parentId": "ishmael",
+    "name": "Adbeel (Idiba'ilu)",
+    "nativeNames": "אַדְבְּאֵל · Idiba'ilu",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / 8th c. BCE",
+    "region": "sinai-negev-edom",
+    "territory": "Northern Sinai & Gaza-Egypt Frontier",
+    "cardRole": "3rd Son of Ishmael · Sinai Frontier Wardens",
+    "summary": "Third Ishmaelite tribe, attested in Tiglath-Pileser III's annals (~734 BCE) on the border of Egypt.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced into Qedarite frontier",
+      "detail": "Succeeded along the northern Sinai and Gaza approaches to Egypt by Qedarite hegemony in the 7th-5th centuries BCE."
+    },
+    "geo": {
+      "lat": 31.05,
+      "lng": 33.95,
+      "rxKm": 105,
+      "ryKm": 60,
+      "angle": -15,
+      "sites": [
+        { "name": "Wadi el-Arish (Brook of Egypt)", "lat": 31.132, "lng": 33.803 },
+        { "name": "Gaza Frontier", "lat": 31.501, "lng": 34.467 }
+      ]
+    },
+    "history": [
+      "Listed third among Ishmael's sons (Genesis 25:13; 1 Chronicles 1:29), Adbeel matches the North Arabian tribe Idiba'ilu in the royal inscriptions of Assyrian emperor Tiglath-Pileser III.",
+      "After campaigning down the Philistine coast to Gaza and the Brook of Egypt (Wadi el-Arish) in 734 BCE, Tiglath-Pileser III appointed the Arab chief Idibi'ilu to the office of \"gatekeeper (or royal warden) facing Egypt\" (ana atuti / qeputi ina muhhi Musri), confirming that Adbeelite nomads controlled the desert approaches between southern Palestine and the Nile Delta, matching Genesis 25:18's western Ishmaelite boundary at \"Shur, which is opposite Egypt.\""
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals"
+    ],
+    "relatedIds": [
+      {
+        "id": "qedarites",
+        "relation": "Qedarites later succeeded Idiba'ilu as dominant power on the Egyptian frontier."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:13-18 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.13-18",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Adbeel (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Adbeel",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "mibsam",
+    "parentId": "ishmael",
+    "name": "Mibsam",
+    "nativeNames": "מִבְשָׂם",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / Iron Age",
+    "region": "sinai-negev-edom",
+    "territory": "Negev & Northwestern Arabian Trade Routes",
+    "cardRole": "4th Son of Ishmael · Spice-Route Clan",
+    "summary": "Fourth Ishmaelite clan whose name derives from balsam aromatics and recurs inside the Tribe of Simeon.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Absorbed into Simeon & NW Arabia",
+      "detail": "1 Chronicles 4:25 records Mibsam inside Simeon's Negev genealogy alongside Mishma, pointing to intermarriage and absorption."
+    },
+    "geo": {
+      "lat": 30.85,
+      "lng": 34.65,
+      "rxKm": 85,
+      "ryKm": 55,
+      "angle": -20,
+      "sites": [
+        { "name": "Negev Spice Track", "lat": 30.85, "lng": 34.65 }
+      ]
+    },
+    "history": [
+      "Mibsam appears fourth among Ishmael's twelve princes (Genesis 25:13; 1 Chronicles 1:29), carrying a Northwest Semitic name built on the root b-s-m (\"sweet spice\" or \"balsam\"). 1 Chronicles 4:25 lists the identical sequence \"Shallum, Mibsam, Mishma\" inside the genealogy of the southern Israelite tribe of Simeon in the Beersheba-Negev basin, which historians interpret as evidence that Ishmaelite clans of Mibsam and Mishma intermarried with and merged into semi-nomadic Simeonite pastoralists on the southern desert fringe."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "mishma",
+        "relation": "Paired immediately with Mishma both in Genesis 25:13-14 and in Simeon's list (1 Chr 4:25)."
+      },
+      {
+        "id": "simeon",
+        "relation": "Shared clan names in the southern Negev grazing zone."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:13 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.13",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 4:24-27 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.4.24-27",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Mibsam (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Mibsam",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "mishma",
+    "parentId": "ishmael",
+    "name": "Mishma",
+    "nativeNames": "מִשְׁמָע",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / Iron Age",
+    "region": "north-arabia",
+    "territory": "Nafud Margins (Jabal Misma) & Negev Fringe",
+    "cardRole": "5th Son of Ishmael · North Arabian Clan",
+    "summary": "Fifth Ishmaelite prince, linked to Jabal Misma in northern Arabia and to Negev Simeonite clans.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Absorbed into Simeon & N. Arabia",
+      "detail": "Western families merged into Simeon in the Negev (1 Chr 4:25-26), while inner Arabian clans left their toponym at Jabal Misma."
+    },
+    "geo": {
+      "lat": 27.65,
+      "lng": 40.05,
+      "rxKm": 115,
+      "ryKm": 65,
+      "angle": -25,
+      "sites": [
+        { "name": "Jabal Misma", "lat": 27.65, "lng": 40.05 }
+      ]
+    },
+    "history": [
+      "Mishma stands fifth in the Ishmaelite table (Genesis 25:14; 1 Chronicles 1:30). Historical geographers associate the name with Jabal Misma (Jabal Mishma) on the western edge of the An-Nafud desert between Tayma and Ha'il in northern Saudi Arabia, as well as the Classical tribe Maisaimaneis noted by Ptolemy northeast of Medina, while 1 Chronicles 4:25-26 records a western branch absorbed into Simeon in the Negev."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "mibsam",
+        "relation": "Paired with Mibsam in both Ishmaelite and Simeonite genealogies."
+      },
+      {
+        "id": "simeon",
+        "relation": "Shared clan presence in the Negev desert."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:14 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.14",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Mishma (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Mishma",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "dumah",
+    "parentId": "ishmael",
+    "name": "Dumah (Dumat al-Jandal)",
+    "nativeNames": "דּוּמָה · دومة الجندل · Adummatu",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / 8th c. BCE - Present",
+    "region": "north-arabia",
+    "territory": "Al-Jawf Basin (Dumat al-Jandal, Northern Saudi Arabia)",
+    "cardRole": "6th Son of Ishmael · Oasis Fortress of Adummatu",
+    "summary": "Eponym of the walled oasis of Dumat al-Jandal (Assyrian Adummatu) at the mouth of Wadi Sirhan.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Qedar, Nabataea & Kalb oasis",
+      "detail": "Served as royal sanctuary of the Qedarites, eastern stronghold of Nabataea, Kalbite Christian town, and living oasis of Dumat al-Jandal."
+    },
+    "geo": {
+      "lat": 29.811,
+      "lng": 39.868,
+      "rxKm": 105,
+      "ryKm": 70,
+      "angle": -28,
+      "sites": [
+        { "name": "Dumat al-Jandal (Marid)", "lat": 29.811, "lng": 39.868 }
+      ]
+    },
+    "history": [
+      "Sixth among Ishmael's sons (Genesis 25:14; cf. Isaiah 21:11, \"The oracle concerning Dumah\"), Dumah corresponds directly to the walled desert oasis of Dumat al-Jandal in Saudi Arabia's Al-Jawf province, commanding the southeastern gateway of Wadi Sirhan between Syria, Babylonia, and inner Arabia.",
+      "Around 690 BCE, Assyrian king Sennacherib besieged and captured \"Adummatu, situated in the desert,\" carrying off the cult images of the Arab deities (Atarsamain, Dai, Nuhai, Ruldaiu, Abirillu, and Atarquruma) along with the Arab queen Te'elhunu, who held the Akkadian priestly title apkallatu (\"female sage/diviner\"), to Nineveh; his son Esarhaddon later returned the refurbished statues to Qedarite king Hazael and installed Tabua (raised in Sennacherib's palace) as queen. The oasis endured under Nabataean, Roman, Kalbite, and Islamic rule, where its stone fortress Marid still stands."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "Archaeology",
+      "Islamic Tradition"
+    ],
+    "relatedIds": [
+      {
+        "id": "qedarites",
+        "relation": "Adummatu served as chief sanctuary and royal seat of Qedarite kings and queens."
+      },
+      {
+        "id": "qudaah",
+        "relation": "Ruled in late antiquity by princes of Banu Kalb and Kindah."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:14 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.14",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Isaiah 21:11-12 (Sefaria)",
+        "url": "https://www.sefaria.org/Isaiah.21.11-12",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Dumat al-Jandal (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Dumat_al-Jandal",
+        "kind": "Reference"
+      },
+      {
+        "label": "Dumah (son of Ishmael) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Dumah_(son_of_Ishmael)",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "massa",
+    "parentId": "ishmael",
+    "name": "Massa (Mas'a)",
+    "nativeNames": "מַשָּׂא · Mas'a",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / 8th-6th c. BCE",
+    "region": "north-arabia",
+    "territory": "Northern Arabia (Between Tayma & Al-Jawf)",
+    "cardRole": "7th Son of Ishmael · North Arabian Tribe & Wisdom Tradition",
+    "summary": "Seventh Ishmaelite tribe, attested alongside Tayma in Assyrian tribute lists and linked to Proverbs 30-31.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Coalesced in Tayma-Qedar sphere",
+      "detail": "Merged into the wider Taymanite and Qedarite desert confederations of northern Arabia."
+    },
+    "geo": {
+      "lat": 28.55,
+      "lng": 39.15,
+      "rxKm": 115,
+      "ryKm": 70,
+      "angle": -30,
+      "sites": [
+        { "name": "Tayma-Jawf Steppe", "lat": 28.55, "lng": 39.15 }
+      ]
+    },
+    "history": [
+      "Massa appears seventh in Genesis 25:14 and is directly attested in the 733-732 BCE annals of Tiglath-Pileser III, where the people of Mas'a and Tema (Tayma) send tribute of camels, dromedaries, and spices to Assyria. Ancient North Arabian (Taymanitic) inscriptions around Tayma likewise mention military actions involving Ms' (Massa).",
+      "Many biblical philologists read ha-Massa'i in Proverbs 30:1 (\"Agur son of Jakeh of Massa\") and Proverbs 31:1 (\"The words of Lemuel, king of Massa, which his mother taught him\") as references to royal wisdom literature originating from this North Arabian Ishmaelite polity, matching the Hebrew Bible's wider recognition of \"the wisdom of all the people of the East\" (1 Kings 4:30; MT 5:10)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "North Arabian Epigraphy"
+    ],
+    "relatedIds": [
+      {
+        "id": "tema",
+        "relation": "Paired directly with Tema (Tayma) in Tiglath-Pileser III's tribute annals."
+      },
+      {
+        "id": "teman",
+        "relation": "Fellow Near Eastern desert center renowned for wisdom sayings."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:14 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.14",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Proverbs 30:1 (Sefaria)",
+        "url": "https://www.sefaria.org/Proverbs.30.1",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Proverbs 31:1 (Sefaria)",
+        "url": "https://www.sefaria.org/Proverbs.31.1",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Massa (biblical figure) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Massa_(biblical_figure)",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "hadad",
+    "parentId": "ishmael",
+    "name": "Hadad (Hadar)",
+    "nativeNames": "חֲדַד · חֲדַר",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / Iron Age",
+    "region": "north-arabia",
+    "territory": "Northern Arabian & Syrian Steppe",
+    "cardRole": "8th Son of Ishmael · Desert Clan",
+    "summary": "Eighth Ishmaelite prince, spelled Hadad in the Leningrad Codex and 1 Chronicles 1:30 (and Hadar in later printings).",
+    "continuity": {
+      "status": "unattested",
+      "badge": "○ Unattested after Iron Age",
+      "detail": "Disappears as a separate ethnonym after the Iron Age; absorbed into North Arabian steppe confederations."
+    },
+    "geo": {
+      "lat": 30.85,
+      "lng": 38.05,
+      "rxKm": 95,
+      "ryKm": 60,
+      "angle": -30,
+      "sites": [
+        { "name": "Wadi Sirhan Steppe", "lat": 30.85, "lng": 38.05 }
+      ]
+    },
+    "history": [
+      "Eighth in the Ishmaelite genealogy, his name reads Hadad (with final dalet) in the Leningrad Codex of Genesis 25:15, 1 Chronicles 1:30, and the Samaritan Pentateuch, while later rabbinic printings and the King James Version read Hadar (with final resh) due to the visual similarity of the two Hebrew letters. Assyriologists have compared the clan tentatively with desert settlements along Wadi Sirhan and the Syrian steppe recorded during Ashurbanipal's seventh-century BCE Arab campaigns."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "ishmael",
+        "relation": "Eighth son in the twelve-prince confederation."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:15 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.15",
+        "kind": "Scripture"
+      },
+      {
+        "label": "1 Chronicles 1:30 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.1.30",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Ishmaelites (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ishmaelites",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "tema",
+    "parentId": "ishmael",
+    "name": "Tema (Oasis of Tayma)",
+    "nativeNames": "תֵּימָא · تيماء · Tema",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "2nd Mill. BCE - Present",
+    "region": "hejaz-west-arabia",
+    "territory": "Tayma Oasis, Northwest Saudi Arabia (Tabuk Region)",
+    "cardRole": "9th Son of Ishmael · Caravan Hub & Royal Capital of Nabonidus",
+    "summary": "Eponym of the walled oasis city of Tayma on the northern Incense Road, ten-year seat of Babylonian king Nabonidus.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Enduring oasis · Qedar/Nabataea",
+      "detail": "Passed from local Taymanite kings and Nabonidus (552-543 BCE) into Lihyanite, Nabataean, late antique Jewish-Arab (al-Samaw'al at al-Ablaq), and modern Tayma."
+    },
+    "geo": {
+      "lat": 27.629,
+      "lng": 38.548,
+      "rxKm": 105,
+      "ryKm": 70,
+      "angle": -35,
+      "sites": [
+        { "name": "Tayma Oasis (Qasr al-Ablaq)", "lat": 27.629, "lng": 38.548 }
+      ]
+    },
+    "history": [
+      "Ninth among Ishmael's sons (Genesis 25:15), Tema corresponds to the walled oasis of Tayma in northwestern Saudi Arabia (Assyrian Tema), where caravan trails from Saba' and Dedan branched north to Gaza and Damascus or northeast across the Nafud to Babylonia. Job 6:19 pairs \"the caravans of Tema\" with \"the travelers of Sheba,\" and Isaiah 21:14 praises the inhabitants of the land of Tema for bringing water and bread to desert fugitives.",
+      "Tayma developed its own indigenous North Arabian script (Taymanitic), multi-kilometer city walls, and Imperial Aramaic monuments such as the Tayma Stele (KAI 228, now in the Louvre) recording the priesthood of Salm of Hagam. From 552 to 543 BCE, the last Neo-Babylonian emperor Nabonidus conquered Tayma, slew its local king, and established his royal residence there for a decade while subduing six Hejaz oases named on his Harran Stele: Tema (Tayma), Dadanu (Dedan), Padakku (Fadak), Hibra (Khaybar), Yadihu (al-Ha'it), and Yatribu (Yathrib/Medina)."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Assyrian Annals",
+      "North Arabian Epigraphy",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "dadan-lihyan",
+        "relation": "Neighboring northern Hejaz oasis rival 110 km southwest at Al-'Ula."
+      },
+      {
+        "id": "massa",
+        "relation": "Paired with Massa in Tiglath-Pileser III's 733-732 BCE tribute lists."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Job 6:18-20 (Sefaria)",
+        "url": "https://www.sefaria.org/Job.6.18-20",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Jeremiah 25:23-24 (Sefaria)",
+        "url": "https://www.sefaria.org/Jeremiah.25.23-24",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Tayma (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tayma",
+        "kind": "Reference"
+      },
+      {
+        "label": "Tayma stones / KAI 228 (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tayma_stones",
+        "kind": "Epigraphy"
+      },
+      {
+        "label": "Tema (son of Ishmael) (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tema_(son_of_Ishmael)",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "jetur",
+    "parentId": "ishmael",
+    "name": "Jetur (Yatur)",
+    "nativeNames": "יְטוּר · يطور",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / Iron Age",
+    "region": "levant-canaan",
+    "territory": "East of Gilead, Bashan & Hauran Margins",
+    "cardRole": "10th Son of Ishmael · Ancestor of the Ituraeans",
+    "summary": "Tenth Ishmaelite prince whose tribe fought east of Gilead in 1 Chronicles 5 and pushed northwest into Syria-Lebanon.",
+    "continuity": {
+      "status": "continuing",
+      "badge": "Continues via Ituraeans",
+      "detail": "Migrated from eastern Gilead and Bashan into Mount Hermon, the Anti-Lebanon range, and the Bekaa Valley as the Ituraeans."
+    },
+    "geo": {
+      "lat": 32.85,
+      "lng": 36.25,
+      "rxKm": 95,
+      "ryKm": 60,
+      "angle": -20,
+      "sites": [
+        { "name": "Golan & Hauran", "lat": 32.85, "lng": 36.25 }
+      ]
+    },
+    "history": [
+      "Jetur stands tenth among Ishmael's twelve princes (Genesis 25:15; 1 Chronicles 1:31). In the Iron Age, Jetur's pastoralists ranged along the eastern borderlands of Gilead and Bashan, joining the Hagrites, Naphish, and Nodab against the Israelite Transjordanian tribes in 1 Chronicles 5:19. Over subsequent centuries, this tribal group migrated northwestward into the Golan, Mount Hermon, the Anti-Lebanon range, and the Bekaa Valley, emerging in Hellenistic and Roman histories as the Ituraeans."
+    ],
+    "traditions": [
+      "Hebrew Bible",
+      "Classical Historians"
+    ],
+    "relatedIds": [
+      {
+        "id": "ituraeans",
+        "relation": "Hellenistic and Roman-era Levantine principality descended from Jetur."
+      },
+      {
+        "id": "hagrites",
+        "relation": "Coalition partner east of the Jordan (1 Chr 5:19)."
+      }
+    ],
+    "sources": [
+      {
+        "label": "1 Chronicles 5:18-22 (Sefaria)",
+        "url": "https://www.sefaria.org/I_Chronicles.5.18-22",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Jetur (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Jetur",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "ituraeans",
+    "parentId": "jetur",
+    "name": "Ituraeans (Ituraea)",
+    "nativeNames": "Ἰτουραῖοι · Ituraei",
+    "kind": "people",
+    "branch": "ishmael",
+    "era": "2nd c. BCE - 2nd c. CE",
+    "region": "levant-canaan",
+    "territory": "Mount Lebanon, Bekaa Valley (Chalcis), Hermon & Trachonitis",
+    "cardRole": "Hellenistic-Roman Levantine Arab Principality",
+    "summary": "Highland principality in Lebanon, Anti-Lebanon, and northern Golan founded by descendants of Jetur.",
+    "continuity": {
+      "status": "absorbed",
+      "badge": "↳ Annexed into Judaea & Roman Syria",
+      "detail": "Southern Galilean/Golan communities were integrated into Hasmonean Judaea in 104-103 BCE, while northern Ituraea merged into provincial Roman Syria and Mount Hermon/Bekaa populations."
+    },
+    "geo": {
+      "lat": 33.72,
+      "lng": 35.95,
+      "rxKm": 95,
+      "ryKm": 55,
+      "angle": -62,
+      "sites": [
+        { "name": "Chalcis (Bekaa Valley)", "lat": 33.727, "lng": 35.933 },
+        { "name": "Heliopolis (Baalbek)", "lat": 34.006, "lng": 36.204 },
+        { "name": "Mount Hermon", "lat": 33.416, "lng": 35.857 }
+      ]
+    },
+    "history": [
+      "During the decline of the Seleucid Empire in the second and first centuries BCE, the Ituraeans (Greek Itouraioi, from Hebrew/Aramaic Yetur) established a tetrarchy centered at Chalcis in Lebanon's Bekaa Valley and the sanctuary city of Heliopolis (Baalbek), ruled by dynasts such as Ptolemy son of Mennaeus and Lysanias. Strabo, Cicero, and Julius Caesar's Commentaries note Ituraean auxiliary cohorts as skilled mounted and foot archers serving Roman armies from North Africa to the Danube.",
+      "According to Flavius Josephus (Antiquities 13.318-319), Hasmonean king Aristobulus I annexed a southern portion of Ituraean territory in 104-103 BCE and integrated its inhabitants into Jewish law, while northern Ituraea remained an autonomous tetrarchy mentioned in Luke 3:1 (\"Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene\") before full incorporation into Roman Syria."
+    ],
+    "traditions": [
+      "Classical Historians",
+      "Christian Scripture",
+      "Archaeology"
+    ],
+    "relatedIds": [
+      {
+        "id": "judah-jews",
+        "relation": "Southern Ituraeans were partially integrated into Hasmonean Judaea under Aristobulus I."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Josephus, Antiquities 13.318-319 (Lexundria)",
+        "url": "https://lexundria.com/j_aj/13.318-13.319/wst",
+        "kind": "Classical"
+      },
+      {
+        "label": "Iturea (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Iturea",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "naphish",
+    "parentId": "ishmael",
+    "name": "Naphish",
+    "nativeNames": "נָפִישׁ",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / Iron Age",
+    "region": "levant-canaan",
+    "territory": "Transjordanian Steppe East of Gilead & Hauran",
+    "cardRole": "11th Son of Ishmael · Transjordanian Camel Herders",
+    "summary": "Eleventh Ishmaelite tribe, allied with Jetur, Nodab, and the Hagrites on the eastern frontier of Gilead.",
+    "continuity": {
+      "status": "coalesced",
+      "badge": "↳ Hagrite league & Temple Nephusim",
+      "detail": "Fought inside the Hagrite steppe coalition east of Gilead (1 Chr 5:19), with captive descendants recorded among Jerusalem's post-exilic Nephusim (Ezra 2:50)."
+    },
+    "geo": {
+      "lat": 32.2,
+      "lng": 36.75,
+      "rxKm": 85,
+      "ryKm": 55,
+      "angle": -20,
+      "sites": [
+        { "name": "Eastern Gilead Steppe", "lat": 32.2, "lng": 36.75 }
+      ]
+    },
+    "history": [
+      "Listed eleventh among Ishmael's sons (Genesis 25:15; 1 Chronicles 1:31), Naphish pastured herds of camels and sheep on the basaltic steppe east of Gilead and Bashan. In 1 Chronicles 5:19-22 they fought beside the Hagrites, Jetur, and Nodab against Reuben, Gad, and half-Manasseh. Post-exilic census lists in Ezra 2:50 and Nehemiah 7:52 record \"the sons of Nephusim / Nephushesim\" among temple servants (Nethinim) returning to Jerusalem, which scholars connect to captives from this Ishmaelite tribe dedicated to sanctuary service during the monarchy."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "jetur",
+        "relation": "Paired ally in Genesis 25:15 and 1 Chronicles 5:19."
+      },
+      {
+        "id": "hagrites",
+        "relation": "Coalition partner east of the Jordan."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:15 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.15",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Ezra 2:50 (Sefaria)",
+        "url": "https://www.sefaria.org/Ezra.2.50",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Naphish (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Naphish",
+        "kind": "Reference"
+      }
+    ]
+  },
+  {
+    "id": "kedemah",
+    "parentId": "ishmael",
+    "name": "Kedemah",
+    "nativeNames": "קֵדְמָה",
+    "kind": "clan",
+    "branch": "ishmael",
+    "era": "Patriarchal / Iron Age",
+    "region": "syria-mesopotamia",
+    "territory": "Eastern Syro-Arabian Desert (Badiyat ash-Sham)",
+    "cardRole": "12th Son of Ishmael · Eastern Desert Nomads",
+    "summary": "Twelfth and youngest son of Ishmael, whose name (\"eastward\") links his clan to the \"People of the East.\"",
+    "continuity": {
+      "status": "unattested",
+      "badge": "○ Merged into Bene Qedem",
+      "detail": "Merged into the broader pastoral tribes of the Syrian-Arabian steppe ('Children of the East')."
+    },
+    "geo": {
+      "lat": 31.65,
+      "lng": 37.35,
+      "rxKm": 120,
+      "ryKm": 70,
+      "angle": -25,
+      "sites": [
+        { "name": "Badiyat ash-Sham", "lat": 31.65, "lng": 37.35 }
+      ]
+    },
+    "history": [
+      "Closing the roll of Ishmael's twelve princes (Genesis 25:15; 1 Chronicles 1:31), Kedemah carries a name meaning \"eastward,\" echoing the Hebrew designation Bene Qedem (\"Children of the East\") used for tent-dwelling tribes of the Syrian-Arabian desert between Ammon/Moab and the Euphrates (Genesis 29:1; Judges 6:3; Jeremiah 49:28; Ezekiel 25:4). Some geographers also connect the name to the wilderness of Kedemoth on the eastern desert margin of Moab (Deuteronomy 2:26)."
+    ],
+    "traditions": [
+      "Hebrew Bible"
+    ],
+    "relatedIds": [
+      {
+        "id": "kedar",
+        "relation": "Jeremiah 49:28 pairs Kedar directly with the \"kingdoms of Hazor\" and \"children of the East.\""
+      }
+    ],
+    "sources": [
+      {
+        "label": "Genesis 25:15 (Sefaria)",
+        "url": "https://www.sefaria.org/Genesis.25.15",
+        "kind": "Scripture"
+      },
+      {
+        "label": "Kedemah (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kedemah",
+        "kind": "Reference"
+      }
+    ]
+  }
+]
