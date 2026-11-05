@@ -2,6 +2,8 @@
 
 Interactive genealogical tree and geographic atlas mapping Abraham (`Avraham` / `Ibrahim`), his three maternal households (Hagar, Sarah, and Keturah), and 110 descendants, tribes, oasis kingdoms, and enduring peoples across Arabia, the Near East, and the Mediterranean traced to them in biblical texts, Neo-Assyrian and Ancient North Arabian inscriptions, classical historiography, and Arab genealogical tradition (`'Ilm al-Ansab`).
 
+**Live GitHub Pages site:** [https://walljmdotcom.github.io/abraham-descendants/](https://walljmdotcom.github.io/abraham-descendants/)
+
 ## Lineages, Convergence, and Geography
 
 - **Hagar and Ishmael (`public/data/ishmael-line.json`)**: Ishmael's twelve tribal princes (`Nebaioth`, `Kedar`, `Adbeel`, `Mibsam`, `Mishma`, `Dumah`, `Massa`, `Hadad`, `Tema`, `Jetur`, `Naphish`, `Kedemah`), the Transjordanian `Hagrites` and `Nodab`, `Qedarites`, `Ituraeans`, `Nabataeans`, `Roman Arabia Petraea`, and the northern Arabian `Adnan` -> `Ma'add` -> `Nizar` confederations (`Mudar`, `Quraysh & Kinanah`, `Banu Hashim` including the Hashemites, `Banu Umayyah`, `Qays 'Aylan`, `Hilal & Sulaym`, `Tamim & Hudhayl`, `Rabi'ah`, `Bakr & Taghlib`, `Diyar Rabi'ah & Hamdanids`, `'Abd al-Qays, Hanifah & 'Anazah`, `'Anazah & Modern Arabian Ruling Houses`, `Iyad & Anmar`, and `Quda'ah` -> `Juhaynah, Bali & Kalb`).
@@ -15,7 +17,7 @@ Interactive genealogical tree and geographic atlas mapping Abraham (`Avraham` / 
 All canonical tree entries, cross-links, and geographic vector layers live as JSON under `public/data/`.
 
 - **Local offline file (`index.html`)**: Open the repo-root `index.html` directly in a browser (`open index.html` on macOS). Browsers block `fetch()` against local `.json` files on `file://` URLs, so `scripts/build-local-html.mjs` generates `index.html` from `public/index.html` and embeds the `public/data/*.json` catalog and map geometry while referencing `public/css/` and `public/js/` in place.
-- **GitHub Pages and local HTTP (`public/index.html`)**: GitHub Pages deploys `public/`, where `public/js/tree-app.js` loads `public/data/catalog.json`, `public/data/near-east-geo.json`, and the five lineage JSON files via `fetch()`. To run the `fetch()` build locally over HTTP:
+- **GitHub Pages and local HTTP (`public/index.html`)**: Published from `main` via `.github/workflows/deploy-pages.yml` to [https://walljmdotcom.github.io/abraham-descendants/](https://walljmdotcom.github.io/abraham-descendants/). GitHub Pages deploys `public/`, where `public/js/tree-app.js` loads `public/data/catalog.json`, `public/data/near-east-geo.json`, and the five lineage JSON files via `fetch()`. To run the `fetch()` build locally over HTTP:
 
 ```sh
 python3 -m http.server 8080 -d public
